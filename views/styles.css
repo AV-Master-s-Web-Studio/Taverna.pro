@@ -4,20 +4,29 @@ html {
 }
 
 body {
+    font-size: 16px;
+    color: #f0f0f0;
     margin-bottom: 60px;
-    background-color: rgb(250, 250, 191);
+    background-color: rgb(36, 36, 36);
+    font-family: 'Oxygen', sans-serif;
 }
 
+
+/** HEADER SECTION **/
+
 #header-nav {
-    position: absolute;
     width: 100%;
-    height: 165px;
-    line-height: 60px;
-    text-align: center;
-    color: #ababab;
+    color: #f0f0f0;
     border-radius: 0;
     border: 0;
-    background-color: #363636;
+    background-color: #880000;
+}
+
+#logo-img {
+    background: url('../images/logo.jpg') no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
 }
 
 .navbar-brand {
@@ -25,8 +34,10 @@ body {
 }
 
 .navbar-brand h1 {
+    /* Restaurant name */
+    font-family: 'Oxygen', serif;
     color: #ababab;
-    font-size: 2.5em;
+    font-size: 1.5em;
     text-transform: uppercase;
     font-weight: bold;
     text-shadow: 1px 1px 1px #222;
@@ -35,20 +46,26 @@ body {
     line-height: .75;
 }
 
-#logo-img {
-    background: no-repeat url('/images/logo.jpg');
-    width: 150px;
-    height: 150px;
-    margin: 10px 15px 10px 0;
-}
-
 .navbar-brand a:hover,
 .navbar-brand a:focus {
     text-decoration: none;
 }
 
 #nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a {
     color: #ababab;
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: #e7e7e7;
+}
+
+#nav-list a span {
+    font-size: 1.8em;
 }
 
 .footer {
@@ -59,7 +76,7 @@ body {
     line-height: 60px;
     text-align: center;
     color: #ababab;
-    background-color: #363636;
+    background-color: #880000;
 }
 
 .helloInput {
