@@ -67,6 +67,7 @@
         #collapsable-nav a span {
             /* Collapsed nav menu glyph */
             font-size: 1em;
+            margin-right: 5px;
         }
         
         .navbar-brand a:hover,
