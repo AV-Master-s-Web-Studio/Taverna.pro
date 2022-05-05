@@ -184,6 +184,21 @@
                 background: url('../image/interior_768.jpg') no-repeat;
                 height: 432px;
             }
+            #menu-tile,
+            #specials-tile,
+            #map-tile {
+                height: 250px;
+                width: 100%;
+                margin-bottom: 15px;
+                position: relative;
+                border: 2px solid #ccbbaa;
+                overflow: hidden;
+            }
+            #menu-tile:hover,
+            #specials-tile:hover,
+            #map-tile:hover {
+                box-shadow: 0 1px 5px 1px #cccccc;
+            }
             /* End Home Page */
         }
         /* Extra-small devices only */
