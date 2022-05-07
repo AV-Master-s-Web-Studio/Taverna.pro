@@ -244,6 +244,28 @@
                 font-size: 0.8em;
                 margin-top: 10px;
             }
+            #collapsable-nav a {
+                font-size: 1.2em;
+            }
+            #collapsable-nav a span {
+                font-size: 1em;
+                margin-right: 5px;
+            }
+            #call-button>a {
+                font-size: 1.5em;
+                display: block;
+                margin: 0 20px;
+                padding: 10px;
+                border: 2px solid #cc0000;
+                background-color: #ccbbaa;
+                color: #880000;
+            }
+            #xs-deliver {
+                margin-top: 5px;
+                font-size: .7em;
+                letter-spacing: .1em;
+                text-transform: uppercase;
+            }
             #login-button {
                 font-size: 0.8em;
                 line-height: 20px;
@@ -254,6 +276,11 @@
             .container .jumbotron {
                 margin-top: 30px;
                 padding: 0;
+            }
+            #menu-tile,
+            #specials-tile {
+                width: 360px;
+                margin: 0 auto 15px;
             }
             /* End Home Page */
         }
