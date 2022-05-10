@@ -176,6 +176,10 @@
         .category-tile:hover {
             box-shadow: 0 1px 5px 1px #ccbbaa;
         }
+        
+        #menu-categories-title+div {
+            margin-bottom: 50px;
+        }
         /* End Menu Categories Page */
         /* Large devices only */
         
@@ -327,6 +331,31 @@
                 width: 50%;
             }
             /* End Footer */
+        }
+        /* Super extra small devices only*/
+        
+        @media (max-width: 479px) {
+            /* Header */
+            .navbar-brand h1 {
+                padding-top: 5px;
+                font-size: 6vw;
+            }
+            /* End Header */
+            /* Home Page */
+            #menu-tile,
+            #specials-tile {
+                width: 280px;
+                margin: 0 auto 15px;
+            }
+            .col-xxs-12 {
+                position: relative;
+                min-height: 1px;
+                padding-right: 15px;
+                padding-left: 15px;
+                float: left;
+                width: 100%;
+            }
+            /* End Home Page */
         }
         
         .jumbotron {
