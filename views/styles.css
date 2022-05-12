@@ -181,6 +181,16 @@
             margin-bottom: 50px;
         }
         /* End Menu Categories Page */
+        /* Single Category Page */
+        
+        .menu-item-tile {
+            margin-bottom: 25px;
+        }
+        
+        .menu-item-tile hr {
+            width: 80%;
+        }
+        /* End Single Category Page */
         /* Large devices only */
         
         @media (min-width: 1200px) {
