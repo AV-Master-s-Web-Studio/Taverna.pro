@@ -14,9 +14,11 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
     var dc = {};
 
     var homeHtmlUrl = "snippets/home-snippet.html";
+    // var allCategoriesUrl = "http://192.168.1.131/MenuCategories/categories.json";
     var allCategoriesUrl = "https://coursera-jhu-default-rtdb.firebaseio.com/categories.json";
     var categoriesTitleHtml = "snippets/categories-title-snippet.html";
     var categoryHtml = "snippets/category-snippet.html";
+    // var allCategoriesUrl = "http://192.168.1.131/MenuItems/";    
     var menuItemsUrl = "https://coursera-jhu-default-rtdb.firebaseio.com/menu_items/";
     var menuItemsTitleHtml = "snippets/menu-items-title.html";
     var menuItemHtml = "snippets/menu-item.html";
@@ -141,10 +143,12 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
 
     // Load the menu items view
     // 'categoryShort' is a short_name for a category
-    dc.loadMenuItems = function(categoryShort) {
+ dc.loadMenuItems = function(categoryShort) {
         showLoading("#main-content");
+        chosenCategoryUrl = menuItemsUrl + categoryShort + '.json';
+        console.log(chosenCategoryUrl); 
         $ajaxUtils.sendGetRequest(
-            menuItemsUrl + categoryShort,
+            chosenCategoryUrl,
             buildAndShowMenuItemsHTML);
     };
 
