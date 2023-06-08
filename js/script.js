@@ -15,10 +15,11 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
 
     var homeHtmlUrl = "snippets/home-snippet.html";
     var allCategoriesUrl = "http://192.168.1.115/MenuCategories/categories.json";
+    var barCategoriesUrl = "http://192.168.1.115/MenuCategories/barcategories.json";
     // var allCategoriesUrl = "https://coursera-jhu-default-rtdb.firebaseio.com/categories.json";
     var categoriesTitleHtml = "snippets/categories-title-snippet.html";
     var categoryHtml = "snippets/category-snippet.html";
-    // var allCategoriesUrl = "http://192.168.1.131/MenuItems/";    
+    // var menuItemsUrl = "http://192.168.1.115/MenuItems/";    
     var menuItemsUrl = "https://coursera-jhu-default-rtdb.firebaseio.com/menu_items/";
     var menuItemsTitleHtml = "snippets/menu-items-title.html";
     var menuItemHtml = "snippets/menu-item.html";
@@ -131,6 +132,13 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
             buildAndShowCategoriesHTML);
     };
 
+    // Load the bar categories view
+    dc.loadBarCategories = function() {
+        showLoading("#main-content");
+        $ajaxUtils.sendGetRequest(
+            barCategoriesUrl,
+            buildAndShowCategoriesHTML);
+    };
 
     // Load the menu items view
     // 'categoryShort' is a short_name for a category
