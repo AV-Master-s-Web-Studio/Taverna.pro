@@ -14,8 +14,8 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
     var dc = {};
 
     var homeHtmlUrl = "snippets/home-snippet.html";
-    var allCategoriesUrl = "http://192.168.1.115/MenuCategories/categories.json";
-    var barCategoriesUrl = "http://192.168.1.115/MenuCategories/barcategories.json";
+    var allCategoriesUrl = "http://192.168.1.131/MenuCategories/categories.json";
+    var barCategoriesUrl = "http://192.168.1.131/MenuCategories/barcategories.json";
     // var allCategoriesUrl = "https://coursera-jhu-default-rtdb.firebaseio.com/categories.json";
     var categoriesTitleHtml = "snippets/categories-title-snippet.html";
     var categoryHtml = "snippets/category-snippet.html";
