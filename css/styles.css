@@ -108,7 +108,7 @@
         }
         
         #menu-tile,
-        #specials-tile,
+        #bar-tile,
         #map-tile {
             height: 250px;
             width: 100%;
@@ -119,7 +119,7 @@
         }
         
         #menu-tile:hover,
-        #specials-tile:hover,
+        #bar-tile:hover,
         #map-tile:hover {
             box-shadow: 0 1px 5px 1px #ccbbaa;
         }
@@ -129,13 +129,13 @@
             background-position: center;
         }
         
-        #specials-tile {
-            background: url('../images/specials-tile.jpg') no-repeat;
+        #bar-tile {
+            background: url('../images/bar-tile.jpg') no-repeat;
             background-position: center;
         }
         
         #menu-tile span,
-        #specials-tile span,
+        #bar-tile span,
         #map-tile span {
             position: absolute;
             bottom: 0;
@@ -368,7 +368,7 @@
                 padding: 0;
             }
             #menu-tile,
-            #specials-tile {
+            #bar-tile {
                 width: 360px;
                 margin: 0 auto 15px;
             }
@@ -407,7 +407,7 @@
             /* End Header */
             /* Home Page */
             #menu-tile,
-            #specials-tile {
+            #bar-tile {
                 width: 280px;
                 margin: 0 auto 15px;
             }
