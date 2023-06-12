@@ -1,0 +1,64 @@
+{
+  "category": {
+    "id": 1,
+    "name": "Закуски",
+    "short_name": "X",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "Деруни з беконом та грибним соусом",
+      "large_portion_name": "300г.",
+      "name": "Деруни з беконом та грибним соусом",
+      "price_large": 90,
+      "price_small": 65,
+      "short_name": "X1",
+      "small_portion_name": "120/30/30г."
+    },
+    {
+      "description": "солодка паприка, огірок, мікс салатів, зелень",
+      "large_portion_name": "350г.",
+      "name": "Овочева тарілка",
+      "price_large": 105,
+      "price_small": 85,
+      "short_name": "X2",
+      "small_portion_name": "250г."
+    },
+    {
+      "description": "оселедець с/с, цибуля, лимон, зелень, бородинський хліб",
+      "large_portion_name": "large",
+      "name": "Оселедець під горілочку",
+      "price_large": 40,
+      "price_small": 40,
+      "short_name": "X3",
+      "small_portion_name": "170/90г."
+    },
+    {
+      "description": "4 види сиру, мед, горіхи",
+      "large_portion_name": "270/30г.",
+      "name": "Сирна дошка",
+      "price_large": 120,
+      "price_small": 120,
+      "short_name": "X4",
+      "small_portion_name": "270/30г."
+    },
+    {
+      "description": "класичний салат Цезар",
+      "large_portion_name": "200/30г.",
+      "name": "Сирні палички",
+      "price_large": 65,
+      "price_small": 65,
+      "short_name": "X5",
+      "small_portion_name": "200/30г."
+    },
+    {
+      "description": "яйця, хліб зерновий, пармська шинка, сир моцарелла черрі",
+      "large_portion_name": "150г.",
+      "name": "Яйця Пашот на брускеті",
+      "price_large": 50,
+      "price_small": 50,
+      "short_name": "X6",
+      "small_portion_name": "150г."
+    }
+  ]
+}
