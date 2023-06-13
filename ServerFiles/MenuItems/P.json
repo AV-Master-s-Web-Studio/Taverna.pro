@@ -1,0 +1,37 @@
+{
+  "category": {
+    "id": 2,
+    "name": "Паста",
+    "short_name": "P",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "Паста класична карбонара",
+      "large_portion_name": "190г.",
+      "name": "Паста класична карбонара",
+      "price_large": 73,
+      "price_small": 73,
+      "short_name": "P1",
+      "small_portion_name": "190г."
+    },
+    {
+      "description": "Паста болон`єзе",
+      "large_portion_name": "250г.",
+      "name": "Паста болон`єзе",
+      "price_large": 90,
+      "price_small": 90,
+      "short_name": "P2",
+      "small_portion_name": "250г."
+    },    
+    {
+      "description": "Пельмені",
+      "large_portion_name": "200/40г.",
+      "name": "Пельмені",
+      "price_large": 88,
+      "price_small": 88,
+      "short_name": "P3",
+      "small_portion_name": "200/40г."
+    }
+  ]
+}

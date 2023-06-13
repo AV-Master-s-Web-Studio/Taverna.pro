@@ -52,13 +52,76 @@
       "small_portion_name": "240г."
     },
     {
-      "description": "язик телячий, філе куряче, шинка, яйце куряче,",
-      "large_portion_name": "350г.",
+      "description": "язик телячий, філе куряче, шинка, яйце куряче, паприка, маслини, соус",
+      "large_portion_name": "240г.",
       "name": "Чоловічий каприз",
       "price_large": 120,
-      "price_small": 90,
+      "price_small": 120,
       "short_name": "Y6",
       "small_portion_name": "240г."
-    }
+    },
+    {
+      "description": "свинина, перепелине яйце, сир моцарела чері, томат, маслини, мікс салатів, соус",
+      "large_portion_name": "240г.",
+      "name": "Милі крихітки",
+      "price_large": 115,
+      "price_small": 115,
+      "short_name": "Y7",
+      "small_portion_name": "240г."
+    },
+    {
+      "description": "лосось, авокадо, в'ялений томат, рукола, соус імбирний, кунжут",
+      "large_portion_name": "240г.",
+      "name": "Салат з лососем і авокадо",
+      "price_large": 165,
+      "price_small": 165,
+      "short_name": "Y8",
+      "small_portion_name": "240г."
+    },
+    {
+      "description": "телятина, печериці, огірок, мікс салатів, червона цибуля, лимон, соус теріякі",
+      "large_portion_name": "230г.",
+      "name": "Салат з телятиною під соусом теріякі",
+      "price_large": 135,
+      "price_small": 135,
+      "short_name": "Y9",
+      "small_portion_name": "230г."
+    },
+    {
+      "description": "пармська шинка, сир пармезан, груша, мікс салатів, томат, соус песто",
+      "large_portion_name": "180г.",
+      "name": "Салат пармський",
+      "price_large": 110,
+      "price_small": 110,
+      "short_name": "Y10",
+      "small_portion_name": "180г."
+    },
+    {
+      "description": "свинина, томат, мікс салатів, огірок, паприка, спаржа, червона цибуля, соус",
+      "large_portion_name": "190г.",
+      "name": "Салат Verro",
+      "price_large": 96,
+      "price_small": 90,
+      "short_name": "Y11",
+      "small_portion_name": "190г."
+    },
+    {
+      "description": "філе куряче, шинка, мікс салатів, томат, цибуля, вершковий соус",
+      "large_portion_name": "300г.",
+      "name": "Теплий салат з шинкою",
+      "price_large": 120,
+      "price_small": 120,
+      "short_name": "Y12",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "мікс салатів, томат, огірок, червона цибуля, паприка, спаржа",
+      "large_portion_name": "180г.",
+      "name": "Салат овочевий",
+      "price_large": 85,
+      "price_small": 85,
+      "short_name": "Y13",
+      "small_portion_name": "180г."
+    }            
   ]
 }

@@ -12,9 +12,35 @@
       "name": "Солянка",
       "price_large": 60,
       "price_small": 60,
-      "short_name": "Y1",
+      "short_name": "S1",
       "small_portion_name": "300г."
+    },
+    {
+      "description": "Бульйон курячий",
+      "large_portion_name": "300г.",
+      "name": "Бульйон курячий",
+      "price_large": 40,
+      "price_small": 40,
+      "short_name": "S2",
+      "small_portion_name": "300г."
+    },    
+    {
+      "description": "Крем-суп грибний",
+      "large_portion_name": "300г.",
+      "name": "Крем-суп грибний",
+      "price_large": 65,
+      "price_small": 65,
+      "short_name": "S3",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "Крем-суп сирний",
+      "large_portion_name": "250г.",
+      "name": "Крем-суп сирний",
+      "price_large": 73,
+      "price_small": 73,
+      "short_name": "S4",
+      "small_portion_name": "250г."
     }
-
   ]
 }
