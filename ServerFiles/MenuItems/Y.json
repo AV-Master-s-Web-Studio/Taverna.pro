@@ -7,47 +7,47 @@
   },
   "menu_items": [
     {
-      "description": "chunks of chicken, breaded and deep-fried with sauce containing orange peels",
-      "large_portion_name": "300г.",
+      "description": "томат, огірок, паприка, червона цибуля, мікс салатів, сир фета, маслини",
+      "large_portion_name": "200г.",
       "name": "Салат Грецький",
-      "price_large": 90,
-      "price_small": 65,
+      "price_large": 95,
+      "price_small": 95,
       "short_name": "Y1",
       "small_portion_name": "200г."
     },
     {
       "description": "лосоь слабосолоний, томат, сир фета, мікс салатів, лимон, кунжут, соус теріякі",
-      "large_portion_name": "350г.",
+      "large_portion_name": "250г.",
       "name": "Салат з лососем під соусом теріякі",
-      "price_large": 105,
-      "price_small": 85,
+      "price_large": 145,
+      "price_small": 145,
       "short_name": "Y2",
       "small_portion_name": "250г."
     },
     {
-      "description": "white meat chicken sauteed with string beans and soy sauce",
-      "large_portion_name": "large",
-      "name": "Салат з печінкою",
-      "price_large": 14.95,
-      "price_small": 10.95,
+      "description": "печінка куряча, печериці, томати, мікс салатів, гецький соус",
+      "large_portion_name": "250г.",
+      "name": "Салат з курячою печінкою під грецькою заправкою",
+      "price_large": 155,
+      "price_small": 155,
       "short_name": "Y3",
-      "small_portion_name": "pint"
+      "small_portion_name": "250г."
     },
     {
       "description": "телятина, томат, паприка, баклажан, мікс салатів, пряне масло",
-      "large_portion_name": "350г.",
+      "large_portion_name": "230г.",
       "name": "Салат з телятиною та запеченими овочами",
-      "price_large": 120,
-      "price_small": 80,
+      "price_large": 135,
+      "price_small": 135,
       "short_name": "Y4",
       "small_portion_name": "230г."
     },
     {
-      "description": "класичний салат Цезар",
-      "large_portion_name": "350г.",
+      "description": "куряче філе, бекон, яйце перепелине, томат, мікс салатів, сир пармезан, грінки, соус",
+      "large_portion_name": "240г.",
       "name": "Салат Цезар",
-      "price_large": 110,
-      "price_small": 80,
+      "price_large": 130,
+      "price_small": 130,
       "short_name": "Y5",
       "small_portion_name": "240г."
     },

@@ -77,7 +77,7 @@
       "price_small": 170,
       "short_name": "X8",
       "small_portion_name": "500г."
-    }
+    },
     {
       "description": "пармська шинка, салямі, бекон, шинка, зелень",
       "large_portion_name": "200г.",
@@ -86,7 +86,7 @@
       "price_small": 110,
       "short_name": "X9",
       "small_portion_name": "200г."
-    }
+    },
     {
       "description": "бекон, шинка, сир моцарела чері, зелень, томат, рукола, яйце, соус песто, хліб зерновий",
       "large_portion_name": "300г.",
@@ -95,7 +95,7 @@
       "price_small": 75,
       "short_name": "X10",
       "small_portion_name": "300г."
-    }  
+    },  
     {
       "description": "бекон, підчеревина, сальце свіже, сало мелене з часником",
       "large_portion_name": "180/90/30г.",
@@ -104,7 +104,7 @@
       "price_small": 140,
       "short_name": "X11",
       "small_portion_name": "180/90/30г."
-    }     
+    },     
     {
       "description": "лаваш, овочі, курка, соус",
       "large_portion_name": "180г.",
@@ -113,6 +113,33 @@
       "price_small": 112,
       "short_name": "X12",
       "small_portion_name": "300г."
-    }     
+    },
+    {
+      "description": "яйця, печериці, вершки, сир моцарела, томат",
+      "large_portion_name": "250г.",
+      "name": "Фрітата з печерицями та сиром",
+      "price_large": 75,
+      "price_small": 75,
+      "short_name": "X13",
+      "small_portion_name": "250г."
+    },
+    {
+      "description": "яйця, вершки, томат, сир пармезан, сир моцарела, маслини",
+      "large_portion_name": "240г.",
+      "name": "Фрітата з томатом і сиром",
+      "price_large": 75,
+      "price_small": 75,
+      "short_name": "X14",
+      "small_portion_name": "240г."
+    },
+    {
+      "description": "огірок малосольний, капуста пелюстка, капуста квашена, морква по-корейськи",
+      "large_portion_name": "270г.",
+      "name": "Соління",
+      "price_large": 75,
+      "price_small": 75,
+      "short_name": "X15",
+      "small_portion_name": "270г."
+    }                    
   ]
 }
