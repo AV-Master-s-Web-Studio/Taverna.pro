@@ -1,0 +1,20 @@
+{
+  "category": {
+    "id": 2,
+    "name": "Супи",
+    "short_name": "S",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "Солянка",
+      "large_portion_name": "300г.",
+      "name": "Солянка",
+      "price_large": 60,
+      "price_small": 60,
+      "short_name": "Y1",
+      "small_portion_name": "300г."
+    }
+
+  ]
+}
