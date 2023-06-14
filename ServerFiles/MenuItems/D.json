@@ -1,0 +1,62 @@
+{
+  "category": {
+    "id": 8,
+    "name": "Десерти",
+    "short_name": "D",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "Сирники, сметана, топінг",
+      "large_portion_name": "200/30/15г.",
+      "name": "Сирники по-домашньому",
+      "price_large": 88,
+      "price_small": 88,
+      "short_name": "D1",
+      "small_portion_name": "200/30/15г."
+    },
+    {
+      "description": "Шоколадний фондан, морозиво",
+      "large_portion_name": "100/50г.",
+      "name": "Шоколадний фондан",
+      "price_large": 65,
+      "price_small": 65,
+      "short_name": "D2",
+      "small_portion_name": "100/50г."
+    },    
+    {
+      "description": "Чізкейк",
+      "large_portion_name": "за 100г.",
+      "name": "Чізкейк",
+      "price_large": 52,
+      "price_small": 52,
+      "short_name": "D3",
+      "small_portion_name": "за 100г."
+    },
+    {
+      "description": "Морозиво",
+      "large_portion_name": "110г.",
+      "name": "Морозиво",
+      "price_large": 85,
+      "price_small": 85,
+      "short_name": "D4",
+      "small_portion_name": "110г."
+    },
+{
+      "description": "Тірамісу",
+      "large_portion_name": "125г",
+      "name": "Тірамісу",
+      "price_large": 65,
+      "price_small": 65,
+      "short_name": "D5",
+      "small_portion_name": "125г."
+    },
+    {
+      "description": "Наполеон",
+      "large_portion_name": "110г.",
+      "name": "Наполеон",
+      "price_large": 85,
+      "price_small": 85,
+      "short_name": "D6",
+      "small_portion_name": "110г."
+    }  
