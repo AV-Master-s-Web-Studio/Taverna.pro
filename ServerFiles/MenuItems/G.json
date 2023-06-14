@@ -34,12 +34,21 @@
       "small_portion_name": "340г."
     },
     {
+      "description": "картопля, вершки, спеції",
+      "large_portion_name": "200г.",
+      "name": "Картопляне пюре з вершками",
+      "price_large": 95,
+      "price_small": 95,
+      "short_name": "G4",
+      "small_portion_name": "200г."
+    },    
+    {
       "description": "Картопля фрі",
       "large_portion_name": "170г.",
       "name": "Картопля фрі",
       "price_large": 48,
       "price_small": 48,
-      "short_name": "G4",
+      "short_name": "G5",
       "small_portion_name": "170г."
     },    
     {
@@ -48,7 +57,7 @@
       "name": "картопля по-селянськи",
       "price_large": 53,
       "price_small": 53,
-      "short_name": "G5",
+      "short_name": "G6",
       "small_portion_name": "210г."
     },
     {
@@ -57,9 +66,9 @@
       "name": "Овочеве рагу з ковбасками ",
       "price_large": 95,
       "price_small": 95,
-      "short_name": "G6",
+      "short_name": "G7",
       "small_portion_name": "350г."
-    }    
+    }  
   ]    
   ]
 }
