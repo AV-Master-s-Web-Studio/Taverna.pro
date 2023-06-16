@@ -13,17 +13,17 @@
       "price_large": 168,
       "price_small": 168,
       "short_name": "O1",
-      "small_portion_name": "200/30."
+      "small_portion_name": "200/30г."
     },
     {
-      "description": "сейк свинний у медово-гірчичному соусі",
+      "description": "стейк свинний у медово-гірчичному соусі",
       "large_portion_name": "200/30г.",
       "name": "Сейк свинний у медово-гірчичному соусі",
       "price_large": 155,
       "price_small": 155,
       "short_name": "O2",
-      "small_portion_name": "200/30."
-    },    
+      "small_portion_name": "200/30г."
+    },
     {
       "description": "стейк свинний із ошийка",
       "large_portion_name": "200/50г.",
@@ -41,7 +41,7 @@
       "price_small": 135,
       "short_name": "O4",
       "small_portion_name": "300г."
-    },  
+    },
     {
       "description": "куряче філе, бекон, моцарела,мікс салатів, помідор, морква по-корейськи",
       "large_portion_name": "1400г.",
@@ -50,7 +50,7 @@
       "price_small": 165,
       "short_name": "O5",
       "small_portion_name": "1400г."
-    },    
+    },
     {
       "description": "відбивна зі свинини ",
       "large_portion_name": "110г.",
@@ -79,20 +79,20 @@
       "small_portion_name": "300."
     },
     {
-      "description": "курячі сердечка у вершковуму соусі",
+      "description": "курячі сердечка у вершковому соусі",
       "large_portion_name": "350г.",
-      "name": "Курячі сердечка у вершковуму соусі",
+      "name": "Курячі сердечка у вершковому соусі",
       "price_large": 148,
-      "price_small": 75148,
+      "price_small": 148,
       "short_name": "O9",
       "small_portion_name": "350г."
-    },    
+    },
     {
       "description": "м`ясо свинини, цибуля, томатний соус",
       "large_portion_name": "300г.",
       "name": "М`ясна пательня",
       "price_large": 165,
-      "price_small": 96165,
+      "price_small": 165,
       "short_name": "O10",
       "small_portion_name": "300г."
     },
@@ -104,11 +104,11 @@
       "price_small": 220,
       "short_name": "O11",
       "small_portion_name": "350г."
-    },    
+    },
     {
       "description": "філе білої рибки, печериці, вершки, спеції ",
       "large_portion_name": "300г.",
-      "name": "Пательня з рибкою під крибним соусом",
+      "name": "Пательня з рибкою під грибним соусом",
       "price_large": 170,
       "price_small": 170,
       "short_name": "O12",
@@ -122,7 +122,7 @@
       "price_small": 170,
       "short_name": "O13",
       "small_portion_name": "300г."
-    },  
+    },
     {
       "description": "стейк лосося, соус тартар, лимон",
       "large_portion_name": "за 100г.",
@@ -131,7 +131,7 @@
       "price_small": 140,
       "short_name": "O15",
       "small_portion_name": "за 100г."
-    },    
+    },
     {
       "description": "макрель, яйце, печериці, сир моцарела, лимон ",
       "large_portion_name": "250г.",
@@ -160,13 +160,13 @@
       "small_portion_name": "700/30/30г."
     },
     {
-      "description": "курячі крильця під-медово-гірчічному соусі,мисливські ковбаски, курячий та свинний шашлик,картопля по-селянські, соус шашличний, соус майонезно-часниковий",
+      "description": "курячі крильця під-медово-гірчічним соусом, мисливські ковбаски, курячий та свинний шашлик,картопля по-селянські, соус шашличний, соус майонезно-часниковий",
       "large_portion_name": "950/30/30г.",
       "name": "М`ясна тарілка",
       "price_large": 310,
       "price_small": 310,
       "short_name": "O19",
       "small_portion_name": "950/30/30г."
-    }        
-  ]    
+    }
+  ]
 }

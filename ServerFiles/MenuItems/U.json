@@ -9,7 +9,7 @@
     {
       "description": "вершки, куряче філе, томат, яйце перепелине, листя салату,сир моцарела, сир пармезан",
       "large_portion_name": "400г.",
-      "name": "Цзар",
+      "name": "Цезар",
       "price_large": 154,
       "price_small": 154,
       "short_name": "U1",
@@ -23,7 +23,7 @@
       "price_small": 155,
       "short_name": "U2",
       "small_portion_name": "480г."
-    },    
+    },
     {
       "description": "соус, сири: дор-блю, моцарела, пармезан, радомер.",
       "large_portion_name": "400г.",
@@ -41,7 +41,7 @@
       "price_small": 148,
       "short_name": "U4",
       "small_portion_name": "420г."
-    },  
+    },
     {
       "description": "соус, сир моцарела, салямі, шинка, бекон, мисливські ковбаски.",
       "large_portion_name": "390г.",
@@ -50,7 +50,7 @@
       "price_small": 112,
       "short_name": "U5",
       "small_portion_name": "390г."
-    },    
+    },
     {
       "description": "вершки, куряче філе, сир моцарела, ананаси. ",
       "large_portion_name": "400г.",
@@ -86,7 +86,7 @@
       "price_small": 118,
       "short_name": "U9",
       "small_portion_name": "450г."
-    },    
+    },
     {
       "description": "соус, сир моцарела, печериці, мисливські ковбаски, ковбаски гриль.",
       "large_portion_name": "400г.",
@@ -104,7 +104,7 @@
       "price_small": 220,
       "short_name": "U11",
       "small_portion_name": "350г."
-    },    
+    },
     {
       "description": "філе білої рибки, печериці, вершки, спеції ",
       "large_portion_name": "300г.",
@@ -122,7 +122,7 @@
       "price_small": 170,
       "short_name": "U13",
       "small_portion_name": "300г."
-    },  
+    },
     {
       "description": "стейк лосося, соус тартар, лимон",
       "large_portion_name": "за 100г.",
@@ -131,7 +131,7 @@
       "price_small": 140,
       "short_name": "U15",
       "small_portion_name": "за 100г."
-    },    
+    },
     {
       "description": "макрель, яйце, печериці, сир моцарела, лимон ",
       "large_portion_name": "250г.",
@@ -150,6 +150,5 @@
       "short_name": "U17",
       "small_portion_name": "150г."
     }
-            
-  ]    
+  ]
 }
