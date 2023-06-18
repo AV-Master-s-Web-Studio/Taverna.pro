@@ -23,7 +23,7 @@
       "price_small": 60,
       "short_name": "T2",
       "small_portion_name": "180/30г."
-    },    
+    },
     {
       "description": "лаваш, моцарела, курятина, помідор, соус майонезно-часниковий",
       "large_portion_name": "215/30г.",
@@ -41,16 +41,16 @@
       "price_small": 65,
       "short_name": "T4",
       "small_portion_name": "215/30г."
-    },    
+    },
     {
       "description": "Фокачча, часникове масло, розмарин",
       "large_portion_name": "200г.",
-      "name": "Фокчча з часником та розмарином",
+      "name": "Фокачча з часником та розмарином",
       "price_large": 53,
       "price_small": 53,
       "short_name": "T5",
       "small_portion_name": "200г."
-    },    
+    },
     {
       "description": "Фокачча, пармезан",
       "large_portion_name": "200г.",
@@ -77,6 +77,6 @@
       "price_small": 68,
       "short_name": "T8",
       "small_portion_name": "210г."
-    }     
-  ]    
+    }
+  ]
 }
