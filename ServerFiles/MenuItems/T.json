@@ -43,36 +43,36 @@
       "small_portion_name": "215/30г."
     },
     {
-      "description": "Фокачча, часникове масло, розмарин",
+      "description": "Фокача, часникове масло, розмарин",
       "large_portion_name": "200г.",
-      "name": "Фокачча з часником та розмарином",
+      "name": "Фокача з часником та розмарином",
       "price_large": 53,
       "price_small": 53,
       "short_name": "T5",
       "small_portion_name": "200г."
     },
     {
-      "description": "Фокачча, пармезан",
+      "description": "Фокача, пармезан",
       "large_portion_name": "200г.",
-      "name": "Фокачча з пармезаном",
+      "name": "Фокача з пармезаном",
       "price_large": 58,
       "price_small": 58,
       "short_name": "T6",
       "small_portion_name": "200г."
     },
     {
-      "description": "Фокачча, пармезан, соус песто",
+      "description": "Фокача, пармезан, соус песто",
       "large_portion_name": "210г.",
-      "name": "Фокачча з пармезаном та соусом песто",
+      "name": "Фокача з пармезаном та соусом песто",
       "price_large": 63,
       "price_small": 63,
       "short_name": "T7",
       "small_portion_name": "210г."
     },
     {
-      "description": "Фокачча, масло чілі, анчоуси",
+      "description": "Фокача, масло чілі, анчоуси",
       "large_portion_name": "210г.",
-      "name": "Фокачча з перцес чілі та анчоусами",
+      "name": "Фокача з перцем чілі та анчоусами",
       "price_large": 68,
       "price_small": 68,
       "short_name": "T8",
