@@ -19,8 +19,8 @@
       "description": "",
       "large_portion_name": "500мл.",
       "name": "Настоянка Козацька рада перцева",
-      "price_large": 350,
-      "price_small": 35,
+      "price_large": 220,
+      "price_small": 22,
       "short_name": "BA2",
       "small_portion_name": "50мл."
     },
@@ -28,8 +28,8 @@
       "description": "",
       "large_portion_name": "500мл.",
       "name": "Цельсій Лайт",
-      "price_large": 300,
-      "price_small": 30,
+      "price_large": 220,
+      "price_small": 22,
       "short_name": "BA3",
       "small_portion_name": "50мл."
     },
