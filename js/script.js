@@ -302,7 +302,7 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
     }
 
 
-    // Appends price with '$' if price exists
+    // Appends price with 'грн' if price exists
     function insertItemPrice(html,
         pricePropName,
         priceValue) {
