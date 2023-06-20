@@ -1,0 +1,46 @@
+{
+  "category": {
+    "id": 21,
+    "name": "Горілка",
+    "short_name": "BA",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "Козацька рада класична",
+      "price_large": 220,
+      "price_small": 22,
+      "short_name": "BA1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "Настоянка Козацька рада перцева",
+      "price_large": 350,
+      "price_small": 35,
+      "short_name": "BA2",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "Цельсій Лайт",
+      "price_large": 300,
+      "price_small": 30,
+      "short_name": "BA3",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "700мл.",
+      "name": "Перша гільдія Поважна",
+      "price_large":378,
+      "price_small":27,
+      "short_name": "BA4",
+      "small_portion_name": "50мл."
+    }
+  ]
+}
