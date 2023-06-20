@@ -13,7 +13,7 @@
       "price_large": 168,
       "price_small": 168,
       "short_name": "O1",
-      "small_portion_name": "200/30."
+      "small_portion_name": "200/30г."
     },
     {
       "description": "сейк свинний у медово-гірчичному соусі",
@@ -22,7 +22,7 @@
       "price_large": 155,
       "price_small": 155,
       "short_name": "O2",
-      "small_portion_name": "200/30."
+      "small_portion_name": "200/30г."
     },    
     {
       "description": "стейк свинний із ошийка",
@@ -83,7 +83,7 @@
       "large_portion_name": "350г.",
       "name": "Курячі сердечка у вершковуму соусі",
       "price_large": 148,
-      "price_small": 75148,
+      "price_small": 148,
       "short_name": "O9",
       "small_portion_name": "350г."
     },    

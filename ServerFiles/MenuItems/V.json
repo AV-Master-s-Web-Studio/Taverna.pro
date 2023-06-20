@@ -1,0 +1,100 @@
+{
+  "category": {
+    "id": 11,
+    "name": "Додатки до піци",
+    "short_name": "V",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "сир дор-блю",
+      "large_portion_name": "50г.",
+      "name": "Сир дор-блю",
+      "price_large": 45,
+      "price_small": 45,
+      "short_name": "V1",
+      "small_portion_name": "50."
+    },
+    {
+      "description": "сир моцарела",
+      "large_portion_name": "100г.",
+      "name": "Сир моцарела",
+      "price_large": 50,
+      "price_small": 50,
+      "short_name": "V2",
+      "small_portion_name": "100г."
+    },    
+    {
+      "description": "маслини",
+      "large_portion_name": "50г.",
+      "name": "Маслини",
+      "price_large": 35,
+      "price_small": 35,
+      "short_name": "V3",
+      "small_portion_name": "50г."
+    },
+    {
+      "description": "шинка",
+      "large_portion_name": "50г.",
+      "name": "Шинка",
+      "price_large": 45,
+      "price_small": 45,
+      "short_name": "V4",
+      "small_portion_name": "50г."
+    },    
+    {
+      "description": "салямі",
+      "large_portion_name": "50г.",
+      "name": "Салямі",
+      "price_large": 45,
+      "price_small": 45,
+      "short_name": "V5",
+      "small_portion_name": "50г."
+    },    
+    {
+      "description": "солодка паприка ",
+      "large_portion_name": "50г.",
+      "name": "Солодка паприка",
+      "price_large": 35,
+      "price_small": 35,
+      "short_name": "V6",
+      "small_portion_name": "50г."
+    },
+    {
+      "description": "томати",
+      "large_portion_name": "50г.",
+      "name": "Томати",
+      "price_large": 35,
+      "price_small": 35,
+      "short_name": "V7",
+      "small_portion_name": "50г."
+    },
+    {
+      "description": "печериці",
+      "large_portion_name": "50г.",
+      "name": "Печериці",
+      "price_large": 40,
+      "price_small": 40,
+      "short_name": "V8",
+      "small_portion_name": "50г."
+    },    
+    {
+      "description": "масло чилі ",
+      "large_portion_name": "20г.",
+      "name": "Масло чілі",
+      "price_large": 15,
+      "price_small": 15,
+      "short_name": "V9",
+      "small_portion_name": "20г."
+    },
+    {
+      "description": "вершки",
+      "large_portion_name": "50г.",
+      "name": "Вершки ",
+      "price_large": 25,
+      "price_small": 25,
+      "short_name": "V10",
+      "small_portion_name": "50г."
+    }      
+  ]    
+}
