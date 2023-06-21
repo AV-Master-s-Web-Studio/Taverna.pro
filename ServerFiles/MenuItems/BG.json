@@ -1,0 +1,28 @@
+{
+  "category": {
+    "id": 47,
+    "name": "Джин",
+    "short_name": "BG",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Gordon`s",
+      "price_large": 140,
+      "price_small": 70,
+      "short_name": "BG1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Genuine Gin",
+      "price_large": 130,
+      "price_small": 65,
+      "short_name": "BG2",
+      "small_portion_name": "50мл."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "category": {
+    "id": 49,
+    "name": "Лікери",
+    "short_name": "BI",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Sambuka Antica Classic",
+      "price_large": 86,
+      "price_small": 43,
+      "short_name": "BI1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Becherovka",
+      "price_large": 110,
+      "price_small": 55,
+      "short_name": "BI2",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Jagermeister",
+      "price_large": 130,
+      "price_small": 65,
+      "short_name": "BI3",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Baileys",
+      "price_large":140,
+      "price_small":70,
+      "short_name": "BI4",
+      "small_portion_name": "50мл."
+    }
+  ]
+}

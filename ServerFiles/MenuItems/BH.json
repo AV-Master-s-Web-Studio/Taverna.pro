@@ -1,0 +1,28 @@
+{
+  "category": {
+    "id": 48,
+    "name": "Домашні нстоянки",
+    "short_name": "BH",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Лимончелло",
+      "price_large": 50,
+      "price_small": 25,
+      "short_name": "BH1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Вишнівка",
+      "price_large": 50,
+      "price_small": 25,
+      "short_name": "BH2",
+      "small_portion_name": "50мл."
+    }
+  ]
+}
