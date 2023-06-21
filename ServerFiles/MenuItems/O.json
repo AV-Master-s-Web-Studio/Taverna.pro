@@ -131,6 +131,20 @@
       "price_small": 310,
       "short_name": "O19",
       "small_portion_name": "950/30/30г."
-    }
+    },
+    {
+      "description": "курятина, овочі, мікс салатів, сир",
+      "name": "Філе по-Діджонськи",
+      "price_small": 135,
+      "short_name": "O20",
+      "small_portion_name": "250/65г."
+    },
+    {
+      "description": "щукіні, сир моцарела, цибулевий мармелад, сметана",
+      "name": "Кабачкові оладі з сиром та цибулевим комфі (сезонне меню)",
+      "price_small": 125,
+      "short_name": "O21",
+      "small_portion_name": "300/50/30г."
+    }       
   ]
 }

@@ -33,6 +33,13 @@
       "price_small": 73,
       "short_name": "S4",
       "small_portion_name": "250г."
-    }
+    },
+    {
+      "description": "мінеральтна вода, яйця, свіжі овочі, шинка, сметана, гіриця зерниста",
+      "name": "Окрошка",
+      "price_small": 65,
+      "short_name": "S5",
+      "small_portion_name": "300г."
+    }    
   ]
 }

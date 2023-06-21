@@ -110,6 +110,13 @@
       "price_small": 75,
       "short_name": "X15",
       "small_portion_name": "270г."
-    }
+    },
+    {
+      "description": "печериці, паніровка",
+      "name": "Печериці в сухарях",
+      "price_small": 140,
+      "short_name": "X16",
+      "small_portion_name": "350г."
+    }    
   ]
 }
