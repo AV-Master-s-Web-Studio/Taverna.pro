@@ -1,0 +1,56 @@
+{
+  "category": {
+    "id": 44,
+    "name": "Ром",
+    "short_name": "BD",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Captain Morgan Dark",
+      "price_large": 140,
+      "price_small": 70,
+      "short_name": "BD1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Captain Morgan Gold",
+      "price_large": 120,
+      "price_small": 60,
+      "short_name": "BD2",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Captain Morgan White",
+      "price_large": 120,
+      "price_small": 60,
+      "short_name": "BD3",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Real Rum Blanco",
+      "price_large":110,
+      "price_small":55,
+      "short_name": "BD4",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Bacardi Spiced",
+      "price_large": 120,
+      "price_small": 60,
+      "short_name": "BD5",
+      "small_portion_name": "50мл."
+    }
+               
+  ]
+}

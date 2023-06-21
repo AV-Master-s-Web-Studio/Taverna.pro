@@ -1,0 +1,65 @@
+{
+  "category": {
+    "id": 43,
+    "name": "Віскі",
+    "short_name": "BC",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Bells Original",
+      "price_large": 110,
+      "price_small": 55,
+      "short_name": "BC1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Black & White",
+      "price_large": 95,
+      "price_small": 47.5,
+      "short_name": "BC2",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Johnnie Walker Red Label",
+      "price_large": 180,
+      "price_small": 90,
+      "short_name": "BC3",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Vat69",
+      "price_large":98,
+      "price_small":49,
+      "short_name": "BC4",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Bushmils Original",
+      "price_large": 180,
+      "price_small": 90,
+      "short_name": "BC5",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Jack Daniel`s",
+      "price_large": 180,
+      "price_small": 90,
+      "short_name": "BC6",
+      "small_portion_name": "50мл."
+    }
+               
+  ]
+}
