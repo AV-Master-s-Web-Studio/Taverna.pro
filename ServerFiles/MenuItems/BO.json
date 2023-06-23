@@ -1,0 +1,37 @@
+{
+  "category": {
+    "id": 55,
+    "name": "Пиво на розлив",
+    "short_name": "BO",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "DUNKEL ТЕМНЕ",
+      "price_large": 65,
+      "price_small": 45,
+      "short_name": "BO1",
+      "small_portion_name": "330мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "БІЛИЙ ЛЕВ НЕФІЛЬТОВАНЕ",
+      "price_large": 65,
+      "price_small": 45,
+      "short_name": "BO2",
+      "small_portion_name": "330мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "ЛЬВІВСЬКЕ СВІТЛЕ",
+      "price_large": 55,
+      "price_small": 40,
+      "short_name": "BO3",
+      "small_portion_name": "330мл."
+    }
+  ]
+}

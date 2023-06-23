@@ -1,0 +1,172 @@
+{
+  "category": {
+    "id": 58,
+    "name": "Кава",
+    "short_name": "BR",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Еспресо",
+      "price_large": 22,
+      "price_small": 0,
+      "short_name": "BR1",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Еспресо з вершками",
+      "price_large": 25,
+      "price_small": 0,
+      "short_name": "BR2",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Еспресо з молоком",
+      "price_large": 30,
+      "price_small": 0,
+      "short_name": "BR3",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Американо",
+      "price_large":22,
+      "price_small":0,
+      "short_name": "BR4",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Амерекано з вершками",
+      "price_large": 25,
+      "price_small": 0,
+      "short_name": "BR5",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Американо з молоком",
+      "price_large": 25,
+      "price_small": 0,
+      "short_name": "BR6",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Капучино",
+      "price_large": 35,
+      "price_small": 0,
+      "short_name": "BR7",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Арт Капучино",
+      "price_large": 45,
+      "price_small": 0,
+      "short_name": "BR8",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Лате",
+      "price_large": 35,
+      "price_small": 0,
+      "short_name": "BR9",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Лате макіято",
+      "price_large": 45,
+      "price_small": 0,
+      "short_name": "BR10",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Банановий лате",
+      "price_large": 65,
+      "price_small": 0,
+      "short_name": "BR11",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Фрапе",
+      "price_large": 35,
+      "price_small": 0,
+      "short_name": "BR12",
+      "small_portion_name": ""
+    },
+    {
+      "description": "кава, молочна піна, шоколадний сироп, взбиті вершки",
+      "large_portion_name": "",
+      "name": "Кава по Віденськи",
+      "price_large": 45,
+      "price_small": 0,
+      "short_name": "BR13",
+      "small_portion_name": ""
+    },
+    {
+      "description": "кава, vat69, взбиті вершки",
+      "large_portion_name": "",
+      "name": "Кава по Ірланськи",
+      "price_large": 65,
+      "price_small": 0,
+      "short_name": "BR14",
+      "small_portion_name": ""
+    },
+    {
+      "description": "кава, морозиво",
+      "large_portion_name": "",
+      "name": "Кава глясе",
+      "price_large": 45,
+      "price_small": 0,
+      "short_name": "BR15",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Какао",
+      "price_large": 35,
+      "price_small": 0,
+      "short_name": "BR16",
+      "small_portion_name": ""
+    },
+    {
+      "description": "",
+      "large_portion_name": "",
+      "name": "Горячий шоколад",
+      "price_large": 55,
+      "price_small": 0,
+      "short_name": "BR17",
+      "small_portion_name": ""
+    },
+    {
+      "description": "сиром, апельсиновий сік, кава, лід",
+      "large_portion_name": "",
+      "name": "Бамбл-кава",
+      "price_large": 55,
+      "price_small": 0,
+      "short_name": "BR17",
+      "small_portion_name": ""
+    }                  
+  ]
+}
