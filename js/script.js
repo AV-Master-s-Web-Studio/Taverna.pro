@@ -280,6 +280,14 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
                     "large_portion_name",
                     menuItems[i].large_portion_name);
             html =
+                insertItemPrice(html,
+                    "price_XL",
+                    menuItems[i].price_XL);
+            html =
+                insertItemPortionName(html,
+                    "XL_portion_name",
+                    menuItems[i].XL_portion_name);
+            html =
                 insertProperty(html,
                     "name",
                     menuItems[i].name);
