@@ -319,7 +319,7 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
             return insertProperty(html, pricePropName, "");
         }
 
-        priceValue = priceValue.toFixed(2) + "грн.";
+        priceValue = priceValue.toFixed(0) + "грн.";
         html = insertProperty(html, pricePropName, priceValue);
         return html;
     }
