@@ -1,0 +1,81 @@
+{
+  "category": {
+    "id": 52,
+    "name": "Вина ігристі",
+    "short_name": "BL",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "Напівсолодке, червоне",
+      "large_portion_name": "750мл.",
+      "name": "Entre Fragolino Rosso",
+      "price_large": 195,
+      "short_name": "BL1"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Entre Fragolino Bianco",
+      "price_large": 195,
+      "short_name": "BL2"
+    },
+    {
+      "description": "Соледке, біле",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Swit",
+      "price_large": 230,
+      "short_name": "BL3"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Semi Swit",
+      "price_large": 230,
+      "short_name": "BL4"
+    },
+    {
+      "description": "Сухе, біле",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Brud",
+      "price_large": 320,
+      "short_name": "BL5"
+    },
+    {
+      "description": "Напівсолодке, червоне",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Rosso",
+      "price_large": 230,
+      "short_name": "BL6"
+    },
+    {
+      "description": "Напівсолодке, біле, червоне",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Fragolino",
+      "price_large": 290,
+      "short_name": "BL7"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Lambrusco",
+      "price_large": 320,
+      "short_name": "BL8"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Aznauri Semi Swit",
+      "price_large": 215,
+      "short_name": "BL9"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Коблево Viktori Semi Swit",
+      "price_large": 230,
+      "short_name": "BL10"
+    }                 
+               
+  ]
+}    
