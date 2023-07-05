@@ -1,0 +1,90 @@
+{
+  "category": {
+    "id": 57,
+    "name": "Напої",
+    "short_name": "BQ",
+    "special_instructions": "Cool before drink"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "1л",
+      "name": "Узвар",
+      "price_large": 50,
+      "price_small": 12.5,
+      "short_name": "BQ1",
+      "small_portion_name": "250мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "750мл.",
+      "name": "спрайт",
+      "price_large": 49.5,
+      "price_small": 33,
+      "short_name": "BQ2",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "750мл.",
+      "name": "Фанта",
+      "price_large": 49.5,
+      "price_small": 33,
+      "short_name": "BQ3",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "в асортименті",
+      "large_portion_name": "1л.",
+      "name": "Сік Rich",
+      "price_large": 85,
+      "price_small": 21.25,
+      "short_name": "BQ4",
+      "small_portion_name": "250мл."
+    },
+    {
+      "description": "лісова ягода, апельсин",
+      "large_portion_name": "1л.",
+      "name": "Соковинка",
+      "price_large": 75,
+      "short_name": "BQ5"
+    },
+    {
+      "description": "газоване, не газована",
+      "large_portion_name": "1л.",
+      "name": "Бонаква",
+      "price_large": 48,
+      "price_small": 25,
+      "short_name": "BQ6",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "1л.",
+      "name": "Сітро",
+      "price_large": 75,
+      "price_small": 18.75,
+      "short_name": "BQ7",
+      "small_portion_name": "250мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "750мл.",
+      "name": "Кока-Кола",
+      "price_large": 49.5,
+      "price_small": 33,
+      "short_name": "BQ8",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "1750мл.",
+      "name": "Кока-Кола",
+      "price_large": 115.5,
+      "price_small": 82.5,
+      "short_name": "BJ9",
+      "small_portion_name": "1250мл."
+    }    
+               
+  ]
+}    
