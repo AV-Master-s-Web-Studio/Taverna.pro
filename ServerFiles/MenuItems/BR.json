@@ -37,8 +37,8 @@
       "description": "",
       "large_portion_name": "",
       "name": "Американо",
-      "price_large":22,
-      "price_small":0,
+      "price_large": 22,
+      "price_small": 0,
       "short_name": "BR4",
       "small_portion_name": ""
     },
@@ -160,13 +160,13 @@
       "small_portion_name": ""
     },
     {
-      "description": "сиром, апельсиновий сік, кава, лід",
+      "description": "сироп, апельсиновий сік, кава, лід",
       "large_portion_name": "",
       "name": "Бамбл-кава",
       "price_large": 55,
       "price_small": 0,
       "short_name": "BR17",
       "small_portion_name": ""
-    }                  
+    }
   ]
 }
