@@ -3,7 +3,7 @@
     "id": 58,
     "name": "Кава",
     "short_name": "BR",
-    "special_instructions": "Cool before drink"
+    "special_instructions": "Гарячі та холодні напої на основі кави"
   },
   "menu_items": [
     {
@@ -115,7 +115,7 @@
       "small_portion_name": ""
     },
     {
-      "description": "кава, молочна піна, шоколадний сироп, взбиті вершки",
+      "description": "кава, молочна піна, шоколадний сироп, збиті вершки",
       "large_portion_name": "",
       "name": "Кава по Віденськи",
       "price_large": 45,
@@ -124,7 +124,7 @@
       "small_portion_name": ""
     },
     {
-      "description": "кава, vat69, взбиті вершки",
+      "description": "кава, vat69, збиті вершки",
       "large_portion_name": "",
       "name": "Кава по Ірланськи",
       "price_large": 65,
@@ -153,7 +153,7 @@
     {
       "description": "",
       "large_portion_name": "",
-      "name": "Горячий шоколад",
+      "name": "Гарячий шоколад",
       "price_large": 55,
       "price_small": 0,
       "short_name": "BR17",
