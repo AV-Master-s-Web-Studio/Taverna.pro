@@ -14,12 +14,11 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
     var dc = {};
 
     var homeHtmlUrl = "snippets/home-snippet.html";
-    var allCategoriesUrl = "http://192.168.1.131/MenuCategories/categories.json";
-    var barCategoriesUrl = "http://192.168.1.131/MenuCategories/barcategories.json";
+    var allCategoriesUrl = "http://134.249.176.105/MenuCategories/categories.json";
+    var barCategoriesUrl = "http://134.249.176.105/MenuCategories/barcategories.json";
     var categoriesTitleHtml = "snippets/categories-title-snippet.html";
     var categoryHtml = "snippets/category-snippet.html";
-    var menuItemsUrl = "http://192.168.1.131/MenuItems/";    
-    // var menuItemsUrl = "https://coursera-jhu-default-rtdb.firebaseio.com/menu_items/";
+    var menuItemsUrl = "http://134.249.176.105/MenuItems/";    
     var menuItemsTitleHtml = "snippets/menu-items-title.html";
     var menuItemHtml = "snippets/menu-item.html";
 
