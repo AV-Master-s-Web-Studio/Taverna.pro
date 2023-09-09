@@ -14,11 +14,11 @@ $(function() { // Same as document.addEventListener("DOMContentLoaded"...
     var dc = {};
 
     var homeHtmlUrl = "snippets/home-snippet.html";
-    var allCategoriesUrl = "http://134.249.176.105/MenuCategories/categories.json";
-    var barCategoriesUrl = "http://134.249.176.105/MenuCategories/barcategories.json";
+    var allCategoriesUrl = "https://www.taverna.pro/MenuCategories/categories.json";
+    var barCategoriesUrl = "https://www.taverna.pro/MenuCategories/barcategories.json";
     var categoriesTitleHtml = "snippets/categories-title-snippet.html";
     var categoryHtml = "snippets/category-snippet.html";
-    var menuItemsUrl = "http://134.249.176.105/MenuItems/";    
+    var menuItemsUrl = "https://www.taverna.pro/MenuItems/";    
     var menuItemsTitleHtml = "snippets/menu-items-title.html";
     var menuItemHtml = "snippets/menu-item.html";
 
