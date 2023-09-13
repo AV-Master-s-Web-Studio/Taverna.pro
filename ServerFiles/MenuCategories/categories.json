@@ -1,6 +1,11 @@
 [
   { "id": 1, "name": "Закуски", "short_name": "X", "special_instructions": "" },
-  { "id": 2, "name": "Супи", "short_name": "S", "special_instructions": "" },
+  {
+    "id": 2,
+    "name": "Перші страви",
+    "short_name": "S",
+    "special_instructions": ""
+  },
   {
     "id": 3,
     "name": "Основні страви",
