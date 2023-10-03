@@ -88,9 +88,9 @@
 
 </html>
 <script>
-     var DBUsersUrl = "192.168.1.131";
-     // TODO - We need to pework all this using functions from ajax-utils.js
-    //Submit data when enter key is pressed
+     var DBUsersUrl = "https://www.taverna.pro/users/";
+    // TODO - We need to rework all this using functions from ajax-utils.js
+    // Submit data when enter key is pressed
     $('#user_name').keydown(function(e) {
         var name = $('#user_name').val();
         if (e.which == 13 && name.length > 0) { //catch Enter key
