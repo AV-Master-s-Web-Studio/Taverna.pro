@@ -16,7 +16,7 @@
     {
       "description": "сир моцарела",
       "name": "Сир моцарела",
-      "price_small": 50,
+      "price_small": 55,
       "short_name": "V2",
       "small_portion_name": "100г."
     },
@@ -30,14 +30,14 @@
     {
       "description": "шинка",
       "name": "Шинка",
-      "price_small": 45,
+      "price_small": 35,
       "short_name": "V4",
       "small_portion_name": "50г."
     },
     {
       "description": "салямі",
       "name": "Салямі",
-      "price_small": 45,
+      "price_small": 35,
       "short_name": "V5",
       "small_portion_name": "50г."
     },
@@ -67,7 +67,7 @@
       "name": "Масло чилі",
       "price_small": 15,
       "short_name": "V9",
-      "small_portion_name": "20г."
+      "small_portion_name": "30г."
     },
     {
       "description": "вершки",
@@ -75,6 +75,76 @@
       "price_small": 25,
       "short_name": "V10",
       "small_portion_name": "50г."
-    }
+    },
+    {
+      "description": "сир філадельфія",
+      "name": "Сирний буртик ",
+      "price_small": 55,
+      "short_name": "V11",
+      "small_portion_name": "60г."
+    }, 
+    {
+      "description": "груша",
+      "name": "груша ",
+      "price_small": 25,
+      "short_name": "V12",
+      "small_portion_name": "80г."
+    },
+    {
+      "description": "пармська шинка",
+      "name": "пармська шинка",
+      "price_small": 85,
+      "short_name": "V12",
+      "small_portion_name": "50г."
+    },
+    {
+      "description": "масло часникове",
+      "name": "Масло часникове",
+      "price_small": 8,
+      "short_name": "V13",
+      "small_portion_name": "20г."
+    },
+    {
+      "description": "ананас",
+      "name": "Ананас ",
+      "price_small": 25,
+      "short_name": "V14",
+      "small_portion_name": "50г."
+    },
+    {
+      "description": "курка",
+      "name": "Курка ",
+      "price_small": 55,
+      "short_name": "V15",
+      "small_portion_name": "50г."
+    }, 
+    {
+      "description": "перець чілі",
+      "name": "перець чілі",
+      "price_small": 18,
+      "short_name": "V16",
+      "small_portion_name": "30г."
+    }, 
+    {
+      "description": "цибуля ріпчаста",
+      "name": "цибуля",
+      "price_small": 12,
+      "short_name": "V17",
+      "small_portion_name": "50г."
+    },
+    {
+      "description": "кукурудза солодка",
+      "name": "кукурудза",
+      "price_small": 15,
+      "short_name": "V18",
+      "small_portion_name": "50г."
+    },
+    {
+      "description": "мисливські ковбаски",
+      "name": "мисливські ковбаски",
+      "price_small": 35,
+      "short_name": "V19",
+      "small_portion_name": "50г."
+    }                      
   ]
 }

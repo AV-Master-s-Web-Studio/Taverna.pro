@@ -9,28 +9,28 @@
     {
       "description": "Свина котлета, помідор, цибуля, моцарела, солений огірок, соус, булочка з кунжутом",
       "name": "Бургер свинний із картоплею фрі",
-      "price_small": 110,
+      "price_small": 165,
       "short_name": "C1",
-      "small_portion_name": "310/100/30г."
+      "small_portion_name": "250/100/30г."
     },
     {
       "description": "куряча котлета, помідор, цибуля, моцарела, солений огірок, соус, булочка з кунжутом",
       "name": "Бургер курячий із картоплею фрі",
-      "price_small": 105,
+      "price_small": 155,
       "short_name": "C2",
-      "small_portion_name": "310/100/30г."
+      "small_portion_name": "250/100/30г."
     },
     {
       "description": "картопля, вершки, тефтелі",
       "name": "Тефтелі з картопляним пюре",
-      "price_small": 105,
+      "price_small": 145,
       "short_name": "C3",
       "small_portion_name": "250г."
     },
     {
       "description": "куряче філе, паніровка",
       "name": "Курячі нагетси",
-      "price_small": 95,
+      "price_small": 103,
       "short_name": "C4",
       "small_portion_name": "200/30г."
     }

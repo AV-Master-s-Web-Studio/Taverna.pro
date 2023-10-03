@@ -9,23 +9,30 @@
     {
       "description": "Паста класична карбонара",
       "name": "Паста класична карбонара",
-      "price_small": 73,
+      "price_small": 85,
       "short_name": "P1",
       "small_portion_name": "190г."
     },
     {
       "description": "Паста болон`єзе",
       "name": "Паста болон`єзе",
-      "price_small": 90,
+      "price_small": 110,
       "short_name": "P2",
       "small_portion_name": "250г."
     },
     {
       "description": "Пельмені",
       "name": "Пельмені",
-      "price_small": 88,
+      "price_small": 108,
       "short_name": "P3",
       "small_portion_name": "200/40г."
-    }
+    },
+    {
+      "description": "вареники з картоплею, вершки, бекон",
+      "name": "Вареники під соусом карбонара",
+      "price_small": 178,
+      "short_name": "P4",
+      "small_portion_name": "350г."
+    }    
   ]
 }
