@@ -145,6 +145,13 @@
       "price_small": 35,
       "short_name": "V19",
       "small_portion_name": "50г."
-    }                      
+    },
+    {
+      "description": "сир пармезан",
+      "name": "Сир пармезан",
+      "price_small": 55,
+      "short_name": "V20",
+      "small_portion_name": "50г."
+    }                          
   ]
 }
