@@ -3,7 +3,7 @@
     "id": 57,
     "name": "Напої",
     "short_name": "BQ",
-    "special_instructions": "Cool before drink"
+    "special_instructions": "Соки, води та напої"
   },
   "menu_items": [
     {
@@ -18,7 +18,7 @@
     {
       "description": "",
       "large_portion_name": "750мл.",
-      "name": "спрайт",
+      "name": "Спрайт",
       "price_large": 49.5,
       "price_small": 33,
       "short_name": "BQ2",

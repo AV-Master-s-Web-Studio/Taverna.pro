@@ -3,7 +3,7 @@
     "id": 52,
     "name": "Вина ігристі",
     "short_name": "BL",
-    "special_instructions": "Cool before drink"
+    "special_instructions": ""
   },
   "menu_items": [
     {
@@ -21,7 +21,7 @@
       "short_name": "BL2"
     },
     {
-      "description": "Соледке, біле",
+      "description": "Солодке, біле",
       "large_portion_name": "750мл.",
       "name": "Marengo Swit",
       "price_large": 230,
@@ -72,7 +72,7 @@
     {
       "description": "Напівсолодке, біле ",
       "large_portion_name": "750мл.",
-      "name": "Коблево Viktori Semi Swit",
+      "name": "Коблево Victory Semi Sweet",
       "price_large": 230,
       "short_name": "BL10"
     }                 
