@@ -19,8 +19,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Captain Morgan Gold",
-      "price_large": 120,
-      "price_small": 60,
+      "price_large": 140,
+      "price_small": 70,
       "short_name": "BD2",
       "small_portion_name": "50мл."
     },
@@ -28,8 +28,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Captain Morgan White",
-      "price_large": 120,
-      "price_small": 60,
+      "price_large": 140,
+      "price_small": 70,
       "short_name": "BD3",
       "small_portion_name": "50мл."
     },

@@ -124,6 +124,13 @@
       "price_small": 90,
       "short_name": "U17",
       "small_portion_name": "350г."
-    }
+    },
+    {
+      "description": "вершки, бекон, перепелині яйця, сир моцарела, сир пармезан, помідор",
+      "name": "Карбонара",
+      "price_small": 165,
+      "short_name": "U18",
+      "small_portion_name": "500г."
+    }  
   ]
 }

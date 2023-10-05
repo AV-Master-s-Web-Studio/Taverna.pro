@@ -19,8 +19,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Black & White",
-      "price_large": 95,
-      "price_small": 47.5,
+      "price_large": 160,
+      "price_small": 80,
       "short_name": "BC2",
       "small_portion_name": "50мл."
     },
@@ -37,8 +37,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Vat69",
-      "price_large":98,
-      "price_small":49,
+      "price_large": 100,
+      "price_small": 50,
       "short_name": "BC4",
       "small_portion_name": "50мл."
     },
@@ -46,8 +46,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Bushmils Original",
-      "price_large": 180,
-      "price_small": 90,
+      "price_large": 200,
+      "price_small": 100,
       "short_name": "BC5",
       "small_portion_name": "50мл."
     },
@@ -55,8 +55,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Jack Daniel`s",
-      "price_large": 180,
-      "price_small": 90,
+      "price_large": 220,
+      "price_small": 110,
       "short_name": "BC6",
       "small_portion_name": "50мл."
     }

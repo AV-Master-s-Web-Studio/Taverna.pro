@@ -9,9 +9,9 @@
     {
       "description": "Напівсолодке, Україна",
       "large_portion_name": "750мл.",
-      "name": "Коблево Мускат Південний",
-      "price_large": 240,
-      "price_small": 48,
+      "name": "Мрія",
+      "price_large": 315,
+      "price_small": 63,
       "short_name": "BJ1",
       "small_portion_name": "150мл."
     },
@@ -28,8 +28,8 @@
       "description": "Напівсолодке, Грузія",
       "large_portion_name": "750мл.",
       "name": "Geo Alazani Valley",
-      "price_large": 315,
-      "price_small": 63,
+      "price_large": 510,
+      "price_small": 102,
       "short_name": "BJ3",
       "small_portion_name": "150мл."
     },
@@ -82,8 +82,8 @@
       "description": "Напівсухе, Італія",
       "large_portion_name": "750мл.",
       "name": "Terra Italianica",
-      "price_large": 285,
-      "price_small": 57,
+      "price_large": 390,
+      "price_small": 78,
       "short_name": "BJ9",
       "small_portion_name": "150мл."
     },
@@ -95,7 +95,25 @@
       "price_small": 78,
       "short_name": "BJ10",
       "small_portion_name": "150мл."
-    }    
+    },
+    {
+      "description": "Напівсолодке, Іспанія",
+      "large_portion_name": "750мл.",
+      "name": "Baron Simon",
+      "price_large": 360,
+      "price_small": 72,
+      "short_name": "BJ11",
+      "small_portion_name": "150мл."
+    }, 
+    {
+      "description": "Сухе, Італія",
+      "large_portion_name": "750мл.",
+      "name": "Memorie",
+      "price_large": 465,
+      "price_small": 93,
+      "short_name": "BJ12",
+      "small_portion_name": "150мл."
+    }          
                
   ]
 }    
