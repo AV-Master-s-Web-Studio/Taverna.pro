@@ -14,8 +14,8 @@
       "small_portion_name": "300/30г."
     },
     {
-      "description": "Бульйон курячий",
-      "name": "Бульйон курячий",
+      "description": "Бульйон з курки",
+      "name": "Бульйон з курки",
       "price_small": 55,
       "short_name": "S2",
       "small_portion_name": "300г."
@@ -40,6 +40,6 @@
       "price_small": 75,
       "short_name": "S5",
       "small_portion_name": "300г."
-    }    
+    }
   ]
 }
