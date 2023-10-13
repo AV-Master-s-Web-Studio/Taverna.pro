@@ -10,8 +10,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Мартіні Blanco",
-      "price_large": 90,
-      "price_small": 45,
+      "price_large": 80,
+      "price_small": 40,
       "short_name": "BM1",
       "small_portion_name": "50мл."
     },
@@ -19,8 +19,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Мартіні Rosso",
-      "price_large": 90,
-      "price_small": 45,
+      "price_large": 80,
+      "price_small": 40,
       "short_name": "BM2",
       "small_portion_name": "50мл."
     },
@@ -28,8 +28,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Мартіні Extra Dry",
-      "price_large": 90,
-      "price_small": 45,
+      "price_large": 80,
+      "price_small": 40,
       "short_name": "BM3",
       "small_portion_name": "50мл."
     }

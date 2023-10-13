@@ -88,21 +88,12 @@
       "small_portion_name": "150мл."
     },
     {
-      "description": "Напівсолодке, Франція",
-      "large_portion_name": "750мл.",
-      "name": "Vieux Peps",
-      "price_large": 390,
-      "price_small": 78,
-      "short_name": "BJ10",
-      "small_portion_name": "150мл."
-    },
-    {
       "description": "Напівсолодке, Іспанія",
       "large_portion_name": "750мл.",
       "name": "Baron Simon",
       "price_large": 360,
       "price_small": 72,
-      "short_name": "BJ11",
+      "short_name": "BJ10",
       "small_portion_name": "150мл."
     }, 
     {
@@ -111,7 +102,7 @@
       "name": "Memorie",
       "price_large": 465,
       "price_small": 93,
-      "short_name": "BJ12",
+      "short_name": "BJ11",
       "small_portion_name": "150мл."
     }          
                
