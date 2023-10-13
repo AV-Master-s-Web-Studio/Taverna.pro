@@ -10,7 +10,7 @@
       "description": "",
       "large_portion_name": "100г.",
       "name": "Фісташки",
-      "price_large": 95,
+      "price_large": 110,
       "price_small": 0,
       "short_name": "BP1",
       "small_portion_name": ""
@@ -28,7 +28,7 @@
       "description": "хліб чорний, часникова олія, соус майонено-часниковий",
       "large_portion_name": "140/30г.",
       "name": "Грінки з часниковим соусом",
-      "price_large": 40,
+      "price_large": 50,
       "price_small": 0,
       "short_name": "BP3",
       "small_portion_name": ""
@@ -37,7 +37,7 @@
       "description": "хліб чорний, часникова олія, сир моцарела, соус майонено-часниковий",
       "large_portion_name": "150/30",
       "name": "Грінки з часниковим соусом під сиром",
-      "price_large": 55,
+      "price_large": 60,
       "price_small": 0,
       "short_name": "BP4",
       "small_portion_name": ""
@@ -46,7 +46,7 @@
       "description": "",
       "large_portion_name": "50г.",
       "name": "Рибка Павутинка",
-      "price_large": 65,
+      "price_large": 75,
       "price_small": 0,
       "short_name": "BP5",
       "small_portion_name": ""
@@ -55,7 +55,7 @@
       "description": "",
       "large_portion_name": "50г.",
       "name": "Рибка Ставридка",
-      "price_large": 65,
+      "price_large": 75,
       "price_small": 0,
       "short_name": "BP6",
       "small_portion_name": ""
@@ -64,7 +64,7 @@
       "description": "",
       "large_portion_name": "50г.",
       "name": "Рибка Тунець",
-      "price_large": 65,
+      "price_large": 75,
       "price_small": 0,
       "short_name": "BP7",
       "small_portion_name": ""
@@ -73,7 +73,7 @@
       "description": "",
       "large_portion_name": "50г.",
       "name": "Кальмар",
-      "price_large": 65,
+      "price_large": 75,
       "price_small": 0,
       "short_name": "BP8",
       "small_portion_name": ""
