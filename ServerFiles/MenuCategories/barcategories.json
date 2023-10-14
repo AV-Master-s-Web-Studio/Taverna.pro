@@ -1,5 +1,17 @@
 [
   {
+    "id": 39,
+    "name": "Коктейлі алкогольні",
+    "short_name": "AA",
+    "special_instructions": ""
+  },
+  {
+    "id": 40,
+    "name": "Коктейлі безалкогольні",
+    "short_name": "AB",
+    "special_instructions": ""
+  },
+  {
     "id": 41,
     "name": "Горілка",
     "short_name": "BA",
