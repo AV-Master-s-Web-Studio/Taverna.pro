@@ -9,7 +9,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "Sambuka Antica Classic",
+      "name": "Sambuca Antica Classic",
       "price_large": 100,
       "price_small": 50,
       "short_name": "BI1",
@@ -37,8 +37,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Baileys",
-      "price_large":140,
-      "price_small":70,
+      "price_large": 140,
+      "price_small": 70,
       "short_name": "BI4",
       "small_portion_name": "50мл."
     },
@@ -46,8 +46,8 @@
       "description": "Лікери Volare в асортименті",
       "large_portion_name": "100мл.",
       "name": "Volare",
-      "price_large":90,
-      "price_small":45,
+      "price_large": 90,
+      "price_small": 45,
       "short_name": "BI5",
       "small_portion_name": "50мл."
     }
