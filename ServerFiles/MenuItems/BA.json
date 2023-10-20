@@ -1,0 +1,46 @@
+{
+  "category": {
+    "id": 41,
+    "name": "Горілка",
+    "short_name": "BA",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "Козацька рада класична",
+      "price_large": 240,
+      "price_small": 24,
+      "short_name": "BA1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "Настоянка Козацька рада перцева",
+      "price_large": 240,
+      "price_small": 24,
+      "short_name": "BA2",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "Настоянка Козацька рада Зубрівка",
+      "price_large": 240,
+      "price_small": 24,
+      "short_name": "BA3",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "700мл.",
+      "name": "Перша гільдія Поважна",
+      "price_large":420,
+      "price_small":30,
+      "short_name": "BA4",
+      "small_portion_name": "50мл."
+    }
+  ]
+}

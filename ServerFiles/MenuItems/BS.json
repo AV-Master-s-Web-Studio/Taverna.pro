@@ -1,0 +1,26 @@
+{
+  "category": {
+    "id": 59,
+    "name": "Чай",
+    "short_name": "BM",
+    "special_instructions": "Різні сорти чаю та купажі на основі чаю"
+  },
+  "menu_items": [
+    {
+      "description": "чорний, зелений, бризки шампанського, полуниця вершки, лампа Аладіна, саусеп, альпійський луг, нахабний фрукт",
+      "large_portion_name": "600мл.",
+      "name": "Чай в асортименті",
+      "price_large": 65,
+      "price_small": 40,
+      "short_name": "BS1",
+      "small_portion_name": "300мл."
+    },
+    {
+      "description": "малиновий, обліпиховий, імбірний",
+      "large_portion_name": "250мл.",
+      "name": "Чай домашньго приготування",
+      "price_large": 75,
+      "short_name": "BS2"
+    }
+  ]
+}

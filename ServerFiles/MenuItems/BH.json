@@ -1,0 +1,46 @@
+{
+  "category": {
+    "id": 48,
+    "name": "Домашні нстоянки",
+    "short_name": "BH",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Лимончелло",
+      "price_large": 50,
+      "price_small": 25,
+      "short_name": "BH1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "Лимончелло у пляшці",
+      "price_large": 295,
+      "price_small": 165,
+      "short_name": "BH1",
+      "small_portion_name": "250мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Вишнівка",
+      "price_large": 50,
+      "price_small": 25,
+      "short_name": "BH2",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "Вишнівка у пляшці",
+      "price_large": 295,
+      "price_small": 165,
+      "short_name": "BH1",
+      "small_portion_name": "250мл."
+    }
+  ]
+}

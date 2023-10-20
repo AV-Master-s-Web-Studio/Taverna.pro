@@ -1,0 +1,110 @@
+{
+  "category": {
+    "id": 51,
+    "name": "Вина червоні",
+    "short_name": "BK",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "Напівсолодке, Україна",
+      "large_portion_name": "750мл.",
+      "name": "Коблево Чорноморська Рів`єра",
+      "price_large": 270,
+      "price_small": 54,
+      "short_name": "BK1",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Сухе, Україна",
+      "large_portion_name": "750мл.",
+      "name": "Коблево Каберне",
+      "price_large": 240,
+      "price_small": 48,
+      "short_name": "BK2",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Напівсолодке, Грузія",
+      "large_portion_name": "750мл.",
+      "name": "Geo Alazani Valley",
+      "price_large": 510,
+      "price_small": 102,
+      "short_name": "BK3",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Сухе, Грузія",
+      "large_portion_name": "750мл.",
+      "name": "Geo Saperavi",
+      "price_large": 570,
+      "price_small": 114,
+      "short_name": "BK4",
+      "small_portion_name": "150мл."
+    },    
+    {
+      "description": "Сухе, Грузія",
+      "large_portion_name": "750мл.",
+      "name": "Aliko Pirosmani",
+      "price_large": 240,
+      "price_small": 48,
+      "short_name": "BK5",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Напівсолодке, Іспанія",
+      "large_portion_name": "750мл.",
+      "name": "Don Simon",
+      "price_large": 360,
+      "price_small": 72,
+      "short_name": "BK6",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Напівсолодке, Іспанія",
+      "large_portion_name": "750мл.",
+      "name": "Terra Espaniola",
+      "price_large": 360,
+      "price_small": 72,
+      "short_name": "BK7",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Напівсолодке, Італія",
+      "large_portion_name": "750мл.",
+      "name": "Terra Italianica",
+      "price_large": 420,
+      "price_small": 84,
+      "short_name": "BK8",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Напівсолодке, Іспанія",
+      "large_portion_name": "750мл.",
+      "name": "Baron Simon",
+      "price_large": 330,
+      "price_small": 66,
+      "short_name": "BK9",
+      "small_portion_name": "150мл."
+    }, 
+    {
+      "description": "Cухе, Іспанія",
+      "large_portion_name": "750мл.",
+      "name": "Don Simon",
+      "price_large": 330,
+      "price_small": 66,
+      "short_name": "BK10",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Cухе, Італія",
+      "large_portion_name": "750мл.",
+      "name": "Memorie",
+      "price_large": 465,
+      "price_small": 93,
+      "short_name": "BK11",
+      "small_portion_name": "150мл."
+    }           
+               
+  ]
+}    

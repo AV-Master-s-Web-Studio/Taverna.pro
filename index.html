@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TAVERNA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/styles.css" rel="stylesheet">
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+    <header id="main-header">
+        <nav id="header-nav" class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header">
+                    <a href="index.html" class="pull-left visible-md visible-lg">
+                        <div id="logo-img">
+                            <!-- <img src="../images/logo-150.jpg" alt="Restaurant logo"> -->
+                        </div>
+                    </a>
+
+                    <div class="navbar-brand">
+                        <a href="index.html">
+                            <h1>Taverna De Nino</h1>
+                        </a>
+                        <p>Кафе - піцерія</p>
+                        <a href="login.html">
+                            <span id="login-button">Все найкраще для Вас</span></a>
+                    </div>
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+
+                <div id="collapsable-nav" class="collapse navbar-collapse">
+                    <ul id="nav-list" class="nav navbar-nav navbar-right">
+                        <li id="navHomeButton" class="visible-xs active">
+                            <a href="index.html">
+                                <span class="glyphicon glyphicon-home"></span><br class="hidden-xs"> На головну сторінку</a>
+                        </li>
+                        <li id="navMenuButton">
+                            <a href="#" onclick="$dc.loadMenuCategories();">
+                                <span class="glyphicon glyphicon-cutlery"></span><br class="hidden-xs"> Меню</a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="glyphicon glyphicon-info-sign"></span><br class="hidden-xs"> Про нас</a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="glyphicon glyphicon-certificate"></span><br class="hidden-xs"> Замовити</a>
+                        </li>
+                        <li id="phone" class="hidden-xs">
+                            <a href="тел:068-955-9008">
+                                <span id="phone-number">068-955-9008</span></a>
+                        </li>
+                    </ul>
+                    <!-- #nav-list -->
+                </div>
+                <!-- .collapse .navbar-collapse -->
+            </div>
+            <!-- .container -->
+        </nav>
+        <!-- #header-nav -->
+    </header>
+    <div id="call-button" class="visible-xs">
+        <a class="btn" href="тел:068-955-9008">
+            <span class="glyphicon glyphicon-earphone"></span> 068-955-9008
+        </a>
+    </div>
+    <div id="xs-deliver" class="text-center visible-xs">* Є доставка!</div>
+    
+    <div id="main-content" class="container">   </div>
+
+    <footer class="panel-footer">
+        <div class="container">
+            <div class="row">
+                <section id="hours" class="col-sm-4">
+                    <span>Ми працюємо:</span><br> ПН-ЧТ 10:00 - 22:00<br> ПТ-НД 10:00 - 23:00<br><br>тел. 068-955-9008<br>
+                    <hr class="visible-xs">
+                </section>
+                <section id="address" class="col-sm-4">
+                    <span>Наша адреса:</span><br> м.Ніжин,<br>вул. Станіслава Прощенка, 13<br>
+                    <p>Вартість доставки в межах міста - 50грн.</p>
+                    <hr class="visible-xs">
+                </section>
+                <section id="testimonials" class="col-sm-4">
+                    <p>Пропонуємо Вам страви української та італійської кухні</p>
+                    <p>Спробуйте нашу піцу на дровах!</p>
+                    <p>В нашій банкетній залі Ви можете відзначити Ваше свято.</p>
+                </section>
+            </div>
+            <div id="copyright" class="text-center"> &copy;2023 AV_Master</div>
+        </div>
+    </footer>
+    <script src="/js/jquery-2.1.4.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/ajax-utils.js"></script>
+    <script src="/js/script.js"></script>
+</body>
+
+</html>

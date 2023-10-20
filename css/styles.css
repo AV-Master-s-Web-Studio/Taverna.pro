@@ -1,0 +1,464 @@
+        html {
+            position: relative;
+            min-height: 100%;
+        }
+        
+        body {
+            font-size: 16px;
+            color: #f0f0f0;
+            margin-bottom: 60px;
+            background-color: rgb(36, 36, 36);
+            font-family: 'Montserrat', sans-serif;
+        }
+        /** HEADER SECTION **/
+        
+        #header-nav {
+            width: 100%;
+            color: #f0f0f0;
+            border-radius: 0;
+            border: 0;
+            background-color: #880000;
+        }
+        
+        #logo-img {
+            background: url('../images/logo-150.jpg') no-repeat;
+            width: 150px;
+            height: 150px;
+            margin: 10px 15px 10px 0;
+        }
+        
+        .navbar-brand {
+            padding-top: 25px;
+        }
+        
+        .navbar-brand h1 {
+            /* Restaurant name */
+            font-family: 'Anton', sans-serif;
+            color: #ababab;
+            text-transform: uppercase;
+            font-size: 2.7em;
+            font-weight: regular;
+            text-shadow: 2px 2px 2px #222;
+            margin-top: 0;
+            margin-bottom: 0;
+            line-height: .75;
+        }
+        
+        .navbar-header button.navbar-toggle,
+        .navbar-header .icon-bar {
+            borger: 1px solid #ababab;
+        }
+        
+        .navbar-header button.navbar-toggle {
+            clear: both;
+            margin-top: -25px;
+        }
+        
+        .navbar-brand p {
+            color: #ababab;
+            padding-top: 5px;
+        }
+        
+        #collapsable-nav a {
+            /* Collapsed nav menu items text */
+            font-size: 1.2em;
+        }
+        
+        #collapsable-nav a span {
+            /* Collapsed nav menu glyph */
+            font-size: 1em;
+            margin-right: 5px;
+        }
+        
+        .navbar-brand a:hover,
+        .navbar-brand a:focus,
+        .navbar-brand p:hover,
+        .navbar-brand p:focus {
+            text-decoration: none;
+        }
+        
+        #nav-list {
+            margin-top: 10px;
+        }
+        
+        #nav-list a {
+            color: #ababab;
+            text-align: center;
+        }
+        
+        #nav-list a:hover {
+            background: #cc0000;
+        }
+        
+        #phone-number {
+            font-size: 1.8em;
+        }
+        
+        #login-button {
+            font-size: 1em;
+            line-height: 40px;
+            color: #ababab;
+        }
+        /* END HEADER */
+        /* Home Page */
+        
+        .container .jumbotron {
+            box-shadow: 0 0 50px #ccbbaa;
+            border: 2px solid #ccbbaa;
+        }
+        
+        #menu-tile,
+        #bar-tile,
+        #map-tile {
+            height: 250px;
+            width: 100%;
+            margin-bottom: 15px;
+            position: relative;
+            border: 2px solid #ccbbaa;
+            overflow: hidden;
+        }
+        
+        #menu-tile:hover,
+        #bar-tile:hover,
+        #map-tile:hover {
+            box-shadow: 0 1px 5px 1px #ccbbaa;
+        }
+        
+        #menu-tile {
+            background: url('../images/menu-tile.jpg') no-repeat;
+            background-position: center;
+        }
+        
+        #bar-tile {
+            background: url('../images/bar-tile.jpg') no-repeat;
+            background-position: center;
+        }
+        
+        #menu-tile span,
+        #bar-tile span,
+        #map-tile span {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 100%;
+            text-align: center;
+            font-size: 1.6em;
+            text-transform: uppercase;
+            background-color: #880000;
+            color: #ababab;
+            opacity: .8;
+        }
+        /* End Home Page */
+        /* Menu Categories Page */
+        
+        .category-tile {
+            position: relative;
+            border: 2px solid #ccbbaa;
+            overflow: hidden;
+            width: 200px;
+            height: 200px;
+            margin: 0 auto 15px;
+        }
+        
+        .category-tile span {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 100%;
+            text-align: center;
+            font-size: 1.2em;
+            text-transform: uppercase;
+            background-color: #880000;
+            color: #ababab;
+            opacity: 0.8;
+        }
+        
+        .category-tile:hover {
+            box-shadow: 0 1px 5px 1px #ccbbaa;
+        }
+        
+        #menu-categories-title+div {
+            margin-bottom: 50px;
+        }
+        /* End Menu Categories Page */
+        /* Single Category Page */
+        
+        .menu-item-tile {
+            margin-bottom: 25px;
+        }
+        
+        .menu-item-tile hr {
+            width: 80%;
+        }
+        
+        .menu-item-tile .menu-item-price {
+            font-size: 1.1em;
+            text-align: right;
+            margin-top: -15px;
+            margin-right: -15px;
+        }
+        
+        .menu-item-tile .menu-item-price span {
+            font-size: .6em;
+        }
+        
+        .menu-item-photo {
+            position: relative;
+            border: 2px solid #ccbbaa;
+            overflow: hidden;
+            padding: 0;
+            margin-right: -15px;
+            margin-left: auto;
+            margin-bottom: 20px;
+            margin-top: 20px;
+            max-width: 250px;
+        }
+        
+        .menu-item-photo div {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 80px;
+            background-color: #880000;
+            text-align: center;
+        }
+        
+        .menu-item-description {
+            padding-right: 30px;
+        }
+        
+        .menu-item-title {
+            margin: 50 0 10px;
+        }
+        
+        .menu-item-details {
+            font-size: .9em;
+            font-style: italic;
+        }
+        /* End Single Category Page */
+        /* Large devices only */
+        
+        @media (min-width: 1200px) {
+            .container .jumbotron {
+                background: url('../images/interior_1200.jpg') no-repeat;
+                height: 675px;
+            }
+        }
+        /* Medium devices only */
+        
+        @media (min-width: 992px) and (max-width: 1199px) {
+            /* Header */
+            #logo-img {
+                background: url('../images/logo-100.jpg') no-repeat;
+                width: 100px;
+                height: 100px;
+                margin: 5px 5px 5px 0px;
+            }
+            .navbar-brand {
+                padding-top: 20px;
+                height: 100px;
+            }
+            .navbar-brand p {
+                font-size: 0.9em;
+                margin-top: 6px;
+                margin-bottom: 0px;
+            }
+            #login-button {
+                font-size: 0.8em;
+                line-height: 20px;
+                margin-top: 0px;
+            }
+            #nav-list a {
+                font-size: 0.9em;
+            }
+            #phone-number {
+                font-size: 1.8em;
+                font-weight: bold;
+            }
+            /* End Header*/
+            /* Home Page */
+            .container .jumbotron {
+                background: url('../images/interior_992.jpg') no-repeat;
+                height: 558px;
+            }
+            /* End Home Page */
+        }
+        /* Small devices only */
+        
+        @media (min-width: 768px) and (max-width: 991px) {
+            /* Header */
+            .navbar-brand {
+                padding-top: 10px;
+                height: 80px;
+            }
+            .navbar-brand p {
+                font-size: 0.9em;
+                margin-top: 6px;
+            }
+            .navbar-header {
+                height: 120px;
+            }
+            #login-button {
+                font-size: 0.8em;
+                line-height: 20px;
+                margin-top: 0px;
+            }
+            #nav-list a {
+                font-size: 0.8em;
+            }
+            #phone-number {
+                font-size: 1.3em;
+                font-weight: bold;
+            }
+            /* End Header */
+            /* Home Page */
+            .container .jumbotron {
+                background: url('../images/interior_768.jpg') no-repeat;
+                height: 432px;
+            }
+            /* End Home Page */
+        }
+        /* Extra-small devices only */
+        
+        @media (max-width: 767px) {
+            /* Header */
+            .navbar-brand {
+                padding-top: 10px;
+                height: 80px;
+            }
+            .navbar-brand h1 {
+                padding-top: 10px;
+                font-size: 8vw;
+            }
+            .navbar-brand p {
+                font-size: 0.8em;
+                margin-top: 5px;
+            }
+            #collapsable-nav a {
+                font-size: 1.2em;
+            }
+            #collapsable-nav a span {
+                font-size: 1em;
+                margin-right: 5px;
+            }
+            #call-button>a {
+                font-size: 1.5em;
+                display: block;
+                margin: 35px 20px;
+                padding: 10px;
+                border: 2px solid #cc0000;
+                background-color: #ccbbaa;
+                color: #880000;
+            }
+            #xs-deliver {
+                margin-top: 5px;
+                font-size: .7em;
+                letter-spacing: .1em;
+                text-transform: uppercase;
+            }
+            #login-button {
+                font-size: 0.8em;
+                line-height: 20px;
+                margin-top: 0px;
+            }
+            /* End Header */
+            /* Home Page */
+            .container .jumbotron {
+                margin-top: 30px;
+                padding: 0;
+            }
+            #menu-tile,
+            #bar-tile {
+                width: 360px;
+                margin: 0 auto 15px;
+            }
+            .menu-item-photo {
+                margin-right: auto;
+            }
+            .menu-item-tile .menu-item-price {
+                text-align: center;
+            }
+            .menu-item-description {
+                text-align: center;
+            }
+            /* End Home Page */
+            /* Footer */
+            .panel-footer section {
+                margin-bottom: 30px;
+                text-align: center;
+            }
+            .panel-footer section:nth-child(3) {
+                margin-bottom: 0;
+                /* margin already exists on this row */
+            }
+            .panel-footer section hr {
+                width: 50%;
+            }
+            /* End Footer */
+        }
+        /* Super extra small devices only*/
+        
+        @media (max-width: 479px) {
+            /* Header */
+            .navbar-brand h1 {
+                padding-top: 5px;
+                font-size: 6vw;
+            }
+            /* End Header */
+            /* Home Page */
+            #menu-tile,
+            #bar-tile {
+                width: 280px;
+                margin: 0 auto 15px;
+            }
+            .col-xxs-12 {
+                position: relative;
+                min-height: 1px;
+                padding-right: 15px;
+                padding-left: 15px;
+                float: left;
+                width: 100%;
+            }
+            /* End Home Page */
+        }
+        
+        .jumbotron {
+            background-color: rgb(36, 36, 36);
+        }
+        
+        .panel-footer {
+            position: absolute;
+            margin-top: 10px;
+            padding-top: 35px;
+            padding-bottom: 30px;
+            width: 100%;
+            color: #ababab;
+            background-color: #222;
+            border-top: 0;
+        }
+        
+        .panel-footer div.row {
+            margin-bottom: 35px;
+        }
+        
+        #hours,
+        #address {
+            line-height: 2;
+        }
+        
+        #hours>span,
+        #address>span {
+            font-size: 1.3em;
+        }
+        
+        #testimonials {
+            font-style: italic;
+        }
+        
+        #testimonials p:nth-child(2) {
+            margin-top: 25px;
+        }
+        
+        .helloInput {
+            width: 300px;
+        }

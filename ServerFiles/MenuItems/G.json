@@ -1,0 +1,59 @@
+{
+  "category": {
+    "id": 4,
+    "name": "Гарніри",
+    "short_name": "G",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "картопля, печериці, курятина, цибуля, сир фета, сир моцарела, перець чілі",
+      "name": "Картопля по-грузинськи",
+      "price_small": 185,
+      "short_name": "G1",
+      "small_portion_name": "510г."
+    },
+    {
+      "description": "рис, спаржа, соєвий соус, курятина, цибуля, болгарський перець",
+      "name": "Паназійський рис",
+      "price_small": 95,
+      "short_name": "G2",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "картопля, цибуля, шкварки",
+      "name": "Картопля зі шкварками",
+      "price_small": 125,
+      "short_name": "G3",
+      "small_portion_name": "340г."
+    },
+    {
+      "description": "картопля, вершки, спеції",
+      "name": "Картопляне пюре з вершками",
+      "price_small": 95,
+      "short_name": "G4",
+      "small_portion_name": "200г."
+    },
+    {
+      "description": "Картопля фрі",
+      "name": "Картопля фрі",
+      "price_small": 70,
+      "short_name": "G5",
+      "small_portion_name": "170г."
+    },
+    {
+      "description": "картопля, часникове масло, часник ",
+      "name": "картопля по-селянськи",
+      "price_small": 65,
+      "short_name": "G6",
+      "small_portion_name": "210г."
+    },
+    {
+      "description": "мисливські ковбаски, цибуля, томатна паста, помідор, гриби, картопля",
+      "name": "Овочеве рагу з ковбасками ",
+      "price_small": 125,
+      "short_name": "G7",
+      "small_portion_name": "350г."
+    }
+  ]
+}

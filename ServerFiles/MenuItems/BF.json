@@ -1,0 +1,19 @@
+{
+  "category": {
+    "id": 46,
+    "name": "Абсент",
+    "short_name": "BF",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Xenta",
+      "price_large": 190,
+      "price_small": 95,
+      "short_name": "BF1",
+      "small_portion_name": "50мл."
+    }
+  ]
+}

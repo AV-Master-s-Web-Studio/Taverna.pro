@@ -1,0 +1,82 @@
+{
+  "category": {
+    "id": 52,
+    "name": "Вина ігристі",
+    "short_name": "BL",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "Напівсолодке, червоне",
+      "large_portion_name": "750мл.",
+      "name": "Entre Fragolino Rosso",
+      "price_large": 270,
+      "short_name": "BL1"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Entre Fragolino Bianco",
+      "price_large": 270,
+      "short_name": "BL2"
+    },
+    {
+      "description": "Солодке, біле",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Sweet",
+      "price_large": 330,
+      "short_name": "BL3"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Semi Sweet",
+      "price_large": 330,
+      "short_name": "BL4"
+    },
+    {
+      "name": "Marengo Brut",
+      "description": "Сухе, біле",
+      "large_portion_name": "750мл.",
+      "small_portion_name": "100мл.",
+      "price_large": 330,
+      "price_small": 44,
+      "short_name": "BL5"
+    },
+    {
+      "description": "Напівсолодке, червоне",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Rose",
+      "price_large": 330,
+      "short_name": "BL6"
+    },
+    {
+      "description": "Напівсолодке, біле(полуниця, персик), червоне(полуниця)",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Fragolino",
+      "price_large": 330,
+      "short_name": "BL7"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Lambrusco",
+      "price_large": 330,
+      "short_name": "BL8"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Asti",
+      "price_large": 330,
+      "short_name": "BL9"
+    },
+    {
+      "description": "Напівсолодке, біле ",
+      "large_portion_name": "750мл.",
+      "name": "Коблево Victory Semi Sweet",
+      "price_large": 270,
+      "short_name": "BL10"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "category": {
+    "id": 9,
+    "name": "Піч Меню",
+    "short_name": "T",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "Тісто, кисломолочний сир, моцарела, зелень, яйце",
+      "name": "Хачапурі по-Аджарськи",
+      "price_small": 95,
+      "short_name": "T1",
+      "small_portion_name": "380г."
+    },
+    {
+      "description": "Лаваш, моцарела,зелень, соус майонезно-часниковий",
+      "name": "Лаваш з сиром моцарела та зеленню",
+      "price_small": 70,
+      "short_name": "T2",
+      "small_portion_name": "180/30г."
+    },
+    {
+      "description": "лаваш, моцарела, курятина, помідор, соус майонезно-часниковий",
+      "name": "Лаваш з сиром моцарела, куркою та томатами",
+      "price_small": 75,
+      "short_name": "T3",
+      "small_portion_name": "215/30г."
+    },
+    {
+      "description": "Лаваш, моцарела, мисливські ковбаски, соус шашличний",
+      "name": "Лаваш з сиром моцарела та мисливськими ковбасками",
+      "price_small": 75,
+      "short_name": "T4",
+      "small_portion_name": "215/30г."
+    },
+    {
+      "description": "Фокача, часникове масло, розмарин",
+      "name": "Фокача з часником та розмарином",
+      "price_small": 58,
+      "short_name": "T5",
+      "small_portion_name": "200г."
+    },
+    {
+      "description": "Фокача, пармезан",
+      "name": "Фокача з пармезаном",
+      "price_small": 63,
+      "short_name": "T6",
+      "small_portion_name": "200г."
+    },
+    {
+      "description": "Фокача, пармезан, соус песто",
+      "name": "Фокача з пармезаном та соусом песто",
+      "price_small": 68,
+      "short_name": "T7",
+      "small_portion_name": "210г."
+    },
+    {
+      "description": "Фокача, масло чілі, анчоуси",
+      "name": "Фокача з перцем чілі та анчоусами",
+      "price_small": 73,
+      "short_name": "T8",
+      "small_portion_name": "210г."
+    }
+  ]
+}

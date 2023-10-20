@@ -1,0 +1,157 @@
+{
+  "category": {
+    "id": 3,
+    "name": "Основні страви",
+    "short_name": "O",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "стейк з телятини зі смородиновим соусом",
+      "name": "Стейк з телятини зі смородиновим соусом",
+      "price_small": 190,
+      "short_name": "O1",
+      "small_portion_name": "200/30г."
+    },
+    {
+      "description": "стейк свинний у медово-гірчичному соусі",
+      "name": "Стейк свинний у медово-гірчичному соусі",
+      "price_small": 175,
+      "short_name": "O2",
+      "small_portion_name": "200/30г."
+    },
+    {
+      "description": "стейк свинний із ошийка, грибний соус, маринована цибуля",
+      "name": "Стейк свинний із ошийка",
+      "price_small": 220,
+      "short_name": "O3",
+      "small_portion_name": "200/50г."
+    },
+    {
+      "description": "куряче філе, сир, мікс салатів, томат, соус.",
+      "name": "Курячий стейк під сиром",
+      "price_small": 145,
+      "short_name": "O4",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "куряче філе, бекон, моцарела,мікс салатів, помідор, сезонні овочі",
+      "name": "Панська курка",
+      "price_small": 175,
+      "short_name": "O5",
+      "small_portion_name": "300/30г."
+    },
+    {
+      "description": "відбивна зі свинини ",
+      "name": "Відбивна зі свинини",
+      "price_small": 85,
+      "short_name": "O6",
+      "small_portion_name": "110г."
+    },
+    {
+      "description": "куряче стегно, мікс салатів, овочі",
+      "name": "Соковите куряче стегенце ",
+      "price_small": 130,
+      "short_name": "O7",
+      "small_portion_name": "200/70/30г."
+    },
+    {
+      "description": "курячі крильця під медово-гірчичним соусом",
+      "name": "Курячі крильця під медово-гірчичним соусом",
+      "price_small": 105,
+      "short_name": "O8",
+      "small_portion_name": "300."
+    },
+    {
+      "description": "курячі сердечка у вершковому соусі, цибуля",
+      "name": "Курячі сердечка у вершковому соусі",
+      "price_small": 158,
+      "short_name": "O9",
+      "small_portion_name": "350г."
+    },
+    {
+      "description": "м`ясо свинини, цибуля, томатний соус",
+      "name": "М`ясна пательня",
+      "price_small": 185,
+      "short_name": "O10",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "м`ясо свинини, цибуля, вершки, спеції, соєвий соус",
+      "name": "М`ясна пательня на вершках",
+      "price_small": 230,
+      "short_name": "O11",
+      "small_portion_name": "350г."
+    },
+    {
+      "description": "філе білої рибки, печериці, вершки, спеції ",
+      "name": "Пательня з рибкою під грибним соусом",
+      "price_small": 190,
+      "short_name": "O12",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "філе білої рибки, цукіні, морква, цибуля, маслини, лимон ",
+      "name": "Рибна пательня з овочами ",
+      "price_small": 180,
+      "short_name": "O13",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "стейк лосося, соус тартар, лимон",
+      "name": "Стейк лосося",
+      "price_small": 180,
+      "short_name": "O15",
+      "small_portion_name": "за 100г."
+    },
+    {
+      "description": "макрель, яйце, печериці, сир моцарела, лимон ",
+      "name": "Макрель під сиром з овочами",
+      "price_small": 155,
+      "short_name": "O16",
+      "small_portion_name": "250г."
+    },
+    {
+      "description": "макрель, солодка паприка,спаржа, цибуля, лимон",
+      "name": "Рулетики DI MARE",
+      "price_small": 165,
+      "short_name": "O17",
+      "small_portion_name": "150г."
+    },
+    {
+      "description": "курка фрі, печериці фрі, ковбаски грль, мисливські ковбски,картопля фрі, соус шашличний, соус майонезно-часниковий ",
+      "name": "Пивна тарілка",
+      "price_small": 280,
+      "short_name": "O18",
+      "small_portion_name": "700/30/30г."
+    },
+    {
+      "description": "курячі крильця під-медово-гірчічним соусом, мисливські ковбаски, курячий та свинний шашлик,картопля по-селянські, соус шашличний, соус майонезно-часниковий",
+      "name": "М`ясна тарілка",
+      "price_small": 340,
+      "short_name": "O19",
+      "small_portion_name": "950/30/30г."
+    },
+    {
+      "description": "курятина, овочі, мікс салатів, сир",
+      "name": "Філе по-Діжонськи",
+      "price_small": 145,
+      "short_name": "O20",
+      "small_portion_name": "250/65г."
+    },
+    {
+      "description": "щукіні, сир моцарела, цибулевий мармелад, сметана",
+      "name": "Кабачкові оладі з сиром та цибулевим конфі (сезонне меню)",
+      "price_small": 125,
+      "short_name": "O21",
+      "small_portion_name": "300/50/30г."
+    },
+    {
+      "description": "креветки, кільця кальмара, соуси",
+      "name": "Морська тарілка",
+      "price_small": 290,
+      "short_name": "O22",
+      "small_portion_name": "300/30/30г."
+    }   
+  ]
+}

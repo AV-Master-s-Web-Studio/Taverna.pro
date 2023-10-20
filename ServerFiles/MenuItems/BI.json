@@ -1,0 +1,55 @@
+{
+  "category": {
+    "id": 49,
+    "name": "Лікери",
+    "short_name": "BI",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Sambuca Antica Classic",
+      "price_large": 100,
+      "price_small": 50,
+      "short_name": "BI1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Becherovka",
+      "price_large": 120,
+      "price_small": 60,
+      "short_name": "BI2",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Jagermeister",
+      "price_large": 140,
+      "price_small": 70,
+      "short_name": "BI3",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Baileys",
+      "price_large": 140,
+      "price_small": 70,
+      "short_name": "BI4",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "Лікери Volare в асортименті",
+      "large_portion_name": "100мл.",
+      "name": "Volare",
+      "price_large": 90,
+      "price_small": 45,
+      "short_name": "BI5",
+      "small_portion_name": "50мл."
+    }
+  ]
+}

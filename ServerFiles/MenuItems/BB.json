@@ -1,0 +1,136 @@
+{
+  "category": {
+    "id": 42,
+    "name": "Коньяк, бренді",
+    "short_name": "BB",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "HENNESSY",
+      "price_large": 320,
+      "price_small": 160,
+      "short_name": "BB1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "REMI MARTIN (SUPERIOR)",
+      "price_large": 400,
+      "price_small": 200,
+      "short_name": "BB2",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "KOBLEVO RESERVE 3*",
+      "price_large": 70,
+      "price_small": 35,
+      "short_name": "BB3",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "KOBLEVO RESERVE 5*",
+      "price_large": 84,
+      "price_small": 42,
+      "short_name": "BB4",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "KOBLEVO 3*",
+      "price_large": 70,
+      "price_small": 35,
+      "short_name": "BB5",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "KOBLEVO 5*",
+      "price_large": 88,
+      "price_small": 44,
+      "short_name": "BB6",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "ORBELIANI 3*",
+      "price_large": 90,
+      "price_small": 45,
+      "short_name": "BB7",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "ORBELIANI 5*",
+      "price_large": 98,
+      "price_small": 49,
+      "short_name": "BB8",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "ALIKO 3*",
+      "price_large": 70,
+      "price_small": 35,
+      "short_name": "BB9",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Легенда Вірменії 3*",
+      "price_large": 100,
+      "price_small": 50,
+      "short_name": "BB10",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Легенда Вірменії 5*",
+      "price_large": 140,
+      "price_small": 70,
+      "short_name": "BB11",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "METAXA",
+      "price_large": 150,
+      "price_small": 75,
+      "short_name": "BB12",
+      "small_portion_name": "50мл."
+    },  
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Легенда Вірменії 4*",
+      "price_large":120,
+      "price_small":60,
+      "short_name": "BB13",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": " REMY VSOP",
+      "price_large":120,
+      "price_small":60,
+      "short_name": "BB14",
+      "small_portion_name": "50мл."
+    }                 
+  ]
+}

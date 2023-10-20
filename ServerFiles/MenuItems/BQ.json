@@ -1,0 +1,98 @@
+{
+  "category": {
+    "id": 57,
+    "name": "Напої",
+    "short_name": "BQ",
+    "special_instructions": "Соки, води та напої"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "1л",
+      "name": "Узвар",
+      "price_large": 70,
+      "price_small": 17.5,
+      "short_name": "BQ1",
+      "small_portion_name": "250мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "1000мл.",
+      "name": "Спрайт",
+      "price_large": 70,
+      "price_small": 35,
+      "short_name": "BQ2",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "1000мл.",
+      "name": "Фанта",
+      "price_large": 70,
+      "price_small": 35,
+      "short_name": "BQ3",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "в асортименті",
+      "large_portion_name": "1л.",
+      "name": "Сік Rich",
+      "price_large": 120,
+      "price_small": 30,
+      "short_name": "BQ4",
+      "small_portion_name": "250мл."
+    },
+    {
+      "description": "солодкий газований напій",
+      "large_portion_name": "750мл.",
+      "name": "Швепс",
+      "price_large": 75,
+      "short_name": "BQ5"
+    },
+    {
+      "description": "газована, не газована",
+      "large_portion_name": "1л.",
+      "name": "Бонаква",
+      "price_large": 48,
+      "price_small": 35,
+      "short_name": "BQ6",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "1л.",
+      "name": "Сітро",
+      "price_large": 75,
+      "price_small": 18.75,
+      "short_name": "BQ7",
+      "small_portion_name": "250мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "1000мл.",
+      "name": "Кока-Кола",
+      "price_large": 70,
+      "price_small": 35,
+      "short_name": "BQ8",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "Кока-Кола, Фанта, Спрайт у скляних пляшках",
+      "large_portion_name": "250мл.",
+      "name": "Кока-Кола у пляшках",
+      "price_large": 50,
+      "price_small": 0,
+      "short_name": "BQ9",
+      "small_portion_name": ""
+    },
+    {
+      "description": "газована, 500мл - скляна пляшка",
+      "large_portion_name": "1л.",
+      "name": "Боржомі",
+      "price_large": 95,
+      "price_small": 96,
+      "short_name": "BQ6",
+      "small_portion_name": "500мл."
+    }        
+  ]
+}    

@@ -1,0 +1,45 @@
+{
+  "category": {
+    "id": 2,
+    "name": "Супи",
+    "short_name": "S",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "Ковбаски, шинка, цибуля, сметана",
+      "name": "Солянка",
+      "price_small": 70,
+      "short_name": "S1",
+      "small_portion_name": "300/30г."
+    },
+    {
+      "description": "Бульйон з курки",
+      "name": "Бульйон з курки",
+      "price_small": 55,
+      "short_name": "S2",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "Картопля, печериці, вершки, спеції",
+      "name": "Крем-суп грибний",
+      "price_small": 75,
+      "short_name": "S3",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "Крем-суп сирний",
+      "name": "Крем-суп сирний",
+      "price_small": 93,
+      "short_name": "S4",
+      "small_portion_name": "250г."
+    },
+    {
+      "description": "мінеральтна вода, яйця, свіжі овочі, шинка, сметана, гіриця зерниста",
+      "name": "Окрошка (сезонна страва)",
+      "price_small": 75,
+      "short_name": "S5",
+      "small_portion_name": "300г."
+    }
+  ]
+}

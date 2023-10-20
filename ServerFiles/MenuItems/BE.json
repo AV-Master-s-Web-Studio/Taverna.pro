@@ -1,0 +1,28 @@
+{
+  "category": {
+    "id": 45,
+    "name": "Текіла",
+    "short_name": "BE",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "Jose Cuervo Especial Reposado",
+      "price_large": 200,
+      "price_small": 100,
+      "short_name": "BE1",
+      "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "True Tequila Silver",
+      "price_large": 190,
+      "price_small": 95,
+      "short_name": "BE3",
+      "small_portion_name": "50мл."
+    }
+  ]
+}

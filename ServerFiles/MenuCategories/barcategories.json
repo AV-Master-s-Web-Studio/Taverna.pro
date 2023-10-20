@@ -1,0 +1,98 @@
+[
+  {
+    "id": 39,
+    "name": "Коктейлі алкогольні",
+    "short_name": "AA",
+    "special_instructions": ""
+  },
+  {
+    "id": 40,
+    "name": "Коктейлі безалкогольні",
+    "short_name": "AB",
+    "special_instructions": ""
+  },
+  {
+    "id": 41,
+    "name": "Горілка",
+    "short_name": "BA",
+    "special_instructions": ""
+  },
+  {
+    "id": 42,
+    "name": "Коньяк, бренді",
+    "short_name": "BB",
+    "special_instructions": ""
+  },
+  { "id": 43, "name": "Віскі", "short_name": "BC", "special_instructions": "" },
+  { "id": 44, "name": "Ром", "short_name": "BD", "special_instructions": "" },
+  {
+    "id": 45,
+    "name": "Текіла",
+    "short_name": "BE",
+    "special_instructions": ""
+  },
+  {
+    "id": 46,
+    "name": "Абсент",
+    "short_name": "BF",
+    "special_instructions": ""
+  },
+  { "id": 47, "name": "Джин", "short_name": "BG", "special_instructions": "" },
+  {
+    "id": 48,
+    "name": "Домашні настоянки",
+    "short_name": "BH",
+    "special_instructions": ""
+  },
+  {
+    "id": 49,
+    "name": "Лікери",
+    "short_name": "BI",
+    "special_instructions": ""
+  },
+  {
+    "id": 50,
+    "name": "Вина білі",
+    "short_name": "BJ",
+    "special_instructions": ""
+  },
+  {
+    "id": 51,
+    "name": "Вина червоні",
+    "short_name": "BK",
+    "special_instructions": ""
+  },
+  {
+    "id": 52,
+    "name": "Вина ігристі",
+    "short_name": "BL",
+    "special_instructions": ""
+  },
+  {
+    "id": 53,
+    "name": "Вермут",
+    "short_name": "BM",
+    "special_instructions": ""
+  },
+  {
+    "id": 54,
+    "name": "Пиво в пляшках",
+    "short_name": "BN",
+    "special_instructions": ""
+  },
+  {
+    "id": 55,
+    "name": "Пиво на розлив",
+    "short_name": "BO",
+    "special_instructions": ""
+  },
+  {
+    "id": 56,
+    "name": "До пива",
+    "short_name": "BP",
+    "special_instructions": ""
+  },
+  { "id": 57, "name": "Напої", "short_name": "BQ", "special_instructions": "" },
+  { "id": 58, "name": "Кава", "short_name": "BR", "special_instructions": "" },
+  { "id": 59, "name": "Чай", "short_name": "BS", "special_instructions": "" }
+]

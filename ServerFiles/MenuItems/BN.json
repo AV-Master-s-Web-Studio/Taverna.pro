@@ -1,0 +1,87 @@
+{
+  "category": {
+    "id": 54,
+    "name": "Пиво в пляшках",
+    "short_name": "BN",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "TUBORG",
+      "price_large": 70,
+      "short_name": "BN1"
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "CARLSBERG",
+      "price_large": 70,
+      "short_name": "BN2"
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "CARLSBERG Б/А",
+      "price_large": 70,
+      "short_name": "BN3"
+    },
+    {
+      "description": "",
+      "large_portion_name": "460МЛ.",
+      "name": "KRONENBOURG BLANC",
+      "price_large": 85,
+      "short_name": "BN4"
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name" : "ЛЬВІВСЬКЕ 1715",
+      "price_large": 65,
+      "short_name": "BN5"
+    },
+    {
+      "description": "",
+      "large_portion_name": "450МЛ.",
+      "name": "ЛЬВІВСЬКЕ М`ЯКЕ",
+      "price_large": 65,
+      "short_name": "BN6"
+    },
+    {
+      "description": "",
+      "large_portion_name": "480мл.",
+      "name": "ЛЬВІВСЬКЕ РІЗДВЯНЕ",
+      "price_large": 70,
+      "short_name": "BN7"
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name" : "ТЕМНИЙ ЛЕВ",
+      "price_large": 70,
+      "short_name": "BN8"
+    },
+    {
+      "description": "",
+      "large_portion_name": "500мл.",
+      "name": "ROBERT DOMS",
+      "price_large": 75,
+      "short_name": "BN9"
+    },
+    {
+      "description": "",
+      "large_portion_name": "480мл.",
+      "name": "STAROPRAMEN",
+      "price_large": 70,
+      "short_name": "BN10"
+    },
+    {
+      "description": "",
+      "large_portion_name": "450мл.",
+      "name": "MILLER GENUINE DRAFT",
+      "price_large": 85,
+      "short_name": "BN11"
+    }                   
+  ]
+}

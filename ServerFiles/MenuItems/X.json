@@ -1,0 +1,122 @@
+{
+  "category": {
+    "id": 1,
+    "name": "Закуски",
+    "short_name": "X",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+      "description": "картопля, бекон, сметана, грибний соус",
+      "name": "Деруни з беконом та грибним соусом",
+      "price_small": 85,
+      "short_name": "X1",
+      "small_portion_name": "120/30/30г."
+    },
+    {
+      "description": "солодка паприка, огірок, томат, мікс салатів, зелень",
+      "name": "Овочева тарілка",
+      "price_small": 85,
+      "short_name": "X2",
+      "small_portion_name": "230г."
+    },
+    {
+      "description": "оселедець с/с, цибуля, зелень, бородинський хліб",
+      "name": "Оселедець під горілочку",
+      "price_small": 95,
+      "short_name": "X3",
+      "small_portion_name": "170/90г."
+    },
+    {
+      "description": "4 види сиру, мед, мигдалеві пластівці, сезонні фрукти",
+      "name": "Сирна дошка",
+      "price_small": 185,
+      "short_name": "X4",
+      "small_portion_name": "270/30г."
+    },
+    {
+      "description": "Сир тенеро, паніровка, майонезно-часниковий соус",
+      "name": "Сирні палички",
+      "price_small": 110,
+      "short_name": "X5",
+      "small_portion_name": "200/30г."
+    },
+    {
+      "description": "яйця, хліб зерновий, пармська шинка, сир моцарела, чері",
+      "name": "Яйця Пашот на брускеті",
+      "price_small": 95,
+      "short_name": "X6",
+      "small_portion_name": "150г."
+    },
+    {
+      "description": "солодка паприка, цукіні, печериці, червона цибуля, баклажан, зелень",
+      "name": "Овочі гриль",
+      "price_small": 210,
+      "short_name": "X7",
+      "small_portion_name": "500г."
+    },
+    {
+      "description": "пармська шинка, салямі, сир фета, фокачча, овочі гриль, мікс салатів, соуси",
+      "name": "Антіпасто по-італійськи",
+      "price_small": 220,
+      "short_name": "X8",
+      "small_portion_name": "500г."
+    },
+    {
+      "description": "пармська шинка, салямі, бекон, шинка, зелень",
+      "name": "Нарізка м'ясна",
+      "price_small": 140,
+      "short_name": "X9",
+      "small_portion_name": "200г."
+    },
+    {
+      "description": "бекон, шинка, сир моцарела, чері, зелень, томат, рукола, яйце, соус песто, хліб зерновий",
+      "name": "Італійський сніданок",
+      "price_small": 90,
+      "short_name": "X10",
+      "small_portion_name": "300г."
+    },
+    {
+      "description": "бекон, підчеревина, сальце свіже, сало мелене з часником, гірчиця",
+      "name": "Сальце під горілочку",
+      "price_small": 155,
+      "short_name": "X11",
+      "small_portion_name": "170/90/30г."
+    },
+    {
+      "description": "лаваш, овочі, курка, соус, картопля фрі",
+      "name": "Шаверма з картоплею фрі",
+      "price_small": 138,
+      "short_name": "X12",
+      "small_portion_name": "180г."
+    },
+    {
+      "description": "яйця, печериці, вершки, сир моцарела, томат",
+      "name": "Фрітата з печерицями та сиром",
+      "price_small": 95,
+      "short_name": "X13",
+      "small_portion_name": "250г."
+    },
+    {
+      "description": "яйця, вершки, томат, сир пармезан, сир моцарела, маслини",
+      "name": "Фрітата з томатом і сиром",
+      "price_small": 95,
+      "short_name": "X14",
+      "small_portion_name": "240г."
+    },
+    {
+      "description": "огірок малосольний, капуста пелюстка, капуста квашена, морква по-корейськи, квашені помідори",
+      "name": "Соління",
+      "price_small": 120,
+      "short_name": "X15",
+      "small_portion_name": "270г."
+    },
+    {
+      "description": "печериці, паніровка",
+      "name": "Печериці в сухарях",
+      "price_small": 150,
+      "short_name": "X16",
+      "small_portion_name": "350г."
+    }    
+  ]
+}

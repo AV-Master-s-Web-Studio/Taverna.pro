@@ -1,0 +1,43 @@
+{
+  "category": {
+    "id": 55,
+    "name": "Пиво на розлив",
+    "short_name": "BO",
+    "special_instructions": "Львівське пиво"
+  },
+  "menu_items": [
+    {
+      "description": "",
+      "name": "DUNKEL ТЕМНЕ",
+      "price_small": 45,
+      "price_large": 65,
+      "price_XL": 120,
+      "short_name": "BO1",
+      "small_portion_name": "0,33л.",
+      "large_portion_name": "0,5л.",
+      "XL_portion_name": "1л."
+    },
+    {
+      "description": "",
+      "name": "БІЛИЙ ЛЕВ НЕФІЛЬТОВАНЕ",
+      "price_small": 45,
+      "price_large": 65,
+      "price_XL": 120,
+      "short_name": "BO2",
+      "small_portion_name": "0,33л.",
+      "large_portion_name": "0,5л.",
+      "XL_portion_name": "1л."
+    },
+    {
+      "description": "",
+      "name": "ЛЬВІВСЬКЕ СВІТЛЕ",
+      "price_small": 40,
+      "price_large": 55,
+      "price_XL": 100,
+      "short_name": "BO3",
+      "small_portion_name": "0,33л.",
+      "large_portion_name": "0,5л.",
+      "XL_portion_name": "1л."
+    }
+  ]
+}
