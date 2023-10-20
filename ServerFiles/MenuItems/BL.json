@@ -36,22 +36,17 @@
     },
     {
       "name": "Marengo Brut",
-      "description": "Сухе, біле",      
+      "description": "Сухе, біле",
       "large_portion_name": "750мл.",
-<<<<<<< Updated upstream
       "small_portion_name": "100мл.",
       "price_large": 330,
       "price_small": 44,
-=======
-      "name": "Marengo Brut",
-      "price_large": 320,
->>>>>>> Stashed changes
       "short_name": "BL5"
     },
     {
       "description": "Напівсолодке, червоне",
       "large_portion_name": "750мл.",
-      "name": "Marengo Rosso",
+      "name": "Marengo Rose",
       "price_large": 330,
       "short_name": "BL6"
     },
