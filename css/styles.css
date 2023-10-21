@@ -34,7 +34,7 @@
         .navbar-brand h1 {
             /* Restaurant name */
             font-family: 'Anton', sans-serif;
-            color: #ababab;
+            color: #ccbbaa;
             text-transform: uppercase;
             font-size: 2.7em;
             font-weight: regular;
@@ -46,7 +46,7 @@
         
         .navbar-header button.navbar-toggle,
         .navbar-header .icon-bar {
-            borger: 1px solid #ababab;
+            borger: 1px solid #ccbbaa;
         }
         
         .navbar-header button.navbar-toggle {
@@ -55,7 +55,7 @@
         }
         
         .navbar-brand p {
-            color: #ababab;
+            color: #ccbbaa;
             padding-top: 5px;
         }
         
@@ -82,7 +82,7 @@
         }
         
         #nav-list a {
-            color: #ababab;
+            color: #ccbbaa;
             text-align: center;
         }
         
@@ -97,7 +97,7 @@
         #login-button {
             font-size: 1em;
             line-height: 40px;
-            color: #ababab;
+            color: #ccbbaa;
         }
         /* END HEADER */
         /* Home Page */
@@ -145,7 +145,7 @@
             font-size: 1.6em;
             text-transform: uppercase;
             background-color: #880000;
-            color: #ababab;
+            color: #ccbbaa;
             opacity: .8;
         }
         /* End Home Page */
@@ -169,7 +169,7 @@
             font-size: 1.2em;
             text-transform: uppercase;
             background-color: #880000;
-            color: #ababab;
+            color: #ccbbaa;
             opacity: 0.8;
         }
         
@@ -346,7 +346,7 @@
                 display: block;
                 margin: 35px 20px;
                 padding: 10px;
-                border: 2px solid #cc0000;
+                border: 2px solid #880000;
                 background-color: #ccbbaa;
                 color: #880000;
             }
@@ -432,7 +432,7 @@
             padding-top: 35px;
             padding-bottom: 30px;
             width: 100%;
-            color: #ababab;
+            color: #ccbbaa;
             background-color: #222;
             border-top: 0;
         }
