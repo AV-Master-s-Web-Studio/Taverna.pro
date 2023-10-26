@@ -1,0 +1,115 @@
+{
+  "category": {
+    "id": 40,
+    "name": "Коктейлі безалкогольні",
+    "short_name": "AB",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+        "description": "лимон, цукровий сироп, ягоди, лікер Гренадін, м'ята, Спрайт",
+        "large_portion_name": "315мл.",
+        "name": "Мохіто ягідний",
+        "price_large": 65,
+        "short_name": "AB1"
+      },
+      {
+        "description": "лимон, цукровий сироп, м'ята, Спрайт",
+        "large_portion_name": "300мл.",
+        "name": "Мохіто",
+        "price_large": 55,
+        "short_name": "AB2"
+      },
+      {
+        "description": "сік апельсиновий, ананасовий, персиковий, ванільний сироп, лимонний фреш",
+        "large_portion_name": "300мл.",
+        "name": "Джонсон джуніор",
+        "price_large": 75,
+        "short_name": "AB3"
+      },
+      {
+        "description": "сік ананасовий, персиковий,морс журавлини, Гренадін",
+        "large_portion_name": "240мл.",
+        "name": "Кекс на пляжі",
+        "price_large": 55,
+        "short_name": "AB4"
+      },
+      {
+        "description": "імбирний сироп, лимонний фреш, лимон, м'ята, мінеральна вода",
+        "large_portion_name": "240мл.",
+        "name": "Імбирний лимонад",
+        "price_large": 45,
+        "short_name": "AB5"
+      },
+      {
+        "description": "лимон, апельмин, ванильний сироп, мінеральна вода",
+        "large_portion_name": "265мл.",
+        "name": "Крем сода",
+        "price_large": 40,
+        "short_name": "AB6"
+      },
+      {
+        "description": "сироп в асортименті, лимонний фреш, Спрайт",
+        "large_portion_name": "250мл.",
+        "name": "Лимонадик",
+        "price_large": 55,
+        "short_name": "AB7"
+      },
+      {
+        "description": "сироп в асортименті, сік в асортименті, Спрайт",
+        "large_portion_name": "265мл.",
+        "name": "Веселка",
+        "price_large": 50,
+        "short_name": "AB8"
+      },
+      {
+        "description": "сироп кокосовий, сік ананасовий, морозиво, банан, вершки",
+        "large_portion_name": "270мл.",
+        "name": "Тропікано",
+        "price_large": 80,
+        "short_name": "AB9"
+      },
+      {
+        "description": "яблуко, банан, ківі, м'ята, петрушка, сік персиковий, мінеральна вода",
+        "large_portion_name": "350мл.",
+        "name": "Зелений смузі",
+        "price_large": 65,
+        "short_name": "AB10"
+      },
+      {
+        "description": "банан, ягоди, молоко",
+        "large_portion_name": "330мл.",
+        "name": "Ягідний смузі",
+        "price_large": 75,
+        "short_name": "AB11"
+      },
+      {
+        "description": "ванільний/шоколадний/карамельний/ягідний",
+        "large_portion_name": "300мл.",
+        "name": "Молочний коктейль",
+        "price_large": 75,
+        "short_name": "AB12"
+      },
+      {
+        "description": "",
+        "large_portion_name": "250мл.",
+        "name": "Яблучний фреш",
+        "price_large": 80,
+        "short_name": "AB13"
+      },
+      {
+        "description": "",
+        "large_portion_name": "250мл.",
+        "name": "Апельсиновий фреш",
+        "price_large": 135,
+        "short_name": "AB14"
+      },
+      {
+        "description": "вершки, ананасовий сік, сироп, коктейльна вишня",
+        "large_portion_name": "???мл.",
+        "name": "Піно-Kid`s",
+        "price_large": 55,
+        "short_name": "AB15"
+      }
+    ]
+}
