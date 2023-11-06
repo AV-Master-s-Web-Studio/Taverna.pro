@@ -7,7 +7,7 @@
   },
   "menu_items": [
     {
-        "description": "лікери: Baileys вершковий, кавовий, Triple Sec",
+        "description": "лікери: Baileys вершковий, Espresso Coffee, Triple Sec",
         "large_portion_name": "60мл.",
         "name": "Б-52",
         "price_large": 90,
@@ -35,14 +35,14 @@
         "short_name": "AA4"
       },
       {
-        "description": "лимончелло, лікер Єгермейстр, джин",
+        "description": "лимончелло, лікер Jagermeister, джин",
         "large_portion_name": "60мл.",
         "name": "Вогненний холод",
         "price_large": 90,
         "short_name": "AA5"
       },
       {
-        "description": "лікери: Blue Curacao, лімончело; горілка",
+        "description": "лікери: Blue Curacao, Limoncello; горілка",
         "large_portion_name": "60мл.",
         "name": "Слава Україні!",
         "price_large": 80,
@@ -80,7 +80,7 @@
         "short_name": "AA8"
       },
       {
-        "description": "горілка, джин, ром, текіла, лікер Triple Sec, цукровий сироп, лимонний фреш, Кока Кола",
+        "description": "горілка, джин, ром, текіла, лікер Triple Sec, цукровий сироп, лимонний фреш, Кока-Кола",
         "large_portion_name": "220мл.",
         "name": "Лонг айленд",
         "price_large": 125,
@@ -150,7 +150,7 @@
         "short_name": "AA17"
       }, 
       {
-        "description": "горілка, лікери: персиковий, Grenadine; сік апельсиновий, морс журавлини",
+        "description": "горілка, лікери: Peach, Grenadine; сік апельсиновий, морс журавлини",
         "large_portion_name": "165мл.",
         "name": "Секс на пляжі",
         "price_large": 105,
@@ -164,35 +164,35 @@
         "short_name": "AA19"
       }, 
       {
-        "description": "горілка, лікер кавовий, вершки",
+        "description": "горілка, лікер Espresso Coffee, вершки",
         "large_portion_name": "110мл.",
         "name": "Бандерівський",
         "price_large": 85,
         "short_name": "AA20"
       }, 
       {
-        "description": "горілка, лікер кавовий",
+        "description": "горілка, лікер Espresso Coffee",
         "large_portion_name": "80мл.",
         "name": "Чорнобаївський",
         "price_large": 80,
         "short_name": "AA21"
       }, 
       {
-        "description": "ром, Кока Кола",
+        "description": "ром, Кока-Кола",
         "large_portion_name": "170мл.",
         "name": "Ром Кола",
         "price_large": 95,
         "short_name": "AA22"
       }, 
       {
-        "description": "віскі, Кока Кола",
+        "description": "віскі, Кока-Кола",
         "large_portion_name": "170мл.",
         "name": "Віскі Кола",
         "price_large": 90,
         "short_name": "AA23"
       }, 
       {
-        "description": "бренді, Кока Кола",
+        "description": "бренді, Кока-Кола",
         "large_portion_name": "170мл.",
         "name": "Бренді Кола",
         "price_large": 90,
@@ -227,7 +227,7 @@
         "short_name": "AA35"
       },
       {
-        "description": "текіла, абсент, горілка, ром, Блю Курасао, лікер Green melon, енергетик",
+        "description": "текіла, абсент, горілка, ром, Blue Curasao, лікер Green Melon, енергетик",
         "large_portion_name": "270мл.",
         "name": "Зелена фея",
         "price_large": 120,

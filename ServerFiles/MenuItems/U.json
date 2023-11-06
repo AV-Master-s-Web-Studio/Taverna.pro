@@ -3,7 +3,7 @@
     "id": 10,
     "name": "Піца",
     "short_name": "U",
-    "special_instructions": ""
+    "special_instructions": "Акційні пропозиції: <Фірмова піца з Кока-колою>, <Фірмова піца з пивом Miller>"
   },
   "menu_items": [
     {
@@ -131,6 +131,20 @@
       "price_small": 165,
       "short_name": "U18",
       "small_portion_name": "500г."
+    },
+    {
+      "description": "сир моцарела, соус томатний, ковбаски мисливські, печериці, салямі, шинка, Кола скло 0,25л.",
+      "name": "Фірмова з Кока-колою",
+      "price_small": 160,
+      "short_name": "U19",
+      "small_portion_name": "500г."
+    },
+    {
+      "description": "сир моцарела, соус вершковий, ковбаски мисливські, печериці, салямі, шинка, пиво Miller",
+      "name": "Фірмова з пивом Miller",
+      "price_small": 160,
+      "short_name": "U20",
+      "small_portion_name": "475г."
     }  
   ]
 }
