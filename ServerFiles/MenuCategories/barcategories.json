@@ -1,5 +1,11 @@
 [
   {
+    "id": 38,
+    "name": "Солодощі",
+    "short_name": "AC",
+    "special_instructions": ""
+  },
+  {
     "id": 39,
     "name": "Коктейлі алкогольні",
     "short_name": "AA",
