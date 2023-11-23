@@ -1,0 +1,45 @@
+{
+  "category": {
+    "id": 38,
+    "name": "Солодощі",
+    "short_name": "AC",
+    "special_instructions": ""
+  },
+  "menu_items": [
+    {
+        "description": "смаки в асортименті",
+        "large_portion_name": "",
+        "name": "Десерт Макаронс",
+        "price_large": 35,
+        "short_name": "AC1"
+      },
+      {
+        "description": "смаки в асортименті",
+        "large_portion_name": "",
+        "name": "Десерт Мотіко",
+        "price_large": 75,
+        "short_name": "AC2"
+      },
+      {
+        "description": "пастила домашнього приготування",
+        "large_portion_name": "",
+        "name": "Фруктова насолода",
+        "price_large": 30,
+        "short_name": "AC3"
+      },
+      {
+        "description": "пастила домашнього приготування з горіхами",
+        "large_portion_name": "",
+        "name": "Горіхова насолода",
+        "price_large": 40,
+        "short_name": "AC4"
+      },
+      {
+        "description": "",
+        "large_portion_name": "",
+        "name": "Чупа-чупс",
+        "price_large": 10,
+        "short_name": "AC5"
+      }
+    ]
+}
