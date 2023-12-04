@@ -33,6 +33,13 @@
       "price_small": 178,
       "short_name": "P4",
       "small_portion_name": "350г."
-    }    
+    },
+    {
+      "description": "спагетті, мідії, креветки, кальмар, вершки, спеції",
+      "name": "Тальятелле з морепродуктами",
+      "price_small": 155,
+      "short_name": "P5",
+      "small_portion_name": "330г."
+    }
   ]
 }
