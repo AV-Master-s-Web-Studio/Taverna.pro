@@ -147,11 +147,25 @@
       "small_portion_name": "300/50/30г."
     },
     {
-      "description": "креветки, кільця кальмара, соуси",
+      "description": "біла риба, креветки, кільця кальмара, соуси",
       "name": "Морська тарілка",
       "price_small": 290,
       "short_name": "O22",
       "small_portion_name": "300/30/30г."
-    }   
+    },
+    {
+      "description": "курка, цибуля, перець болгарський, ананаси, соус солодкий, чилі",
+      "name": "Курка в кисло-солодкому соусі",
+      "price_small": 155,
+      "short_name": "O23",
+      "small_portion_name": "400г."
+    },
+    {
+      "description": "крильця курячі, паніровка в асортименті",
+      "name": "Крилата компанія",
+      "price_small": 290,
+      "short_name": "O24",
+      "small_portion_name": "700г."
+    }
   ]
 }

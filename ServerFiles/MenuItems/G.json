@@ -54,6 +54,13 @@
       "price_small": 125,
       "short_name": "G7",
       "small_portion_name": "350г."
+    },
+    {
+      "description": "рис, шпинат, телятина, помідор, спаржа, цибуля, вершки",
+      "name": "Рис зі шпинатом та телятиною",
+      "price_small": 125,
+      "short_name": "G8",
+      "small_portion_name": "340г."
     }
   ]
 }
