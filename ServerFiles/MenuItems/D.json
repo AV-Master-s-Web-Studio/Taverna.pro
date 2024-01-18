@@ -54,6 +54,13 @@
       "price_small": 165,
       "short_name": "D7",
       "small_portion_name": "200г."
-    }    
+    },
+    {
+      "description": "",
+      "name": "Млинці з карамелізованим яблуком та морозивом",
+      "price_small": 98,
+      "short_name": "D8",
+      "small_portion_name": "300/50/20г."
+    }
   ]
 }

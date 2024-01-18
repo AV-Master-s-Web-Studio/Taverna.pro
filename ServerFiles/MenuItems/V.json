@@ -85,14 +85,14 @@
     }, 
     {
       "description": "груша",
-      "name": "груша ",
+      "name": "Груша ",
       "price_small": 25,
       "short_name": "V12",
       "small_portion_name": "80г."
     },
     {
       "description": "пармська шинка",
-      "name": "пармська шинка",
+      "name": "Пармська шинка",
       "price_small": 85,
       "short_name": "V12",
       "small_portion_name": "50г."
@@ -120,28 +120,28 @@
     }, 
     {
       "description": "перець чилі",
-      "name": "перець чилі",
+      "name": "Перець чилі",
       "price_small": 18,
       "short_name": "V16",
       "small_portion_name": "30г."
     }, 
     {
       "description": "цибуля ріпчаста",
-      "name": "цибуля",
+      "name": "Цибуля",
       "price_small": 12,
       "short_name": "V17",
       "small_portion_name": "50г."
     },
     {
       "description": "кукурудза солодка",
-      "name": "кукурудза",
+      "name": "Кукурудза",
       "price_small": 15,
       "short_name": "V18",
       "small_portion_name": "50г."
     },
     {
       "description": "мисливські ковбаски",
-      "name": "мисливські ковбаски",
+      "name": "Мисливські ковбаски",
       "price_small": 35,
       "short_name": "V19",
       "small_portion_name": "50г."
