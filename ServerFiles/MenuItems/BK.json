@@ -17,9 +17,7 @@
     },
     {
       "description": "Сухе, Україна",
-      "large_portion_name": "750мл.",
       "name": "Коблево Каберне",
-      "price_large": 240,
       "price_small": 48,
       "short_name": "BK2",
       "small_portion_name": "150мл."
@@ -42,15 +40,7 @@
       "short_name": "BK4",
       "small_portion_name": "150мл."
     },    
-    {
-      "description": "Сухе, Грузія",
-      "large_portion_name": "750мл.",
-      "name": "Aliko Pirosmani",
-      "price_large": 240,
-      "price_small": 48,
-      "short_name": "BK5",
-      "small_portion_name": "150мл."
-    },
+
     {
       "description": "Напівсолодке, Іспанія",
       "large_portion_name": "750мл.",

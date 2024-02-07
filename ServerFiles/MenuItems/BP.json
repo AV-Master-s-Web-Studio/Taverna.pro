@@ -77,15 +77,6 @@
       "price_small": 0,
       "short_name": "BP8",
       "small_portion_name": ""
-    },
-    {
-      "description": "поки не доступно",
-      "large_portion_name": "за100г",
-      "name": "М`ясні чипси",
-      "price_large": 150,
-      "price_small": 0,
-      "short_name": "BP9",
-      "small_portion_name": ""
-    }           
+    }        
   ]
 }

@@ -17,9 +17,7 @@
     },
     {
       "description": "Сухе, Україна",
-      "large_portion_name": "750мл.",
       "name": "Коблево Селект Шардоне",
-      "price_large": 240,
       "price_small": 48,
       "short_name": "BJ2",
       "small_portion_name": "150мл."
@@ -33,15 +31,7 @@
       "short_name": "BJ3",
       "small_portion_name": "150мл."
     },
-    {
-      "description": "Сухе, Грузія",
-      "large_portion_name": "750мл.",
-      "name": "Aliko Rkatsiteli",
-      "price_large": 195,
-      "price_small": 39,
-      "short_name": "BJ4",
-      "small_portion_name": "150мл."
-    },
+   
     {
       "description": "Сухе, Іспанія",
       "large_portion_name": "750мл.",
@@ -73,7 +63,7 @@
       "description": "Напівсолодке, Італія",
       "large_portion_name": "750мл.",
       "name": "Terra Italianica",
-      "price_large": 330,
+      "price_large": 420,
       "price_small": 66,
       "short_name": "BJ8",
       "small_portion_name": "150мл."

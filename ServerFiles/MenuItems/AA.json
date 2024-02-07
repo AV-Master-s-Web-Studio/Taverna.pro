@@ -129,7 +129,7 @@
         "short_name": "AA14"
       }, 
       {
-        "description": "віскі, цукровий сироп, лимонний фреш, яєчний білок, коктейльна вишня",
+        "description": "віскі, цукровий сироп, лимонний фреш, яєчний білок",
         "large_portion_name": "130мл.",
         "name": "Віскі сауер",
         "price_large": 95,
@@ -207,7 +207,7 @@
       },
       {
         "description": "текіла, сік апельсиновий, лікер Grenadine, апельсин",
-        "large_portion_name": "40мл.",
+        "large_portion_name": "150мл.",
         "name": "Текіла санрайз",
         "price_large": 105,
         "short_name": "AA26"
@@ -246,6 +246,13 @@
         "name": "Космо Абсент",
         "price_large": 80,
         "short_name": "AA36"
+      },
+      {
+        "description": "джин Genuine, лікер Green Melon, лимонний фреш, цукровий сироп, яєчний білок",
+        "large_portion_name": "125мл.",
+        "name": "Космо Абсент",
+        "price_large": 100,
+        "short_name": "AA39"
       },
 
 
