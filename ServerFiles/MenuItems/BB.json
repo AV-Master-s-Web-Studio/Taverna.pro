@@ -27,7 +27,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "KOBLEVO RESERVE 3*",
+      "name": "KOBLEVO RESERVE 3★",
       "price_large": 70,
       "price_small": 35,
       "short_name": "BB3",
@@ -36,7 +36,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "KOBLEVO RESERVE 5*",
+      "name": "KOBLEVO RESERVE 5★",
       "price_large": 84,
       "price_small": 42,
       "short_name": "BB4",
@@ -45,7 +45,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "KOBLEVO 3*",
+      "name": "KOBLEVO 3★",
       "price_large": 70,
       "price_small": 35,
       "short_name": "BB5",
@@ -54,7 +54,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "KOBLEVO 5*",
+      "name": "KOBLEVO 5★",
       "price_large": 88,
       "price_small": 44,
       "short_name": "BB6",
@@ -63,7 +63,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "ORBELIANI 3*",
+      "name": "ORBELIANI 3★",
       "price_large": 90,
       "price_small": 45,
       "short_name": "BB7",
@@ -72,7 +72,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "ORBELIANI 5*",
+      "name": "ORBELIANI 5★",
       "price_large": 98,
       "price_small": 49,
       "short_name": "BB8",
@@ -81,7 +81,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "ALIKO 3*",
+      "name": "ALIKO 3★",
       "price_large": 70,
       "price_small": 35,
       "short_name": "BB9",
@@ -90,7 +90,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "Легенда Вірменії 3*",
+      "name": "Легенда Вірменії 3★",
       "price_large": 100,
       "price_small": 50,
       "short_name": "BB10",
@@ -99,7 +99,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "Легенда Вірменії 5*",
+      "name": "Легенда Вірменії 5★",
       "price_large": 140,
       "price_small": 70,
       "short_name": "BB11",
@@ -117,7 +117,7 @@
     {
       "description": "",
       "large_portion_name": "100мл.",
-      "name": "Легенда Вірменії 4*",
+      "name": "Легенда Вірменії 4★",
       "price_large":120,
       "price_small":60,
       "short_name": "BB13",
@@ -131,6 +131,15 @@
       "price_small":60,
       "short_name": "BB14",
       "small_portion_name": "50мл."
-    }                 
+    },
+    {
+      "description": "",
+      "large_portion_name": "100мл.",
+      "name": "KOBLEVO 'Миколаїв нескорений' 4★",
+      "price_large": 84,
+      "price_small": 42,
+      "short_name": "BB15",
+      "small_portion_name": "50мл."
+    }
   ]
 }

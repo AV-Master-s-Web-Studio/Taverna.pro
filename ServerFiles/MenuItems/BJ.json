@@ -31,7 +31,15 @@
       "short_name": "BJ3",
       "small_portion_name": "150мл."
     },
-   
+    {
+      "description": "Сухе, Грузія",
+      "large_portion_name": "750мл.",
+      "name": "Geo Rkasiteli",
+      "price_large": 510,
+      "price_small": 102,
+      "short_name": "BJ4",
+      "small_portion_name": "150мл."
+    },
     {
       "description": "Сухе, Іспанія",
       "large_portion_name": "750мл.",
@@ -85,7 +93,7 @@
       "price_small": 72,
       "short_name": "BJ10",
       "small_portion_name": "150мл."
-    }, 
+    },
     {
       "description": "Сухе, Італія",
       "large_portion_name": "750мл.",
@@ -94,7 +102,51 @@
       "price_small": 93,
       "short_name": "BJ11",
       "small_portion_name": "150мл."
-    }          
-               
+    },
+    {
+      "description": "Сухе, Італія",
+      "large_portion_name": "750мл.",
+      "name": "Піно Гриджіо",
+      "price_large": 285,
+      "price_small": 57,
+      "short_name": "BJ12",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Сухе",
+      "large_portion_name": "750мл.",
+      "name": "Traminer",
+      "price_large": 285,
+      "price_small": 57,
+      "short_name": "BJ13",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Напівсухе, Франція",
+      "large_portion_name": "750мл.",
+      "name": "Uvica Richebaron",
+      "price_large": 390,
+      "price_small": 78,
+      "short_name": "BJ14",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Напівсолодке, Німеччина",
+      "large_portion_name": "750мл.",
+      "name": "Latinium Riesling / Латиніум Рислінг",
+      "price_large": 360,
+      "price_small": 72,
+      "short_name": "BJ15",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Напівсухе, Франція",
+      "large_portion_name": "750мл.",
+      "name": "Vieux Papes / В'ю Папс",
+      "price_large": 390,
+      "price_small": 78,
+      "short_name": "BJ16",
+      "small_portion_name": "150мл."
+    }
   ]
 }    

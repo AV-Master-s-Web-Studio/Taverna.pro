@@ -41,6 +41,22 @@
       "price_small":30,
       "short_name": "BA4",
       "small_portion_name": "50мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "700мл.",
+      "name": "Зубровка 'Польша'",
+      "price_large":392,
+      "short_name": "BA5"
+    },
+    {
+      "description": "",
+      "large_portion_name": "700мл.",
+      "name": "Finlandia",
+      "price_large":750,
+      "price_small":560,
+      "short_name": "BA6",
+      "small_portion_name": "560мл."
     }
   ]
 }

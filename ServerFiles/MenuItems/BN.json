@@ -37,27 +37,6 @@
     {
       "description": "",
       "large_portion_name": "500мл.",
-      "name" : "ЛЬВІВСЬКЕ 1715",
-      "price_large": 65,
-      "short_name": "BN5"
-    },
-    {
-      "description": "",
-      "large_portion_name": "450МЛ.",
-      "name": "ЛЬВІВСЬКЕ М`ЯКЕ",
-      "price_large": 65,
-      "short_name": "BN6"
-    },
-    {
-      "description": "",
-      "large_portion_name": "480мл.",
-      "name": "ЛЬВІВСЬКЕ РІЗДВЯНЕ",
-      "price_large": 70,
-      "short_name": "BN7"
-    },
-    {
-      "description": "",
-      "large_portion_name": "500мл.",
       "name" : "ТЕМНИЙ ЛЕВ",
       "price_large": 70,
       "short_name": "BN8"
@@ -75,13 +54,6 @@
       "name": "STAROPRAMEN",
       "price_large": 70,
       "short_name": "BN10"
-    },
-    {
-      "description": "",
-      "large_portion_name": "450мл.",
-      "name": "MILLER GENUINE DRAFT",
-      "price_large": 85,
-      "short_name": "BN11"
-    }                   
+    }                 
   ]
 }

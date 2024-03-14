@@ -250,9 +250,16 @@
       {
         "description": "джин Genuine, лікер Green Melon, лимонний фреш, цукровий сироп, яєчний білок",
         "large_portion_name": "125мл.",
-        "name": "Космо Абсент",
+        "name": "Melon - Сауер",
         "price_large": 100,
         "short_name": "AA39"
+      },
+      {
+        "description": "ром, лікер Coconut, вершки, ананасовий сік, коктейльна вишня",
+        "large_portion_name": "220мл.",
+        "name": "Піна Колада",
+        "price_large": 125,
+        "short_name": "AA40"
       },
 
 
