@@ -104,16 +104,16 @@
       "small_portion_name": "150мл."
     },
     {
-      "description": "Сухе, Італія",
+      "description": "Сухе, Україна",
       "large_portion_name": "750мл.",
-      "name": "Піно Гриджіо",
+      "name": "Pinot Grigio",
       "price_large": 285,
       "price_small": 57,
       "short_name": "BJ12",
       "small_portion_name": "150мл."
     },
     {
-      "description": "Сухе",
+      "description": "Сухе, Україна",
       "large_portion_name": "750мл.",
       "name": "Traminer",
       "price_large": 285,
@@ -133,7 +133,7 @@
     {
       "description": "Напівсолодке, Німеччина",
       "large_portion_name": "750мл.",
-      "name": "Latinium Riesling / Латиніум Рислінг",
+      "name": "Latinium Riesling",
       "price_large": 360,
       "price_small": 72,
       "short_name": "BJ15",
@@ -142,7 +142,7 @@
     {
       "description": "Напівсухе, Франція",
       "large_portion_name": "750мл.",
-      "name": "Vieux Papes / В'ю Папс",
+      "name": "Vieux Papes",
       "price_large": 390,
       "price_small": 78,
       "short_name": "BJ16",
