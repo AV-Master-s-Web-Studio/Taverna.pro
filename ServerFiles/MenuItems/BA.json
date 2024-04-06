@@ -57,6 +57,27 @@
       "price_small":560,
       "short_name": "BA6",
       "small_portion_name": "560мл."
+    },
+    {
+      "description": "",
+      "large_portion_name": "700мл.",
+      "name": "BJM",
+      "price_large":520,
+      "short_name": "BA7"
+    },
+    {
+      "description": "",
+      "name": "Коskenkorva",
+      "price_small":620,
+      "short_name": "BA8",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "",
+      "name": "Nikita",
+      "price_small":290,
+      "short_name": "BA9",
+      "small_portion_name": "500мл."
     }
   ]
 }
