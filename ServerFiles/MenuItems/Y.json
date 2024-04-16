@@ -124,6 +124,13 @@
       "price_small": 165,
       "short_name": "Y17",
       "small_portion_name": "280г."
-    }           
+    },
+    {
+      "description": "свіжі овочі заправлені оливковою олією",
+      "name": "Салат весняний",
+      "price_small": 75,
+      "short_name": "Y18",
+      "small_portion_name": "195г."
+    }
   ]
 }
