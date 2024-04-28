@@ -30,7 +30,7 @@
     {
       "description": "шинка",
       "name": "Шинка",
-      "price_small": 35,
+      "price_small": 45,
       "short_name": "V4",
       "small_portion_name": "50г."
     },
@@ -79,7 +79,7 @@
     {
       "description": "сир філадельфія",
       "name": "Сирний бортик ",
-      "price_small": 55,
+      "price_small": 40,
       "short_name": "V11",
       "small_portion_name": "60г."
     }, 
