@@ -33,6 +33,27 @@
       "price_small": 103,
       "short_name": "C4",
       "small_portion_name": "200/30г."
+    },
+    {
+      "description": "",
+      "name": "Мітболи в вершковому соусі",
+      "price_small": 95,
+      "short_name": "C5",
+      "small_portion_name": "200г."
+    },
+    {
+      "description": "",
+      "name": "Рис запечений з куркою та овочами",
+      "price_small": 170,
+      "short_name": "C6",
+      "small_portion_name": "170г."
+    },
+    {
+      "description": "",
+      "name": "Фарфале в вершковому соусі",
+      "price_small": 45,
+      "short_name": "C7",
+      "small_portion_name": "150г."
     }
   ]
 }

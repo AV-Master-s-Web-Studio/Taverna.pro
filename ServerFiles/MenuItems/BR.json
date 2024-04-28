@@ -159,15 +159,7 @@
       "short_name": "BR17",
       "small_portion_name": ""
     },
-    {
-      "description": "сироп, сік в асортименті, кава, лід",
-      "large_portion_name": "300мл.",
-      "name": "Бамбл-кава",
-      "price_large": 60,
-      "price_small": 0,
-      "short_name": "BR17",
-      "small_portion_name": ""
-    },
+    
     {
       "description": "гарячий шоколад, молоко, кава, сироп в асортименті",
       "large_portion_name": "200мл.",

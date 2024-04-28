@@ -77,6 +77,20 @@
       "name": "Коблево Victory Semi Sweet",
       "price_large": 270,
       "short_name": "BL10"
+    },
+    {
+      "description": "Сухе, біле",
+      "large_portion_name": "750мл.",
+      "name": "Marengo Prosecco",
+      "price_large": 650,
+      "short_name": "BL11"
+    },
+    {
+      "description": "Сухе, біле",
+      "large_portion_name": "750мл.",
+      "name": "San Mare Prosecco",
+      "price_large": 700,
+      "short_name": "BL12"
     }
   ]
 }

@@ -98,7 +98,24 @@
     "short_name": "BP",
     "special_instructions": ""
   },
-  { "id": 57, "name": "Напої", "short_name": "BQ", "special_instructions": "" },
-  { "id": 58, "name": "Кава", "short_name": "BR", "special_instructions": "" },
-  { "id": 59, "name": "Чай", "short_name": "BS", "special_instructions": "" }
+  { "id": 57,
+   "name": "Напої", 
+   "short_name": "BQ", 
+   "special_instructions": "" 
+  },
+  { "id": 58, 
+  "name": "Кава", 
+  "short_name": "BR", 
+  "special_instructions": "" 
+},
+  { "id": 59, 
+  "name": "Чай", 
+  "short_name": "BS", 
+  "special_instructions": "" 
+},
+  { "id": 60, 
+  "name": "Айс Кава", 
+  "short_name": "BT", 
+  "special_instructions": "" 
+}
 ]
