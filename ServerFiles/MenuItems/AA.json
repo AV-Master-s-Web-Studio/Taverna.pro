@@ -55,13 +55,7 @@
         "price_large": 80,
         "short_name": "AA34"
       },
-      {
-        "description": "горілка, сік, сіль, спеції, чілі",
-        "large_portion_name": "60мл.",
-        "name": "Кривава Мері",
-        "price_large": 60,
-        "short_name": "AA37"
-      },
+      
 
 
 
@@ -198,13 +192,8 @@
         "price_large": 90,
         "short_name": "AA24"
       },
-      {
-        "description": "горілка, сік",
-        "large_portion_name": "170мл.",
-        "name": "Викрутка",
-        "price_large": 80,
-        "short_name": "AA25"
-      },
+      
+
       {
         "description": "текіла, сік апельсиновий, лікер Grenadine, апельсин",
         "large_portion_name": "150мл.",
@@ -240,13 +229,8 @@
         "price_large": 90,
         "short_name": "AA27"
       },
-      {
-        "description": "абсент, лікер Triple Sec, лимонний фреш, сік, цукровий сироп",
-        "large_portion_name": "70мл.",
-        "name": "Космо Абсент",
-        "price_large": 80,
-        "short_name": "AA36"
-      },
+      
+      
       {
         "description": "джин Genuine, лікер Green Melon, лимонний фреш, цукровий сироп, яєчний білок",
         "large_portion_name": "125мл.",

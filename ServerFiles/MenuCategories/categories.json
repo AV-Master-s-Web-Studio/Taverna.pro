@@ -34,5 +34,11 @@
     "name": "Додатки до піци",
     "short_name": "V",
     "special_instructions": ""
+  },
+  {
+    "id": 12,
+    "name": "Тарілки для компанії",
+    "short_name": "E",
+    "special_instructions": ""
   }
 ]

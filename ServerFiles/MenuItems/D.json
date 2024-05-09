@@ -28,7 +28,7 @@
       "small_portion_name": "за 100г."
     },
     {
-      "description": "Морозиво",
+      "description": "Морозиво в асортименті",
       "name": "Морозиво",
       "price_small": 85,
       "short_name": "D4",
@@ -36,10 +36,10 @@
     },
     {
       "description": "Тірамісу",
-      "name": "Тірамісу (ПОКИ НЕ ДОСТУПНО)",
-      "price_small": 65,
+      "name": "Тірамісу",
+      "price_small": 95,
       "short_name": "D5",
-      "small_portion_name": "125г."
+      "small_portion_name": "160г."
     },
     {
       "description": "Наполеон",
