@@ -9,147 +9,147 @@
     {
       "description": "вершки, куряче філе, томат, яйце перепелине, листя салату,сир моцарела, сир пармезан",
       "name": "Цезар",
-      "price_small": 174,
+      "price_small": 184,
       "short_name": "U1",
       "small_portion_name": "450г."
     },
     {
       "description": "соус, сир моцарела, паприка, огірок малосольний, печериці, фарш свинний, рукулла, часникове масло.",
       "name": "Болон`єзе",
-      "price_small": 178,
+      "price_small": 188,
       "short_name": "U2",
       "small_portion_name": "530г."
     },
     {
       "description": "соус, сири: дор-блю, моцарела, пармезан, тенеро.",
       "name": "Чотири сира",
-      "price_small": 185,
+      "price_small": 195,
       "short_name": "U3",
       "small_portion_name": "450г."
     },
     {
       "description": "соус, сир моцарела, пармська шинка,рукола, сир пармезан.",
       "name": "Прошуто",
-      "price_small": 185,
+      "price_small": 195,
       "short_name": "U4",
       "small_portion_name": "470г."
     },
     {
       "description": "соус, сир моцарела, салямі, шинка, бекон, мисливські ковбаски, часникове масло",
       "name": "Неаполь",
-      "price_small": 185,
+      "price_small": 195,
       "short_name": "U5",
       "small_portion_name": "440г."
     },
     {
       "description": "вершки, куряче філе, сир моцарела, ананаси. ",
       "name": "Гавайська",
-      "price_small": 168,
+      "price_small": 178,
       "short_name": "U6",
       "small_portion_name": "450г."
     },
     {
       "description": "вершки, сир моцарела, сир пармезан, печериці, шинка, томат, масло часникове.",
       "name": "Ді поло ",
-      "price_small": 170,
+      "price_small": 180,
       "short_name": "U7",
       "small_portion_name": "430г."
     },
     {
       "description": "соус, сир моцарела, салямі, шинка, паприка, маслини.",
       "name": "Везувіо ",
-      "price_small": 163,
+      "price_small": 173,
       "short_name": "U8",
       "small_portion_name": "550."
     },
     {
       "description": "соус, сир моцарела, червона цибуля, паприка, печериці, бекон, шинка, томат, зелень, часникове масло. ",
       "name": "Річеза",
-      "price_small": 168,
+      "price_small": 178,
       "short_name": "U9",
       "small_portion_name": "500г."
     },
     {
       "description": "соус, сир моцарела, печериці, мисливські ковбаски, ковбаски гриль.",
       "name": "Баварська",
-      "price_small": 156,
+      "price_small": 166,
       "short_name": "U10",
       "small_portion_name": "450г."
     },
     {
       "description": "соус, сир моцарела, куряче філе, сир дор-блю.",
       "name": "Маленька Італія",
-      "price_small": 148,
+      "price_small": 158,
       "short_name": "U11",
       "small_portion_name": "400г."
     },
     {
       "description": "соус, сир моцарела, салямі, масло чілі ",
       "name": "Диявол",
-      "price_small": 146,
+      "price_small": 156,
       "short_name": "U12",
       "small_portion_name": "450г."
     },
     {
       "description": "соус, сир моцарела, куряче філе, шинка, кукурудза ",
       "name": "Маріо ",
-      "price_small": 160,
+      "price_small": 170,
       "short_name": "U13",
       "small_portion_name": "500г."
     },
     {
       "description": "вершки, сир моцарела, куряче філе, печериці, томати, сир пармезан, перець чілі, петрушка, масло часникове.",
       "name": "Кальцоне Терзо",
-      "price_small": 142,
+      "price_small": 152,
       "short_name": "U14",
       "small_portion_name": "500г."
     },
     {
       "description": "соус, червона цибуля, паприка, спаржа, печериці, маслини, часникове масло. ",
       "name": "Вегетаріанська",
-      "price_small": 85,
+      "price_small": 95,
       "short_name": "U15",
       "small_portion_name": "400г."
     },
     {
       "description": "соус, сир моцарела, салямі, часникове масло.",
       "name": "Франческа",
-      "price_small": 125,
+      "price_small": 135,
       "short_name": "U16",
       "small_portion_name": "380г."
     },
     {
       "description": "соус, сир моцарела, томат, часникове масло.",
       "name": "Маргарита",
-      "price_small": 90,
+      "price_small": 100,
       "short_name": "U17",
       "small_portion_name": "350г."
     },
     {
       "description": "вершки, бекон, перепелині яйця, сир моцарела, сир пармезан, помідор",
       "name": "Карбонара",
-      "price_small": 165,
+      "price_small": 175,
       "short_name": "U18",
       "small_portion_name": "500г."
     },
     {
       "description": "вершковий соус, лосось, авокадо, томат чері, сир моцарела та моцарела чері, мікс салатів",
       "name": "Селмон",
-      "price_small": 250,
+      "price_small": 260,
       "short_name": "U19",
       "small_portion_name": "630г."
     },
     {
       "description": "запечені свинина, курка, солоні огірки, перець болгарський, цибуля маринована, сир моцарела, гіркий перець",
       "name": "Козацька з перцем",
-      "price_small": 195,
+      "price_small": 205,
       "short_name": "U20",
       "small_portion_name": "660г."
     },
     {
       "description": "вершковий соус, кальмари, креветка, мідії, в'ялені томати, орегано, сир моцарела чері, сир пармезан",
       "name": "Маринара",
-      "price_small": 250,
+      "price_small": 260,
       "short_name": "U21",
       "small_portion_name": "560г."
     }
