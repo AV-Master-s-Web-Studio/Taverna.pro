@@ -21,25 +21,11 @@
         "short_name": "AC2"
       },
       {
-        "description": "пастила домашнього приготування",
-        "large_portion_name": "",
-        "name": "Фруктова насолода",
-        "price_large": 30,
-        "short_name": "AC3"
-      },
-      {
-        "description": "пастила домашнього приготування з горіхами",
-        "large_portion_name": "",
-        "name": "Горіхова насолода",
-        "price_large": 40,
-        "short_name": "AC4"
-      },
-      {
         "description": "",
         "large_portion_name": "",
         "name": "Чупа-чупс",
         "price_large": 15,
-        "short_name": "AC5"
+        "short_name": "AC3"
       }
     ]
 }
