@@ -3,7 +3,7 @@
     "id": 57,
     "name": "Напої",
     "short_name": "BQ",
-    "special_instructions": "Соки, води та напої"
+    "special_instructions": "Соки, вода та напої"
   },
   "menu_items": [
     {
@@ -91,7 +91,7 @@
       "name": "Боржомі",
       "price_large": 95,
       "price_small": 96,
-      "short_name": "BQ6",
+      "short_name": "BQ10",
       "small_portion_name": "500мл."
     }        
   ]
