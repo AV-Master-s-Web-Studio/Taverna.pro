@@ -1,7 +1,7 @@
 {
   "category": {
     "id": 2,
-    "name": "Супи",
+    "name": "Перші страви",
     "short_name": "S",
     "special_instructions": ""
   },
@@ -14,7 +14,7 @@
       "small_portion_name": "300/30г."
     },
     {
-      "description": "Бульйон з курки",
+      "description": "Курячий бульйон",
       "name": "Бульйон з курки",
       "price_small": 55,
       "short_name": "S2",
