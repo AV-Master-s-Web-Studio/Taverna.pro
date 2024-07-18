@@ -46,8 +46,10 @@
       "description": "",
       "large_portion_name": "700мл.",
       "name": "Зубровка 'Польша'",
-      "price_large":392,
-      "short_name": "BA5"
+      "price_large":455,
+      "price_small":325,
+      "short_name": "BA5",
+      "small_portion_name": "500мл."
     },
     {
       "description": "",
@@ -56,7 +58,7 @@
       "price_large":750,
       "price_small":560,
       "short_name": "BA6",
-      "small_portion_name": "560мл."
+      "small_portion_name": "500мл."
     },
     {
       "description": "",
