@@ -61,23 +61,23 @@
 
       {
         "description": "лимон, ром, цукровий сироп, Спрайт, м'ята",
-        "large_portion_name": "260мл.",
+        "large_portion_name": "280мл.",
         "name": "Мохіто",
-        "price_large": 110,
+        "price_large": 130,
         "short_name": "AA7"
       },
       {
         "description": "лимон, ром, цукровий сироп, Спрайт, м'ята, полуниця, лікер Grenadine",
-        "large_portion_name": "295мл.",
+        "large_portion_name": "320мл.",
         "name": "Мохіто полуничний",
-        "price_large": 115,
+        "price_large": 150,
         "short_name": "AA8"
       },
       {
         "description": "горілка, джин, ром, текіла, лікер Triple Sec, цукровий сироп, лимонний фреш, Кока-Кола",
-        "large_portion_name": "220мл.",
+        "large_portion_name": "230мл.",
         "name": "Лонг айленд",
-        "price_large": 125,
+        "price_large": 135,
         "short_name": "AA9"
       },
       {
@@ -91,7 +91,7 @@
         "description": "Бехеровка, ром, лікер Amaretto, сік ананасовий, лимонний фреш",
         "large_portion_name": "270мл.",
         "name": "Фестиваль",
-        "price_large": 120,
+        "price_large": 130,
         "short_name": "AA11"
       },
       {
@@ -205,14 +205,14 @@
         "description": "фанта, лікери: Grenadine, Jagermeister",
         "large_portion_name": "170мл.",
         "name": "Єгер-Фантом",
-        "price_large": 110,
+        "price_large": 120,
         "short_name": "AA32"
       },
       {
         "description": "сік, лікери: Grenadine, Jagermeister",
         "large_portion_name": "210мл.",
         "name": "Єгермонстр",
-        "price_large": 90,
+        "price_large": 100,
         "short_name": "AA35"
       },
       {
@@ -226,7 +226,7 @@
         "description": "апероль, вино ігристе, мінеральна вода",
         "large_portion_name": "230мл.",
         "name": "Апероль шприц",
-        "price_large": 90,
+        "price_large": 120,
         "short_name": "AA27"
       },
       
@@ -273,7 +273,7 @@
         "description": "сік, сироп, ром, апельсин, прянощі",
         "large_portion_name": "200мл.",
         "name": "Спекотна вишня",
-        "price_large": 85,
+        "price_large": 90,
         "short_name": "AA31"
       }
     ]
