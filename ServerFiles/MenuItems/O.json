@@ -3,7 +3,7 @@
     "id": 3,
     "name": "Основні страви",
     "short_name": "O",
-    "special_instructions": ""
+    "special_instructions": "Замовляй Бургер Бруклін або Бургер Цезар та отримуй напій 0.25 в склі у ПОДАРУНОК"
   },
   "menu_items": [
     {
@@ -81,14 +81,14 @@
     {
       "description": "філе білої рибки, печериці, вершки, спеції ",
       "name": "Пательня з рибкою під грибним соусом",
-      "price_small": 190,
+      "price_small": 230,
       "short_name": "O12",
       "small_portion_name": "300г."
     },
     {
       "description": "філе білої рибки, цукіні, морква, цибуля, маслини, лимон ",
       "name": "Рибна пательня з овочами ",
-      "price_small": 180,
+      "price_small": 210,
       "short_name": "O13",
       "small_portion_name": "300г."
     },
@@ -163,6 +163,13 @@
       "price_small": 340,
       "short_name": "O24",
       "small_portion_name": "400г."
+    },
+    {
+      "description": "мідії,цибуля марс,сир моцарела,вершки,брускета,спеції",
+      "name": "Мідії в мушлях",
+      "price_small": 195,
+      "short_name": "O25",
+      "small_portion_name": "400/30г."
     }
   ]
 }
