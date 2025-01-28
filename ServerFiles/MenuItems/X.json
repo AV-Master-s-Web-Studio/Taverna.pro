@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Закуски",
     "short_name": "X",
-    "special_instructions": "закуски на будь-який смак"
+    "special_instructions": "Закуски на будь-який смак"
   },
   "menu_items": [
     {
@@ -37,21 +37,21 @@
     {
       "description": "Сир тенеро, паніровка, майонезно-часниковий соус",
       "name": "Сирні палички",
-      "price_small": 110,
+      "price_small": 140,
       "short_name": "X5",
       "small_portion_name": "200/30г."
     },
     {
       "description": "яйця, брускети, пармська шинка, сир моцарела чері",
       "name": "Яйця Пашот на брускеті",
-      "price_small": 116,
+      "price_small": 136,
       "short_name": "X6",
       "small_portion_name": "150г."
     },
     {
       "description": "солодка паприка, цукіні, печериці, червона цибуля, баклажан, зелень",
       "name": "Овочі гриль",
-      "price_small": 285,
+      "price_small": 300,
       "short_name": "X7",
       "small_portion_name": "500г."
     },
@@ -65,14 +65,14 @@
     {
       "description": "пармська шинка, салямі, бекон, шинка, зелень",
       "name": "Нарізка м'ясна",
-      "price_small": 140,
+      "price_small": 170,
       "short_name": "X9",
       "small_portion_name": "200г."
     },
     {
       "description": "бекон, шинка, сир моцарела, чері, зелень, томат, рукола, яйце, соус песто, хліб зерновий",
       "name": "Італійський сніданок",
-      "price_small": 90,
+      "price_small": 110,
       "short_name": "X10",
       "small_portion_name": "300г."
     },
@@ -86,21 +86,21 @@
     {
       "description": "лаваш, овочі, курка, соус, картопля фрі",
       "name": "Шаверма з картоплею фрі",
-      "price_small": 138,
+      "price_small": 158,
       "short_name": "X12",
       "small_portion_name": "180г."
     },
     {
       "description": "яйця, печериці, вершки, сир моцарела, томат",
       "name": "Фрітата з печерицями та сиром",
-      "price_small": 95,
+      "price_small": 125,
       "short_name": "X13",
       "small_portion_name": "250г."
     },
     {
       "description": "яйця, вершки, томат, сир пармезан, сир моцарела, маслини",
       "name": "Фрітата з томатом і сиром",
-      "price_small": 95,
+      "price_small": 125,
       "short_name": "X14",
       "small_portion_name": "240г."
     },

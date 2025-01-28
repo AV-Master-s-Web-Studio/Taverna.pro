@@ -170,6 +170,13 @@
       "price_small": 195,
       "short_name": "O25",
       "small_portion_name": "400/30г."
+    },
+    {
+      "description": "курятина,картопля,печериці,цибуля,спеції",
+      "name": "Шніцель з картоплею і грибами",
+      "price_small": 160,
+      "short_name": "O25",
+      "small_portion_name": "430г."
     }
   ]
 }

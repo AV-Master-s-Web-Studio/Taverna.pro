@@ -3,14 +3,14 @@
     "id": 58,
     "name": "Кава",
     "short_name": "BR",
-    "special_instructions": "Гарячі та холодні напої на основі кави"
+    "special_instructions": "Те,що потрібно кожному"
   },
   "menu_items": [
     {
       "description": "",
       "large_portion_name": "40мл.",
       "name": "Еспресо",
-      "price_large": 25,
+      "price_large": 35,
       "price_small": 0,
       "short_name": "BR1",
       "small_portion_name": ""
@@ -19,7 +19,7 @@
       "description": "",
       "large_portion_name": "50мл.",
       "name": "Еспресо з вершками",
-      "price_large": 30,
+      "price_large": 40,
       "price_small": 0,
       "short_name": "BR2",
       "small_portion_name": ""
@@ -28,7 +28,7 @@
       "description": "",
       "large_portion_name": "50мл.",
       "name": "Еспресо з молоком",
-      "price_large": 30,
+      "price_large": 40,
       "price_small": 0,
       "short_name": "BR3",
       "small_portion_name": ""
@@ -37,7 +37,7 @@
       "description": "",
       "large_portion_name": "130мл.",
       "name": "Американо",
-      "price_large": 25,
+      "price_large": 35,
       "price_small": 0,
       "short_name": "BR4",
       "small_portion_name": ""
@@ -46,7 +46,7 @@
       "description": "",
       "large_portion_name": "140мл.",
       "name": "Американо з вершками",
-      "price_large": 30,
+      "price_large": 40,
       "price_small": 0,
       "short_name": "BR5",
       "small_portion_name": ""
@@ -55,7 +55,7 @@
       "description": "",
       "large_portion_name": "140мл.",
       "name": "Американо з молоком",
-      "price_large": 30,
+      "price_large": 40,
       "price_small": 0,
       "short_name": "BR6",
       "small_portion_name": ""
@@ -64,7 +64,7 @@
       "description": "",
       "large_portion_name": "200мл.",
       "name": "Капучино",
-      "price_large": 40,
+      "price_large": 50,
       "price_small": 0,
       "short_name": "BR7",
       "small_portion_name": ""
@@ -73,7 +73,7 @@
       "description": "",
       "large_portion_name": "200мл.",
       "name": "Арт Капучино",
-      "price_large": 45,
+      "price_large": 55,
       "price_small": 0,
       "short_name": "BR8",
       "small_portion_name": ""
@@ -82,7 +82,7 @@
       "description": "",
       "large_portion_name": "200мл.",
       "name": "Лате",
-      "price_large": 40,
+      "price_large": 50,
       "price_small": 0,
       "short_name": "BR9",
       "small_portion_name": ""
@@ -90,8 +90,8 @@
     {
       "description": "лате, сироп в асортименті",
       "large_portion_name": "200мл.",
-      "name": "Лате макіято",
-      "price_large": 50,
+      "name": "Лате макіато",
+      "price_large": 60,
       "price_small": 0,
       "short_name": "BR10",
       "small_portion_name": ""
@@ -100,7 +100,7 @@
       "description": "",
       "large_portion_name": "300мл.",
       "name": "Банановий лате",
-      "price_large": 70,
+      "price_large": 80,
       "price_small": 0,
       "short_name": "BR11",
       "small_portion_name": ""
@@ -118,7 +118,7 @@
       "description": "кава, молочна піна, шоколадний сироп, збиті вершки",
       "large_portion_name": "200мл.",
       "name": "Кава по Віденськи",
-      "price_large": 65,
+      "price_large": 75,
       "price_small": 0,
       "short_name": "BR13",
       "small_portion_name": ""
@@ -127,7 +127,7 @@
       "description": "кава, vat69, збиті вершки",
       "large_portion_name": "150мл.",
       "name": "Кава по Ірландськи",
-      "price_large": 85,
+      "price_large": 95,
       "price_small": 0,
       "short_name": "BR14",
       "small_portion_name": ""
@@ -136,7 +136,7 @@
       "description": "кава, морозиво",
       "large_portion_name": "150мл.",
       "name": "Кава глясе",
-      "price_large": 55,
+      "price_large": 70,
       "price_small": 0,
       "short_name": "BR15",
       "small_portion_name": ""
@@ -145,7 +145,7 @@
       "description": "",
       "large_portion_name": "200мл.",
       "name": "Какао",
-      "price_large": 40,
+      "price_large": 60,
       "price_small": 0,
       "short_name": "BR16",
       "small_portion_name": ""
@@ -154,7 +154,7 @@
       "description": "",
       "large_portion_name": "200мл.",
       "name": "Гарячий шоколад",
-      "price_large": 60,
+      "price_large": 70,
       "price_small": 0,
       "short_name": "BR17",
       "small_portion_name": ""
@@ -164,7 +164,7 @@
       "description": "гарячий шоколад, молоко, кава, сироп в асортименті",
       "large_portion_name": "200мл.",
       "name": "Мокачіно",
-      "price_large": 75,
+      "price_large": 85,
       "price_small": 0,
       "short_name": "BR18",
       "small_portion_name": ""
