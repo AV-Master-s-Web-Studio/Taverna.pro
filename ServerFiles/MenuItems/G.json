@@ -9,28 +9,28 @@
     {
       "description": "картопля, печериці, курятина, цибуля, сир фета, сир моцарела, перець чілі",
       "name": "Картопля по-грузинськи",
-      "price_small": 185,
+      "price_small": 195,
       "short_name": "G1",
       "small_portion_name": "510г."
     },
     {
       "description": "рис, спаржа, соєвий соус, курятина, цибуля, болгарський перець",
       "name": "Паназійський рис",
-      "price_small": 95,
+      "price_small": 105,
       "short_name": "G2",
       "small_portion_name": "300г."
     },
     {
       "description": "картопля, цибуля, шкварки",
       "name": "Картопля зі шкварками",
-      "price_small": 125,
+      "price_small": 135,
       "short_name": "G3",
       "small_portion_name": "340г."
     },
     {
       "description": "картопля, вершки, спеції",
       "name": "Картопляне пюре з вершками",
-      "price_small": 95,
+      "price_small": 105,
       "short_name": "G4",
       "small_portion_name": "200г."
     },
@@ -44,21 +44,21 @@
     {
       "description": "картопля, часникове масло, часник ",
       "name": "Картопля по-селянськи",
-      "price_small": 65,
+      "price_small": 75,
       "short_name": "G6",
       "small_portion_name": "210г."
     },
     {
       "description": "мисливські ковбаски, цибуля, томатна паста, помідор, гриби, картопля",
       "name": "Овочеве рагу з ковбасками ",
-      "price_small": 125,
+      "price_small": 135,
       "short_name": "G7",
       "small_portion_name": "350г."
     },
     {
       "description": "рис, шпинат, телятина, помідор, спаржа, цибуля, вершки",
       "name": "Рис зі шпинатом та телятиною",
-      "price_small": 125,
+      "price_small": 135,
       "short_name": "G8",
       "small_portion_name": "340г."
     }

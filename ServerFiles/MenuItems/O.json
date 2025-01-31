@@ -30,7 +30,7 @@
     {
       "description": "куряче філе, сир, мікс салатів, томат, соус.",
       "name": "Курячий стейк під сиром",
-      "price_small": 145,
+      "price_small": 175,
       "short_name": "O4",
       "small_portion_name": "300г."
     },
@@ -58,7 +58,7 @@
     {
       "description": "курячі крильця під медово-гірчичним соусом",
       "name": "Курячі крильця під медово-гірчичним соусом",
-      "price_small": 105,
+      "price_small": 115,
       "short_name": "O8",
       "small_portion_name": "300."
     },
@@ -102,7 +102,7 @@
     {
       "description": "стейк лосося, соус тартар, лимон",
       "name": "Стейк лосося",
-      "price_small": 180,
+      "price_small": 210,
       "short_name": "O15",
       "small_portion_name": "за 100г."
     },

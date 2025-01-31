@@ -9,21 +9,21 @@
     {
       "description": "Сирники, сметана, топінг",
       "name": "Сирники по-домашньому",
-      "price_small": 98,
+      "price_small": 120,
       "short_name": "D1",
       "small_portion_name": "200/30/15г."
     },
     {
       "description": "повітряний бісквітний кекс з рідкою шоколадною начинкою,що доповнюється морозивом.",
       "name": "Шоколадний фондан",
-      "price_small": 95,
+      "price_small": 105,
       "short_name": "D2",
       "small_portion_name": "100/50г."
     },
     {
       "description": "в наявності чергується кавовий та класичний чізкейк",
       "name": "Чізкейк",
-      "price_small": 70,
+      "price_small": 80,
       "short_name": "D3",
       "small_portion_name": "за 100г."
     },
@@ -37,7 +37,7 @@
     {
       "description": "італійський десерт на основі сиру маскарпоне, як наповнювач додається печиво Савоярді просочене кавово-коньячним сиропом та какао",
       "name": "Тірамісу",
-      "price_small": 95,
+      "price_small": 125,
       "short_name": "D5",
       "small_portion_name": "160г."
     },
@@ -58,16 +58,16 @@
     {
       "description": "",
       "name": "Млинці з карамелізованим яблуком та морозивом",
-      "price_small": 98,
+      "price_small": 120,
       "short_name": "D8",
       "small_portion_name": "300/50/20г."
     },
     {
-      "description": "немає в наявності",
-      "name": "Штрудель з яблуками та морозивом",
-      "price_small": 70,
+      "description": "",
+      "name": "Тістечко в асортименті",
+      "price_small": 135,
       "short_name": "D9",
-      "small_portion_name": "за 100г."
+      "small_portion_name": ""
     }
   ]
 }
