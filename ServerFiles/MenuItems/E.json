@@ -23,14 +23,14 @@
     {
       "description": "Біла риба, креветки, кільця кальмара, соуси",
       "name": "Морська тарілка",
-      "price_small": 360,
+      "price_small": 380,
       "short_name": "E3",
       "small_portion_name": "300/30/30г."
     },
     {
       "description": "Крильця курячі, паніровка в асортименті, соус майонезно-часниковий, солодкий чилі",
       "name": "Крилата компанія",
-      "price_small": 290,
+      "price_small": 310,
       "short_name": "E4",
       "small_portion_name": "700/50/50г."
     },

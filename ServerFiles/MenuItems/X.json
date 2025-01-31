@@ -37,7 +37,7 @@
     {
       "description": "Сир тенеро, паніровка, майонезно-часниковий соус",
       "name": "Сирні палички",
-      "price_small": 140,
+      "price_small": 150,
       "short_name": "X5",
       "small_portion_name": "200/30г."
     },
@@ -58,7 +58,7 @@
     {
       "description": "пармська шинка, салямі, сир фета, фокачча, овочі гриль, мікс салатів, соуси",
       "name": "Антіпасто по-італійськи",
-      "price_small": 240,
+      "price_small": 260,
       "short_name": "X8",
       "small_portion_name": "500г."
     },
@@ -117,6 +117,14 @@
       "price_small": 210,
       "short_name": "X16",
       "small_portion_name": "350г."
-    }    
+    },
+    {
+      "description": "",
+      "name": "Цибулеві кільця",
+      "price_small": 130,
+      "short_name": "X17",
+      "small_portion_name": "200/50г."
+    }
+
   ]
 }
