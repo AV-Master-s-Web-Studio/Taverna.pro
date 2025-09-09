@@ -9,7 +9,7 @@
     {
       "description": "Курячі крильця, мисливські ковбаски, курячий шашлик, свинний шашлик, картопля по-селянськи, соус шашличний, майонезно-часниковий",
       "name": "М'ясна тарілка",
-      "price_small": 380,
+      "price_small": 420,
       "short_name": "E1",
       "small_portion_name": "950/30/30г."
     },
@@ -23,28 +23,28 @@
     {
       "description": "Біла риба, креветки, кільця кальмара, соуси",
       "name": "Морська тарілка",
-      "price_small": 380,
+      "price_small": 420,
       "short_name": "E3",
       "small_portion_name": "300/30/30г."
     },
     {
       "description": "Крильця курячі, паніровка в асортименті, соус майонезно-часниковий, солодкий чилі",
       "name": "Крилата компанія",
-      "price_small": 360,
+      "price_small": 380,
       "short_name": "E4",
       "small_portion_name": "700/50/50г."
     },
     {
       "description": "Крильця, асорті шашлик, ребра під соусом BBQ",
       "name": "Велика тарілка асорті",
-      "price_small": 1150,
+      "price_small": 1350,
       "short_name": "E5",
       "small_portion_name": "1300/50/50/50г."
     },
     {
       "description": "Ошийок, цибуля, лаваш, соус солодкий чилі, шашличний",
       "name": "Свинний шашлик з цибулею",
-      "price_small": 90,
+      "price_small": 95,
       "short_name": "E6",
       "small_portion_name": "за 100г."
     }
