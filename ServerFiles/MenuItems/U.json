@@ -3,29 +3,29 @@
     "id": 10,
     "name": "Піца",
     "short_name": "U",
-    "special_instructions": ""
+    "special_instructions": "Додай сирни бортик для ыльшого смаку"
   },
   "menu_items": [
     {
-      "description": "соус, сири: дор-блю, моцарела, пармезан, тенеро.",
-      "name": "Чотири сира",
-      "price_small": 230,
+      "description": "Сет з двох новинок,який точно не залишить Вас байдужими",
+      "name": "Осінній сет",
+      "price_small": 360,
       "short_name": "U1",
-      "small_portion_name": "450г."
+      "small_portion_name": ""
     },
     {
-      "description": "соус, сир моцарела, паприка, огірок малосольний, печериці, фарш свинний, рукола.",
-      "name": "Болон`єзе",
-      "price_small": 205,
+      "description": "соус,сир моцарела,сир чедер,картопля фрі,салямі,сирний соус",
+      "name": "Фрізента",
+      "price_small": 200,
       "short_name": "U2",
-      "small_portion_name": "530г"
+      "small_portion_name": "550г"
     },
     {
-      "description": "вершки, куряче філе, томат, яйце перепелине, листя салату,сир моцарела, сир пармезан",
-      "name": "Цезар",
-      "price_small": 215,
-      "short_name": "U3",
-      "small_portion_name": "450г."
+      "description": "соус барбекю,сир моцарела,печериці,копчена курка,мисливські квбаски,шинка,салямі",
+      "name": "Барбекю",
+      "price_small": 200,
+      "short_name": "U2",
+      "small_portion_name": "550г"
     },
     {
       "description": "соус, сир моцарела, пармська шинка,рукола, сир пармезан.",
@@ -152,6 +152,27 @@
       "price_small": 350,
       "short_name": "U21",
       "small_portion_name": "560г."
+    },
+    {
+      "description": "соус, сири: дор-блю, моцарела, пармезан, тенеро.",
+      "name": "Чотири сира",
+      "price_small": 230,
+      "short_name": "U22",
+      "small_portion_name": "450г."
+    },
+    {
+      "description": "соус, сир моцарела, паприка, огірок малосольний, печериці, фарш свинний, рукола.",
+      "name": "Болон`єзе",
+      "price_small": 205,
+      "short_name": "U2",
+      "small_portion_name": "530г"
+    },
+    {
+      "description": "вершки,куряче філе,томат чері,яйце перепелине,айзбег,сир моцарелла,сир пармезан",
+      "name": "Цезар",
+      "price_small": 215,
+      "short_name": "U2",
+      "small_portion_name": "450г"
     }
   ]
 }
