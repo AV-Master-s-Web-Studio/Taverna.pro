@@ -10,49 +10,42 @@
       "description": "",
       "large_portion_name": "500мл.",
       "name": "TUBORG",
-      "price_large": 70,
+      "price_large": 85,
       "short_name": "BN1"
     },
     {
       "description": "",
       "large_portion_name": "500мл.",
       "name": "CARLSBERG",
-      "price_large": 70,
+      "price_large": 85,
       "short_name": "BN2"
     },
     {
       "description": "",
       "large_portion_name": "500мл.",
       "name": "CARLSBERG Б/А",
-      "price_large": 70,
+      "price_large": 80,
       "short_name": "BN3"
     },
     {
       "description": "",
       "large_portion_name": "460МЛ.",
       "name": "KRONENBOURG BLANC",
-      "price_large": 85,
+      "price_large": 95,
       "short_name": "BN4"
     },
     {
       "description": "",
       "large_portion_name": "500мл.",
-      "name" : "ТЕМНИЙ ЛЕВ",
-      "price_large": 70,
-      "short_name": "BN8"
-    },
-    {
-      "description": "",
-      "large_portion_name": "500мл.",
-      "name": "ROBERT DOMS",
-      "price_large": 75,
+      "name": "Різдвяне",
+      "price_large": 95,
       "short_name": "BN9"
     },
     {
       "description": "",
       "large_portion_name": "480мл.",
       "name": "STAROPRAMEN",
-      "price_large": 70,
+      "price_large": 15,
       "short_name": "BN10"
     }                 
   ]
