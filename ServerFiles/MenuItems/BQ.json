@@ -19,8 +19,8 @@
       "description": "",
       "large_portion_name": "1000мл.",
       "name": "Спрайт",
-      "price_large": 70,
-      "price_small": 35,
+      "price_large": 80,
+      "price_small": 40,
       "short_name": "BQ2",
       "small_portion_name": "500мл."
     },
@@ -37,8 +37,8 @@
       "description": "в асортименті",
       "large_portion_name": "1л.",
       "name": "Сік Rich",
-      "price_large": 120,
-      "price_small": 30,
+      "price_large": 152,
+      "price_small": 38,
       "short_name": "BQ4",
       "small_portion_name": "250мл."
     },
@@ -50,13 +50,11 @@
       "short_name": "BQ5"
     },
     {
-      "description": "газована, не газована",
-      "large_portion_name": "1л.",
+      "description": "газована",
+      "large_portion_name": "1,5л.",
       "name": "Бонаква",
-      "price_large": 48,
-      "price_small": 35,
-      "short_name": "BQ6",
-      "small_portion_name": "500мл."
+      "price_large": 60,
+      "short_name": "BQ6"
     },
     {
       "description": "",

@@ -10,7 +10,7 @@
         "description": "лікери: Baileys вершковий, Espresso Coffee, Triple Sec",
         "large_portion_name": "60мл.",
         "name": "Б-52",
-        "price_large": 90,
+        "price_large": 110,
         "short_name": "AA1"
       },
       {
@@ -31,7 +31,7 @@
         "description": "лікери: Sambuca, Baileys, Blue Curacao; абсент, текіла",
         "large_portion_name": "60мл.",
         "name": "Нірвана",
-        "price_large": 105,
+        "price_large": 115,
         "short_name": "AA4"
       },
       {
@@ -55,10 +55,6 @@
         "price_large": 80,
         "short_name": "AA34"
       },
-      
-
-
-
       {
         "description": "лимон, ром, цукровий сироп, Спрайт, м'ята",
         "large_portion_name": "280мл.",
@@ -91,7 +87,7 @@
         "description": "Бехеровка, ром, лікер Amaretto, сік ананасовий, лимонний фреш",
         "large_portion_name": "270мл.",
         "name": "Фестиваль",
-        "price_large": 130,
+        "price_large": 150,
         "short_name": "AA11"
       },
       {
@@ -119,7 +115,7 @@
         "description": "віскі, лікер Amaretto, цукровий сироп, лимонний фреш, яєчний білок",
         "large_portion_name": "155мл.",
         "name": "Амарето сауер",
-        "price_large": 110,
+        "price_large": 140,
         "short_name": "AA14"
       }, 
       {
@@ -198,35 +194,35 @@
         "description": "текіла, сік апельсиновий, лікер Grenadine, апельсин",
         "large_portion_name": "150мл.",
         "name": "Текіла санрайз",
-        "price_large": 105,
+        "price_large": 115,
         "short_name": "AA26"
       },
       {
         "description": "фанта, лікери: Grenadine, Jagermeister",
         "large_portion_name": "170мл.",
         "name": "Єгер-Фантом",
-        "price_large": 120,
+        "price_large": 140,
         "short_name": "AA32"
       },
       {
         "description": "сік, лікери: Grenadine, Jagermeister",
         "large_portion_name": "210мл.",
         "name": "Єгермонстр",
-        "price_large": 100,
+        "price_large": 120,
         "short_name": "AA35"
       },
       {
         "description": "текіла, абсент, горілка, ром, Blue Curasao, лікер Green Melon, енергетик",
         "large_portion_name": "270мл.",
         "name": "Зелена фея",
-        "price_large": 120,
+        "price_large": 150,
         "short_name": "AA33"
       },
       {
         "description": "апероль, вино ігристе, мінеральна вода",
         "large_portion_name": "230мл.",
         "name": "Апероль шприц",
-        "price_large": 120,
+        "price_large": 140,
         "short_name": "AA27"
       },
       
@@ -242,7 +238,7 @@
         "description": "ром, лікер Coconut, вершки, ананасовий сік, коктейльна вишня",
         "large_portion_name": "220мл.",
         "name": "Піна Колада",
-        "price_large": 125,
+        "price_large": 135,
         "short_name": "AA40"
       },
 
@@ -252,14 +248,14 @@
         "description": "вино сухе червоне, сік яблучний, яблуко, апельсин, мед, прянощі",
         "large_portion_name": "200мл.",
         "name": "Червоний глінтвейн",
-        "price_large": 68,
+        "price_large": 80,
         "short_name": "AA28"
       },
       {
         "description": "вино сухе біле, сік яблучний, яблуко, апельсин, мед, прянощі",
         "large_portion_name": "200мл.",
         "name": "Білий глінтвейн",
-        "price_large": 68,
+        "price_large": 80,
         "short_name": "AA29"
       },
       {
@@ -274,6 +270,13 @@
         "large_portion_name": "200мл.",
         "name": "Спекотна вишня",
         "price_large": 90,
+        "short_name": "AA31"
+      },
+      {
+        "description": "самбука,лікер бейліз,абсент,гренадін",
+        "large_portion_name": "55мл.",
+        "name": "Хіросіма шот",
+        "price_large": 115,
         "short_name": "AA31"
       }
     ]

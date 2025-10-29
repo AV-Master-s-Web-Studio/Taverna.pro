@@ -10,8 +10,8 @@
       "description": "",
       "large_portion_name": "500мл.",
       "name": "Козацька рада класична",
-      "price_large": 265,
-      "price_small": 24,
+      "price_large": 270,
+      "price_small": 27,
       "short_name": "BA1",
       "small_portion_name": "50мл."
     },
@@ -19,8 +19,8 @@
       "description": "",
       "large_portion_name": "500мл.",
       "name": "Настоянка Козацька рада перцева",
-      "price_large": 240,
-      "price_small": 24,
+      "price_large": 270,
+      "price_small": 27,
       "short_name": "BA2",
       "small_portion_name": "50мл."
     },
@@ -28,8 +28,8 @@
       "description": "",
       "large_portion_name": "500мл.",
       "name": "Настоянка Козацька рада Зубровка",
-      "price_large": 240,
-      "price_small": 24,
+      "price_large": 270,
+      "price_small": 27,
       "short_name": "BA3",
       "small_portion_name": "50мл."
     },
@@ -55,30 +55,30 @@
       "description": "",
       "large_portion_name": "700мл.",
       "name": "Finlandia",
-      "price_large":750,
-      "price_small":560,
+      "price_large":780,
+      "price_small":590,
       "short_name": "BA6",
       "small_portion_name": "500мл."
     },
     {
       "description": "",
-      "large_portion_name": "700мл.",
-      "name": "BJM",
-      "price_large":520,
-      "short_name": "BA7"
-    },
-    {
-      "description": "",
       "name": "Коskenkorva",
-      "price_small":620,
+      "price_small":650,
       "short_name": "BA8",
       "small_portion_name": "500мл."
     },
     {
       "description": "",
       "name": "Nikita",
-      "price_small":290,
+      "price_small":320,
       "short_name": "BA9",
+      "small_portion_name": "500мл."
+    },
+    {
+      "description": "",
+      "name": "Коskenkorva Mintu",
+      "price_small":700,
+      "short_name": "BA8",
       "small_portion_name": "500мл."
     }
   ]

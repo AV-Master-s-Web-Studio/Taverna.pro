@@ -10,8 +10,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Sambuca Antica Classic",
-      "price_large": 100,
-      "price_small": 50,
+      "price_large": 130,
+      "price_small": 65,
       "short_name": "BI1",
       "small_portion_name": "50мл."
     },
@@ -19,8 +19,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Becherovka",
-      "price_large": 120,
-      "price_small": 60,
+      "price_large": 140,
+      "price_small": 70,
       "short_name": "BI2",
       "small_portion_name": "50мл."
     },
@@ -28,8 +28,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Jagermeister",
-      "price_large": 140,
-      "price_small": 70,
+      "price_large": 160,
+      "price_small": 80,
       "short_name": "BI3",
       "small_portion_name": "50мл."
     },
@@ -37,8 +37,8 @@
       "description": "",
       "large_portion_name": "100мл.",
       "name": "Baileys",
-      "price_large": 140,
-      "price_small": 70,
+      "price_large": 180,
+      "price_small": 90,
       "short_name": "BI4",
       "small_portion_name": "50мл."
     },
