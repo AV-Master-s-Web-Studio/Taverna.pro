@@ -28,6 +28,13 @@
       "name": "Нахабний фрукт",
       "price_large": 125,
       "short_name": "BS3"
-    }
+    },
+    {
+      "description": "",
+      "large_portion_name": "300мл.",
+      "name": "Чай червоний глінтвейн",
+      "price_large": 85,
+      "short_name": "BS4"
+    }  
   ]
 }
