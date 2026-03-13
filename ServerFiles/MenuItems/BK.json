@@ -11,7 +11,7 @@
       "large_portion_name": "750мл.",
       "name": "Коблево Стефанія",
       "price_large": 315,
-      "price_small": 60,
+      "price_small": 63,
       "short_name": "BK1",
       "small_portion_name": "150мл."
     },
@@ -51,11 +51,11 @@
       "small_portion_name": "150мл."
     },
     {
-      "description": "Напівсолодке, Іспанія",
+      "description": "Десертне(солодке), Україна",
       "large_portion_name": "750мл.",
-      "name": "Terra Espaniola",
-      "price_large": 360,
-      "price_small": 72,
+      "name": "Muscat Royal(Королівський)",
+      "price_large": 345,
+      "price_small": 69,
       "short_name": "BK7",
       "small_portion_name": "150мл."
     },
@@ -69,11 +69,11 @@
       "small_portion_name": "150мл."
     },
     {
-      "description": "Напівсолодке, Іспанія",
+      "description": "Напівсухе,Португалія",
       "large_portion_name": "750мл.",
-      "name": "Baron Simon",
-      "price_large": 330,
-      "price_small": 66,
+      "name": "Azevinho Vinho Verde (Віньйо Верде)",
+      "price_large": 474,
+      "price_small": 95,
       "short_name": "BK9",
       "small_portion_name": "150мл."
     }, 
@@ -93,6 +93,15 @@
       "price_large": 465,
       "price_small": 93,
       "short_name": "BK11",
+      "small_portion_name": "150мл."
+    },
+    {
+      "description": "Напівсолодке, Франція",
+      "large_portion_name": "750мл.",
+      "name": "Vieux Papes",
+      "price_large": 390,
+      "price_small": 78,
+      "short_name": "BK12",
       "small_portion_name": "150мл."
     }           
                
