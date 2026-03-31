@@ -30,14 +30,14 @@
     {
       "description": "4 види сиру, мед, мигдалеві пластівці, сезонні фрукти",
       "name": "Сирна дошка",
-      "price_small": 220,
+      "price_small": 260,
       "short_name": "X4",
       "small_portion_name": "160/80/30г."
     },
     {
       "description": "Сир тенеро, паніровка, майонезно-часниковий соус",
       "name": "Сирні палички",
-      "price_small": 200,
+      "price_small": 210,
       "short_name": "X5",
       "small_portion_name": "200/30г."
     },
@@ -51,7 +51,7 @@
     {
       "description": "солодка паприка, цукіні, печериці, червона цибуля, баклажан, зелень",
       "name": "Овочі гриль",
-      "price_small": 300,
+      "price_small": 400,
       "short_name": "X7",
       "small_portion_name": "500г."
     },
@@ -114,7 +114,7 @@
     {
       "description": "печериці в хрускій паніровці",
       "name": "Печериці в сухарях",
-      "price_small": 210,
+      "price_small": 250,
       "short_name": "X16",
       "small_portion_name": "350г."
     },
