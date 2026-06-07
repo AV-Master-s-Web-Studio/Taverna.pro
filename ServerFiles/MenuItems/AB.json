@@ -10,84 +10,84 @@
         "description": "лимон, цукровий сироп, ягоди, м'ята, Спрайт",
         "large_portion_name": "300мл.",
         "name": "Мохіто ягідний",
-        "price_large": 65,
+        "price_large": 75,
         "short_name": "AB1"
       },
       {
         "description": "лимон, цукровий сироп, м'ята, Спрайт",
         "large_portion_name": "300мл.",
         "name": "Мохіто",
-        "price_large": 60,
+        "price_large": 70,
         "short_name": "AB2"
       },
       {
-        "description": "сік апельсиновий, ванільний сироп, лимонний фреш, полуниця, персик, лікер Grenadine",
-        "large_portion_name": "205мл.",
-        "name": "Джонсон джуніор",
-        "price_large": 75,
+        "description": "чорничний сироп,апельсиновий сік,спрайт,лимонний фреш",
+        "large_portion_name": "285мл.",
+        "name": "Чари Полісся",
+        "price_large": 70,
         "short_name": "AB3"
       },
       {
         "description": "соки: апельсиновий, персиковий; морс журавлини, лікер Grenadine, апельсин",
         "large_portion_name": "240мл.",
         "name": "Кекс на пляжі",
-        "price_large": 60,
+        "price_large": 70,
         "short_name": "AB4"
       },
       {
         "description": "імбирний сироп, лимонний фреш, цукровий сироп, лимон, м'ята, мінеральна вода",
         "large_portion_name": "240мл.",
         "name": "Імбирний лимонад",
-        "price_large": 50,
+        "price_large": 55,
         "short_name": "AB5"
       },
       {
         "description": "лимон, апельсин, цукровий сироп, ванільний сироп, мінеральна вода",
         "large_portion_name": "265мл.",
         "name": "Крем сода",
-        "price_large": 50,
+        "price_large": 60,
         "short_name": "AB6"
       },
       {
         "description": "сироп в асортименті, лимонний фреш, Спрайт, лимон, ягоди",
         "large_portion_name": "250мл.",
         "name": "Лимонадик",
-        "price_large": 55,
+        "price_large": 65,
         "short_name": "AB7"
       },
       {
-        "description": "сироп в асортименті, сік в асортименті, Спрайт",
-        "large_portion_name": "265мл.",
-        "name": "Веселка",
-        "price_large": 55,
+        "description": "кавуновий сироп,лимонний фреш,м'ята,мінеральна вода",
+        "large_portion_name": "300мл.",
+        "name": "Серпнева свіжість",
+        "price_large": 65,
         "short_name": "AB8"
       },
       {
-        "description": "сироп кокосовий, соки ананасовий, персиковий; морозиво, банан, вершки аеро",
-        "large_portion_name": "250мл.",
-        "name": "Тропікано",
-        "price_large": 80,
+        "description": "пюре манго,сироп маракуї,апельсиновий сік,мінеральна вода",
+        "large_portion_name": "300мл.",
+        "name": "Тропічна хвиля",
+        "price_large": 70,
         "short_name": "AB9"
       },
       {
         "description": "яблуко, банан, ківі, м'ята, петрушка, сік персиковий, мінеральна вода",
         "large_portion_name": "350мл.",
         "name": "Зелений смузі",
-        "price_large": 70,
+        "price_large": 80,
         "short_name": "AB10"
       },
       {
         "description": "банан, ягоди, молоко, цукровий сироп",
         "large_portion_name": "330мл.",
         "name": "Ягідний смузі",
-        "price_large": 80,
+        "price_large": 85,
         "short_name": "AB11"
       },
       {
         "description": "ванільний/шоколадний/карамельний/ягідний",
         "large_portion_name": "300мл.",
         "name": "Молочний коктейль",
-        "price_large": 75,
+        "price_large": 95,
         "short_name": "AB12"
       },
       {
@@ -108,8 +108,15 @@
         "description": "вершки, ананасовий сік, сироп кокосовий, коктейльна вишня",
         "large_portion_name": "200мл.",
         "name": "Піно-Kid`s",
-        "price_large": 55,
+        "price_large": 70,
         "short_name": "AB15"
+      },
+      {
+        "description": "Молочний коктейль зы смаком орео - справжня насолода",
+        "large_portion_name": "300мл.",
+        "name": "Орео Milkshake",
+        "price_large": 110,
+        "short_name": "AB16"
       }
     ]
 }

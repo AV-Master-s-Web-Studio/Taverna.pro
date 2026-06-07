@@ -40,6 +40,13 @@
       "price_small": 215,
       "short_name": "P5",
       "small_portion_name": "330г."
+    },
+    {
+      "description": "",
+      "name": "Червоні пельмені з телятиною",
+      "price_small": 140,
+      "short_name": "P6",
+      "small_portion_name": "200/40г."
     }
   ]
 }

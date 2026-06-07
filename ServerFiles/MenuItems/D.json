@@ -21,14 +21,14 @@
       "small_portion_name": "100/50г."
     },
     {
-      "description": "в наявності чергується кавовий та класичний чізкейк",
+      "description": "класичний чізкейк у шоколадній глазурі",
       "name": "Чізкейк",
       "price_small": 100,
       "short_name": "D3",
       "small_portion_name": "за 100г."
     },
     {
-      "description": "Морозиво в асортименті",
+      "description": "Морозиво в асортименті (шоколадне,полуничне,пломбір)",
       "name": "Морозиво",
       "price_small": 85,
       "short_name": "D4",
@@ -42,7 +42,7 @@
       "small_portion_name": "160г."
     },
     {
-      "description": "",
+      "description": "немає в наявності",
       "name": "Шоколадний Брауні з вишнею",
       "price_small": 100,
       "short_name": "D6",
