@@ -49,11 +49,11 @@
       "small_portion_name": "110г."
     },
     {
-      "description": "куряче стегно, мікс салатів, овочі",
+      "_description": "куряче стегно, мікс салатів, овочі",
       "_name": "Соковите куряче стегенце ",
-      "price_small": 160,
-      "short_name": "O7",
-      "small_portion_name": "200/70/30г."
+      "_price_small": 160,
+      "_short_name": "O7",
+      "_small_portion_name": "200/70/30г."
     },
     {
       "description": "курячі крильця під медово-гірчичним соусом",
