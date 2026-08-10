@@ -150,7 +150,6 @@
       "short_name": "BR17",
       "small_portion_name": ""
     },
-    
     {
       "description": "гарячий шоколад, молоко, кава, сироп в асортименті",
       "large_portion_name": "200мл.",
@@ -159,6 +158,24 @@
       "price_small": 0,
       "short_name": "BR18",
       "small_portion_name": ""
-    }    
+    },
+    {
+      "description": "ніжна кава на вершках солодкою ноткою ванілі",
+      "large_portion_name": "250мл.",
+      "name": "Раф",
+      "price_large": 85,
+      "price_small": 0,
+      "short_name": "BR19",
+      "small_portion_name": ""
+    },
+    {
+      "description": "насичена кава на основі подвійного еспресо з молочною пінкою",
+      "large_portion_name": "280мл.",
+      "name": "Флет Вайт",
+      "price_large": 85,
+      "price_small": 0,
+      "short_name": "BR20",
+      "small_portion_name": ""   
+    } 
   ]
 }
