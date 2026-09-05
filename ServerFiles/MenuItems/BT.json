@@ -9,9 +9,9 @@
 
     {
       "description": "сироп, сік в асортименті, кава, лід",
-      "large_portion_name": "300мл.",
+      "large_portion_name": "350мл.",
       "name": "Бамбл-coffee",
-      "price_large": 70,
+      "price_large": 75,
       "price_small": 0,
       "short_name": "BT1",
       "small_portion_name": ""
@@ -38,7 +38,7 @@
       "description": "кава, молоко, сироп в асортименті,морозиво",
       "large_portion_name": "200мл.",
       "name": "Фісташковий ice-cream Latte",
-      "price_large": 65,
+      "price_large": 85,
       "price_small": 0,
       "short_name": "BT4",
       "small_portion_name": ""
