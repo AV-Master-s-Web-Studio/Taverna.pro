@@ -10,8 +10,8 @@
       "description": "",
       "large_portion_name": "1л",
       "name": "Узвар",
-      "price_large": 70,
-      "price_small": 17.5,
+      "price_large": 80,
+      "price_small": 20,
       "short_name": "BQ1",
       "small_portion_name": "250мл."
     },
@@ -28,8 +28,8 @@
       "description": "",
       "large_portion_name": "1000мл.",
       "name": "Фанта",
-      "price_large": 70,
-      "price_small": 35,
+      "price_large": 80,
+      "price_small": 40,
       "short_name": "BQ3",
       "small_portion_name": "500мл."
     },
@@ -37,8 +37,8 @@
       "description": "в асортименті",
       "large_portion_name": "1л.",
       "name": "Сік Rich",
-      "price_large": 152,
-      "price_small": 38,
+      "price_large": 168,
+      "price_small": 42,
       "short_name": "BQ4",
       "small_portion_name": "250мл."
     },
@@ -60,8 +60,8 @@
       "description": "",
       "large_portion_name": "1л.",
       "name": "Сітро",
-      "price_large": 75,
-      "price_small": 18.75,
+      "price_large": 96,
+      "price_small": 24,
       "short_name": "BQ7",
       "small_portion_name": "250мл."
     },
@@ -69,8 +69,8 @@
       "description": "",
       "large_portion_name": "1000мл.",
       "name": "Кока-Кола",
-      "price_large": 70,
-      "price_small": 35,
+      "price_large": 100,
+      "price_small": 50,
       "short_name": "BQ8",
       "small_portion_name": "500мл."
     },
@@ -78,7 +78,7 @@
       "description": "Кока-Кола, Фанта, Спрайт у скляних пляшках",
       "large_portion_name": "250мл.",
       "name": "Кока-Кола у пляшках",
-      "price_large": 50,
+      "price_large": 55,
       "price_small": 0,
       "short_name": "BQ9",
       "small_portion_name": ""
