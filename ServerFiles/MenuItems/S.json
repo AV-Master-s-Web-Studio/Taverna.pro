@@ -9,14 +9,14 @@
     {
       "description": "Ковбаски, шинка, цибуля, сметана",
       "name": "Солянка",
-      "price_small": 90,
+      "price_small": 95,
       "short_name": "S1",
       "small_portion_name": "300/30г."
     },
     {
-      "description": "Курячий бульйон",
+      "description": "Курячий бульйон з куркою,спагетті,перепелине яйце,зелень",
       "name": "Бульйон з курки",
-      "price_small": 65,
+      "price_small": 75,
       "short_name": "S2",
       "small_portion_name": "300г."
     },
@@ -35,7 +35,7 @@
       "small_portion_name": "250г."
     },
     {
-      "description": "мінеральна вода, яйця, свіжі овочі, шинка, сметана, гірчиця зерниста",
+      "description": "сезонна страва",
       "name": "Окрошка",
       "price_small": 125,
       "short_name": "S5",
@@ -44,7 +44,7 @@
     {
       "description": "Борщ червоний з реберцем та сметаною",
       "name": "Борщ український з реберцем",
-      "price_small": 90,
+      "price_small": 110,
       "short_name": "S7",
       "small_portion_name": "300/30/70г."
     }
