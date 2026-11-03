@@ -9,14 +9,14 @@
     {
       "description": "Ковбаски, шинка, цибуля, сметана",
       "name": "Солянка",
-      "price_small": 95,
+      "price_small": 135,
       "short_name": "S1",
       "small_portion_name": "300/30г."
     },
     {
       "description": "Курячий бульйон з куркою,спагетті,перепелине яйце,зелень",
       "name": "Бульйон з курки",
-      "price_small": 75,
+      "price_small": 90,
       "short_name": "S2",
       "small_portion_name": "300г."
     },
@@ -30,7 +30,7 @@
     {
       "description": "Крем-суп сирний",
       "name": "Крем-суп сирний",
-      "price_small": 135,
+      "price_small": 150,
       "short_name": "S4",
       "small_portion_name": "250г."
     },
@@ -44,7 +44,7 @@
     {
       "description": "Борщ червоний з реберцем та сметаною",
       "name": "Борщ український з реберцем",
-      "price_small": 110,
+      "price_small": 135,
       "short_name": "S7",
       "small_portion_name": "300/30/70г."
     },
