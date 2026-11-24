@@ -23,7 +23,7 @@
     {
       "description": "оселедець с/с, цибуля, зелень,картопля",
       "name": "Оселедець з картоплею по-селянськи",
-      "price_small": 130,
+      "price_small": 150,
       "short_name": "X3",
       "small_portion_name": "170/120г."
     },
@@ -77,11 +77,11 @@
       "small_portion_name": "300г."
     },
     {
-      "description": "бекон, підчеревина, сальце свіже, сало мелене з часником, гірчиця",
+      "description": "бекон, підчеревина, сальце свіже, цибуля,хрін, гірчиця",
       "name": "Сальце під горілочку",
       "price_small": 155,
       "short_name": "X11",
-      "small_portion_name": "170/90/30г."
+      "small_portion_name": "170/50/30/30г."
     },
     {
       "description": "лаваш, овочі, курка, соус, картопля фрі",
@@ -128,7 +128,7 @@
     {
       "description": "",
       "name": "Креветки Панко з соусом тар-тар",
-      "price_small": 220,
+      "price_small": 280,
       "short_name": "X18",
       "small_portion_name": "200/50г."
     }
